@@ -1,0 +1,59 @@
+PERGUNTA: como descrever soft secondary types no guia?
+
+CARACTERIZAÇÃO + CONFLITOS + MATERIAIS
+
+OPÇÃO 1: Vantagens e desvantagens de escrever [MusKingian] ou [Sheepian] e definir [Sheepian] = cartas que fundem com Mystical Sheep #2 para dar Mystical Sheep #1
+- mais um tipo para listar
+- difícil de entender numa primeira leitura
+- a CARACTERIZAÇÃO pode ficar mais complicada
+
+
+OPÇÃO 2: Vantagens e desvantagens de escrever [MusKingian] ou [Sheepian] e definir [Sheepian] = [FiendOrGS1Moon]:
+- mais um tipo para listar
+- difícil de entender numa primeira leitura
+- mais CONFLITOS
+- na seção que lista os tipos de cada monstro, não ficaria imediato se o monstro vai fundir em Mystical Sheep #1 ou não
+
+
+OPÇÃO 3: Vantagens e desvantagens de escrever [GS1Sun] \ [Elf] \ [Dragon] \ {Ray & Temperature, Holograh} \ [Zombie] e [FiendOrGS1Moon]
+- MATERIAIS mais complicados
+- na seção que lista os tipos de cada monstro, não ficaria imediato se o monstro vai fundir em Mystical Sheep #1 ou não
+- mais conflitos
+
+col1: card name
+col2: primary type
+col3: secondary types
+
+hard secondary types:
+[AngelWinged] 
+[FeatherFromBear] 
+[FeatherFromHarpie]
+[FeatherFromMachine]
+[Female]
+[Pyro]
+[UsableBeast]
+
+soft secondary types:
+usar opção 1:
+
+[MercuryMagicUser]  (usei opção 1, opção 2 inviável)
+[MercurySpellcaster]  (usei opção 1, opção 2 viável)
+[Dragon]  (usei opção 1)
+[Elf]  (usei opção 1)
+[Jar]  (usei opção 1)
+[MusKingian]  (usei opção 1)
+[MystElfian]  (usei opçAo 1)
+
+
+[Koumorian]  (usei opção 3)
+[Sheepian]  (usei opção 3)
+[Thronian]  (usei opção 3)
+
+usar opção 2:
+[Bugrothian]  (usei opção 3)
+[Egg]  (usei opção 2)
+[Mirror]  (usei opção 2)
+[Rainbow]  (usei opcao 2)
+[Turtle]  (usei opcao 2)
+
+usar opção 3:

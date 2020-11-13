@@ -1,0 +1,4542 @@
+Yu-Gi-Oh Forbidden Memories
+Fusion Guide by
+Marcelo Silvarolla <marceloYFM@gmail.com>
+
+Copyright 2020 Marcelo Silvarolla
+This may not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+web site or as a part of any public display is strictly prohibited, and a
+violation of copyright.
+
+=================
+Table of Contents
+=================
+
+1. How to read this FAQ
+1.1 How to read fusion rules
+1.2 Exceptions to the fusion rules attack requirement
+1.3 How to read conflicts in detail
+1.4 Exceptional conflicts in detail
+2. How this FAQ was made
+3. General fusion rules and their conflicts
+4. Exact fusion rules
+5. Conflicts in detail
+6. Card types
+7. Secondary card types by card
+
+=======================
+1. How to read this FAQ
+=======================
+
+============================
+1.1 How to read fusion rules
+============================
+
+This FAQ contains all 50242 fusions in the game. Rather than listing them
+individually, we take the same approach as DBirtolo and Kingtut1's fusion FAQ 
+and abstract sets of fusions into general rules. The most important difference 
+is we also show how to resolve conflicts between rules. Here's an example:
+
+[Female] + [Fish]         = Ice Water (1150/900 Npt/Mon)
+                            < Wow Warrior (1250/900 Npt/Mrs),
+                              Tatsunootoshigo (1350/1600 Npt/Mrc)
+                          = Enchanting Mermaid (1200/900 Npt/Vns)
+                          = Amazon of the Seas (1300/1400 Npt/Mrs)
+                            < Wow Warrior (1250/900 Npt/Mrs),
+                              Tatsunootoshigo (1350/1600 Npt/Mrc),
+                              Dark Witch (1800/1700 Sun/Npt),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+
+Note that each card is followed by the card's attack points, defense points and 
+guardian stars between parentheses.
+
+If we ignore cards that aren't preceded by an equals sign, the above rule states
+that by combining any female card MATERIAL1 with any fish card MATERIAL2 we get
+- Ice Water if both MATERIAL1 and MATERIAL2 have strictly less than 1150 attack
+points,
+- Enchanting Mermaid if both MATERIAL1 and MATERIAL2 have strictly less than
+1200 attack points and at least one of them has at least 1150 attack points,
+- Amazon of the Seas if both MATERIAL1 and MATERIAL2 have strictly less than
+1300 attack points and at least one of them has at least 1200 attack points.
+
+Each of the remaining cards takes precedence over the equals-sign-preceded card
+above it:
+- a pair of cards that would fuse and become Ice Water will become instead Wow
+Warrior or Tatsunootoshigo if the pair satisfies a fusion rule for one of these
+two cards;
+- a pair of cards that would fuse and become Amazon of the Seas will become
+instead Wow Warrior, Tatsunootoshigo, Dark Witch or Queen of Autumn Leaves if
+the pair satisfies a fusion rule for one of these four cards. 
+
+You might be wondering what a female card is. While some general rules can be
+described with in-game card types, henceforth called primary types, like 
+
+[Aqua] + [Thunder]        = Bolt Escargot (1400/1500 Plt/Jpt)
+
+others require the introduction of new types of card, called secondary types.
+These secondary types, including the female secondary type, are all defined in
+section 6 of this guide. Note that, sometimes, you'll see set-theoretic notation
+used. The only cases where this happens are 
+
+{Clown Zombie, Crass Clown}
+{Harpie Lady, Harpie Lady Sisters}
+{Hibikime, Sonic Maid}
+{Kappa Avenger, Psychic Kappa}
+
+Here, for instance, {Clown Zombie, Crass Clown} denotes the set of cards formed
+by Clown Zombie and Crass Clown.
+
+=====================================================
+1.2 Exceptions to the fusion rules attack requirement
+=====================================================
+
+As seen in the previous section, in order for two cards to fuse to a third,
+the first two cards must have an attack level strictly below the third's.
+There are exceptions to this requirement and they are
+- fusion rules in which the result has 0 attack points (namely, Cocoon of 
+Evolution, equip, magic, trap and ritual cards) and
+- the following exact fusions:
+
+Zanki                    + Warrior Elimination      = Armored Zombie
+Battle Ox                + Dragon Statue            = Baby Dragon
+Dragon Piper             + Orion the Battle King    = Baby Dragon
+Monster Egg              + The Wicked Worm Beast    = Baby Dragon
+Cyber Shield             + Monster Tamer            = Beautiful Beast Trainer
+Crass Clown              + Final Flame              = Clown Zombie
+Crawling Dragon          + Dragon Capture Jar       = Dragon Zombie
+Jirai Gumo               + Metalmorph               = Launcher Spider
+Koumori Dragon           + Saggi the Dark Clown     = Reaper of the Cards
+Clown Zombie             + Kojikocy                 = The 13th Grave
+Dream Clown              + Mysterious Puppeteer     = The 13th Grave
+Ancient Jar              + Fiend Sword              = Tiger Axe
+Gyakutenno Megami        + Weather Control          = Witty Phantom
+Armored Zombie           + Wood Clown               = Witty Phantom
+
+For all other fusions, both materials have strictly less attack points than the
+resulting card.
+
+===================================
+1.3 How to read conflicts in detail
+===================================
+
+In section 5 of this FAQ, we list every possible pair of materials that would
+fuse to a given card, but end up yielding a card that conflicts with it. For
+example:
+
+[Female]                  + [Fish] = Amazon of the Seas
+[Warrior]                 + [Fish] < Wow Warrior
+Princess of Tsurugi         Enchanting Mermaid
+Protector of the Throne     Root Water
+Queen's Double              White Dolphin
+Sonic Maid                  
+Vishwar Randi       
+
+The above conflict in detail says that if Princess of Tsurugi, Protector of the
+Throne, Queen's Double, Sonic Maid or Viswar Randi would fuse with either
+Enchanting Mermaid, Root Water or White Dolphin to
+become Amazon of the Seas because of the rule [Female] + [Fish] = Amazon of the
+Seas, then the fusion will instead result in Wow Warrior because of the
+conflicting rule [Warrior] + [Fish] = Wow Warrior, that takes precedence. In
+fact, more can be said: even if the fusion wouldn't result in Amazon of the
+Seas (like in the case of Vishwar Randi and Root Water, that would fuse to Ice
+Water since they have 900 < 1150 attack points), the fusion will still result in
+Wow Warrior.
+
+===================================
+1.4 Exceptional conflicts in detail
+===================================
+
+These are 2 conflicts in detail where a sibling of the conflict may be produced
+by the fusion instead of the conflict itself. Two cards are siblings if they
+appear preceded by an equals sign in the same fusion rule, like Ice Water,
+Enchanting Mermaid and Amazon of the Seas. In those exceptional conflicts in
+detail, it is indicated explictly that a sibling may be produced instead. Simply
+hit Ctrl-F and type 'or sibling' and you'll see the 2 cases I mentioned.
+
+========================
+2. How this FAQ was made
+========================
+
+In his RNG manipulation tutorial on YouTube, speedrunner GFC gives a link to
+GenericMadScientist's RNG Manipulation Script Dropbox folder. Alongside the
+actual script, that folder provides two databases with information about
+cards, fusions, drop rates and much more: FmDatabase.db and FmDatabaseWithGS.db.
+
+When I saw those databases, I had the idea of using them to complete DBirtolo
+and Kingtut1's fusion FAQ. That's what I did. Here are the steps I took:
+- I created my own database compiling all data from both databases above. I used
+the DB Browser for SQLite (https://sqlitebrowser.org/) and some SQL code I wrote
+for that.
+- I copied the fusion rules from DBirtolo and Kingtut1's fusion FAQ into a text
+file called fusions.txt, making minor changes
+- I used a Python script with the module sqlite3 to add all missing fusions
+to fusions.txt. I was able to (manually) abstract some sets of rules into
+general rules by creating new secondary types.
+- I manually wrote SQL code to determine fusion conflicts and manually added
+them to fusions.txt. (I later regretted not having automated this step.)
+- I wrote a Python script to check that the conflict graph didn't have cycles.
+The conflict graph is the graph whose vertices are the cards that can be
+produced by fusions and such that there is an arc from card_B to card_A if and
+only if card_A < card_B, that is, there is a fusion rule where card_B appears as
+a conflict for card_A.
+- I wrote a Python script that produced a topological ordering of the conflict
+graph's vertices and programmatically created a big SQL file that generated a
+big table with all predicted fusions according to the rules. The topological
+ordering was necessary because, if card_A < card_B, then the predicted fusions
+for card_B have to be generated before the predicted fusions for card_A.
+- I wrote some SQL code to verify that the predicted fusions were the same
+as the actual fusions in the game and saw success.
+- I wrote a Python script to produce all the conflicts in detail and
+verify that the materials listed would always produce the shown conflict or
+some sibling.
+- I wrote a Python script to produce all types and then manually edited in
+high-level definitions for the types
+- Finally, I wrote a Python script to produce all secondary types by card
+
+The main improvements of this guide relative to DBirtolo and Kingtut1's are
+- completeness: this guide has all fusions and also shows how to resolve
+each conflict;
+- programmatic validation: all the information in this guide has either been
+verified or generated by a computer;
+- introduction of definitions for some secondary types that don't require the
+reader to memorize lists of cards:
+  - Bugrothians (previously incompletely referred to as Aqua), Koumorians
+  (previosly referred to as Special-Bs), Sheepians (previously incompletely
+  referred to as Fiend or Zombie) and Thronians (previously not defined),
+  which are now defined in terms of their primary type and first guardian star;
+  - MystElfians (previously referred to as Special-Cs), MercuryMagicUsers and
+  MercurySpellcasters, which are now defined in terms of their first guardian
+  star and
+  - MusKingians (previously incompletely described as Fairies), which are now
+  defined in terms of their primary type and whether they are Elves.
+
+===========================================
+3. General fusion rules and their conflicts
+===========================================
+
+[AngelWinged] + [Beast]   = Garvas (2000/1700 Jpt/Plt Beast | UsableBeast)
+                            < Mystical Sheep #1 (1150/900 Vns/Stn),
+                              Mon Larvas (1300/1400 Jpt/Mrc),
+                              Winged Egg of New Life (1400/1700 Sun/Mrs),
+                              Dark Witch (1800/1700 Sun/Npt),
+                              Nekogal #2 (1900/2000 Jpt/Urn)
+
+[AngelWinged] + [Egg]     = Winged Egg of New Life (1400/1700 Sun/Mrs Fairy | AngelWinged Egg FeatherFromMachine MusKingian)
+                            < Mystical Elf (800/2000 Sun/Jpt),
+                              Tiger Axe (1300/1100 Jpt/Npt),
+                              Celtic Guardian (1400/1200 Sun/Urn),
+                              Dark Witch (1800/1700 Sun/Npt),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+[Aqua] + [Dragon]         = Spike Seadra (1600/1300 Plt/Mrc Sea Serpent | Dragon)
+                          = Kairyu-shin (1800/1500 Npt/Mrs Sea Serpent | Dragon)
+                            < Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Aqua] + [Thunder]        = Bolt Escargot (1400/1500 Plt/Jpt Thunder)
+
+[Aqua] + {Kappa Avenger, Psychic Kappa}
+                          = Hyosube (1500/900 Npt/Vns Aqua | Bugrothian)
+
+[Beast] + Larvas          = Mon Larvas (1300/1400 Jpt/Mrc Beast) 
+
+[Beast] + [AngelWinged]   = Garvas (2000/1700 Jpt/Plt Beast | UsableBeast)
+                            < Mystical Sheep #1 (1150/900 Vns/Stn),
+                              Mon Larvas (1300/1400 Jpt/Mrc),
+                              Winged Egg of New Life (1400/1700 Sun/Mrs),
+                              Dark Witch (1800/1700 Sun/Npt),
+                              Nekogal #2 (1900/2000 Jpt/Urn)
+
+[Beast] + [Fish]          = Tatsunootoshigo (1350/1600 Npt/Mrc Beast | Bugrothian)
+                            < Nekogal #2 (1900/2000 Jpt/Urn)
+                          = Rare Fish (1500/1200 Npt/Jpt) (Fish)
+                          = Marine Beast (1700/1600 Npt/Mrc) (Fish | Bugrothian)
+                            < Nekogal #2 (1900/2000 Jpt/Urn)
+
+[Beast] + [Thunder]       = Tripwire Beast (1200/1300 Plt/Stn Thunder) 
+
+[Beast] + [Turtle]        = Turtle Tiger (1000/1500 Npt/Stn Aqua | Bugrothian Turtle)
+
+[Beast] + [Zombie]        = Shadow Specter (500/200 Mon/Stn Zombie | Sheepian)
+
+[Bugrothian] + Ground Attacker Bugroth
+                          = Amphibious Bugroth (1850/1300 Npt/Sun Aqua)
+
+[Dinosaur] + [Machine]    = Cyber Saurus (1800/1400 Urn/Sun Machine)
+
+[Dragon] + Harpie Lady    = Harpie's Pet Dragon (2000/2500 Stn/Mon Dragon | Dragon)
+
+[Dragon] + Time Wizard    = Thousand Dragon (2400/2000 Mrs/Mrc Dragon | Dragon)
+
+[Dragon] + [Aqua]         = Spike Seadra (1600/1300 Plt/Mrc Sea Serpent | Dragon)
+                          = Kairyu-shin (1800/1500 Npt/Mrs Sea Serpent | Dragon)
+                            < Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Dragon] + [Koumorian]    = Koumori Dragon (1500/1200 Mon/Jpt Dragon | Dragon)
+                            < Dragoness the Wicked Knight (1200/900 Stn/Mrc),
+                              D. Human (1300/1100 Urn/Mrs),
+                              Tiger Axe (1300/1100 Jpt/Npt)
+
+[Dragon] + [Machine]      = Metal Dragon (1850/1700 Mrs/Mon Machine | Dragon Pyro)
+                            < Cyber Soldier (1500/1700 Mon/Mrs),
+                              Cyber Saurus (1800/1400 Urn/Sun),
+                              Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Dragon] + [MercuryMagicUser]
+                          = Blackland Fire Dragon (1500/800 Mrc/Mon Dragon | Dragon MercuryMagicUser)
+                            < Dragon Zombie (1600/0 Mon/Plt),
+                              Dragon Statue (1100/900 Urn/Mrs),
+                              Dragoness the Wicked Knight (1200/900 Stn/Mrc),
+                              D. Human (1300/1100 Urn/Mrs),
+                              Sword Arm of Dragon (1750/2030 Urn/Mon)
+
+[Dragon] + [Plant]        = B. Dragon Jungle King (2100/1800 Jpt/Npt Dragon | Dragon)
+                            < Bean Soldier (1400/1300 Jpt/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Pumpking the King of Ghosts (1800/2000 Jpt/Npt)
+
+[Dragon] + [Rock]         = Stone D. (2000/2300 Urn/Mrs Rock | Dragon)
+                            < Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Dragon] + [Thunder]      = Thunder Dragon (1600/1500 Plt/Jpt Thunder | Dragon)
+                          = Twin-headed Thunder Dragon (2800/2100 Plt/Mon Thunder)
+                            < Skelgon (1700/1900 Mon/Plt),
+                              Sword Arm of Dragon (1750/2030 Urn/Mon)
+
+[Dragon] + [Turtle]       = Sea King Dragon (2000/1700 Npt/Mrc Sea Serpent | Dragon)
+                            < Spike Seadra (1600/1300 Plt/Mrc),
+                              Kairyu-shin (1800/1500 Npt/Mrs)
+
+[Dragon] + [Warrior]      = Dragon Statue (1100/900 Urn/Mrs Warrior | Dragon)
+                          = Dragoness the Wicked Knight (1200/900 Stn/Mrc Warrior)
+                            < Flame Swordsman (1800/1600 Mrs/Sun)
+                          = D. Human (1300/1100 Urn/Mrs Warrior)
+                          = Sword Arm of Dragon (1750/2030 Urn/Mon Dinosaur | Dragon)
+                            < Skelgon (1700/1900 Mon/Plt),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+[Dragon] + [Zombie]       = Dragon Zombie (1600/0 Mon/Plt Zombie | Dragon)
+                          = Skelgon (1700/1900 Mon/Plt Zombie | Dragon)
+                          = Curse of Dragon (2000/1500 Stn/Plt Dragon | Dragon)
+                            < Sword Arm of Dragon (1750/2030 Urn/Mon),
+                              Twin-headed Thunder Dragon (2800/2100 Plt/Mon)
+
+[Egg] + [AngelWinged]     = Winged Egg of New Life (1400/1700 Sun/Mrs Fairy | AngelWinged Egg FeatherFromMachine MusKingian)
+                            < Mystical Elf (800/2000 Sun/Jpt),
+                              Tiger Axe (1300/1100 Jpt/Npt),
+                              Celtic Guardian (1400/1200 Sun/Urn),
+                              Dark Witch (1800/1700 Sun/Npt),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+[Elf] + [MercuryMagicUser]= Dark Elf (2000/800 Mrc/Jpt Spellcaster | Female MercuryMagicUser MercurySpellcaster)
+
+[Elf] + [MystElfian]      = Mystical Elf (800/2000 Sun/Jpt Spellcaster | Elf Female)
+
+[Elf] + [Warrior]         = Celtic Guardian (1400/1200 Sun/Urn Warrior | Elf)
+                            < Dark Elf (2000/800 Mrc/Jpt)
+
+[Fairy] + [Female]        = Dark Witch (1800/1700 Sun/Npt Fairy | AngelWinged FeatherFromMachine Female)
+                            < Mystical Elf (800/2000 Sun/Jpt),
+                              Celtic Guardian (1400/1200 Sun/Urn),
+                              Musician King (1750/1500 Sun/Mrs),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+[FeatherFromBear] + Bear Trap
+                          = Harpie's Feather Duster (0/0 NUL/NUL)
+
+[FeatherFromHarpie] + {Harpie Lady, Harpie Lady Sisters}
+                          = Harpie's Feather Duster (0/0 NUL/NUL)
+
+[FeatherFromMachine] + Machine Conversion Factory
+                          = Harpie's Feather Duster (0/0 NUL/NUL)
+
+[Female] + [Fairy]        = Dark Witch (1800/1700 Sun/Npt Fairy | AngelWinged FeatherFromMachine Female)
+                            < Mystical Elf (800/2000 Sun/Jpt),
+                              Celtic Guardian (1400/1200 Sun/Urn),
+                              Musician King (1750/1500 Sun/Mrs),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+[Female] + [Fish]         = Ice Water (1150/900 Npt/Mon Aqua | Bugrothian Female)
+                            < Wow Warrior (1250/900 Npt/Mrs),
+                              Tatsunootoshigo (1350/1600 Npt/Mrc)
+                          = Enchanting Mermaid (1200/900 Npt/Vns Fish | Female)
+                          = Amazon of the Seas (1300/1400 Npt/Mrs Fish | Female)
+                            < Wow Warrior (1250/900 Npt/Mrs),
+                              Tatsunootoshigo (1350/1600 Npt/Mrc),
+                              Dark Witch (1800/1700 Sun/Npt),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+
+[Female] + [Plant]        = Queen of Autumn Leaves (1800/1500 Jpt/Mon Plant | Female)
+
+[Female] + [Rock]         = Mystical Sand (2100/1700 Mrc/Stn Rock)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              B. Dragon Jungle King (2100/1800 Jpt/Npt)
+
+[Female] + [UsableBeast]  = Nekogal #2 (1900/2000 Jpt/Urn Beast-Warrior | Female)
+
+[Fiend] + Arlownay        = Rose Spectre of Dunn (2000/1800 Mon/Jpt Plant | Female)
+                            < Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+
+[Fiend] + Fungi of the Musk
+                          = Darkworld Thorns (1200/900 Mon/Jpt Plant)
+
+[Fiend] + Job-change Mirror
+                          = Summoned Skull (2500/1200 Mon/Plt Fiend)
+                            < Darkworld Thorns (1200/900 Mon/Jpt)
+
+[Fiend] + Psychic Kappa   = Kappa Avenger (1200/900 Npt/Vns Aqua | Bugrothian)
+
+[Fish] + [Beast]          = Tatsunootoshigo (1350/1600 Npt/Mrc Beast | Bugrothian)
+                            < Nekogal #2 (1900/2000 Jpt/Urn)
+                          = Rare Fish (1500/1200 Npt/Jpt Fish)
+                          = Marine Beast (1700/1600 Npt/Mrc Fish | Bugrothian)
+                            < Nekogal #2 (1900/2000 Jpt/Urn)
+
+[Fish] + [Female]         = Ice Water (1150/900 Npt/Mon Aqua | Bugrothian Female)
+                            < Wow Warrior (1250/900 Npt/Mrs),
+                              Tatsunootoshigo (1350/1600 Npt/Mrc)
+                          = Enchanting Mermaid (1200/900 Npt/Vns Fish | Female)
+                          = Amazon of the Seas (1300/1400 Npt/Mrs Fish | Female)
+                            < Wow Warrior (1250/900 Npt/Mrs),
+                              Tatsunootoshigo (1350/1600 Npt/Mrc),
+                              Dark Witch (1800/1700 Sun/Npt),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+
+[Fish] + [Machine]        = Misairuzame (1400/1600 Npt/Sun Fish)
+                          = Metal Fish (1600/1900 Npt/Stn Machine | Bugrothian)
+
+[Fish] + [Rainbow]        = 7 Colored Fish (1800/800 Npt/Sun Fish | Bugrothian)
+                            < Queen of Autumn Leaves (1800/1500 Jpt/Mon),
+                              Dark Witch (1800/1700 Sun/Npt)
+
+[Fish] + [Warrior]        = Wow Warrior (1250/900 Npt/Mrs Fish)
+
+[Fish] + [Zombie]         = Corroding Shark (1100/700 Mon/Plt Zombie | Sheepian)
+
+[Insect] + Kuwagata a     = Kwagar Hercules (1900/1700 Jpt/Sun Insect)
+
+[Insect] + [Warrior]      = Cockroach Knight (800/900 Jpt/Vns Insect)
+
+[Jar] + [MercurySpellcaster]
+                          = Ushi Oni (2150/1950 Jpt/Vns Fiend)
+                            < Mystical Sand (2100/1700 Mrc/Stn)
+
+[Koumorian] + [Dragon]    = Koumori Dragon (1500/1200 Mon/Jpt Dragon | Dragon)
+                            < Dragoness the Wicked Knight (1200/900 Stn/Mrc),
+                              D. Human (1300/1100 Urn/Mrs),
+                              Tiger Axe (1300/1100 Jpt/Npt)
+
+[Machine] + [Dinosaur]    = Cyber Saurus (1800/1400 Urn/Sun Machine)
+
+[Machine] + [Dragon]      = Metal Dragon (1850/1700 Mrs/Mon Machine | Dragon Pyro)
+                            < Cyber Soldier (1500/1700 Mon/Mrs),
+                              Cyber Saurus (1800/1400 Urn/Sun),
+                              Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Machine] + [Fish]        = Misairuzame (1400/1600 Npt/Sun Fish)
+                          = Metal Fish (1600/1900 Npt/Stn Machine | Bugrothian)
+
+[Machine] + [MercurySpellcaster]
+                          = Disk Magician (1350/1000 Mon/Urn Machine)
+
+[Machine] + [UsableBeast] = Giga-tech Wolf (1200/1400 Jpt/Urn Machine)
+                            < Flame Cerebrus (2100/1800 Mrs/Plt)
+                          = Dice Armadillo (1650/1800 Jpt/Plt Machine)
+                            < Flame Cerebrus (2100/1800 Mrs/Plt)
+
+[Machine] + [Warrior]     = Cyber Soldier (1500/1700 Mon/Mrs Machine)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun)
+
+[MercuryMagicUser] + [Dragon]
+                          = Blackland Fire Dragon (1500/800 Mrc/Mon Dragon | Dragon MercuryMagicUser)
+                            < Dragon Zombie (1600/0 Mon/Plt),
+                              Dragon Statue (1100/900 Urn/Mrs),
+                              Dragoness the Wicked Knight (1200/900 Stn/Mrc),
+                              D. Human (1300/1100 Urn/Mrs),
+                              Sword Arm of Dragon (1750/2030 Urn/Mon)
+
+[MercuryMagicUser] + [Elf]= Dark Elf (2000/800 Mrc/Jpt Spellcaster | Female MercuryMagicUser MercurySpellcaster)
+
+[MercurySpellcaster] + Ryu-kishin
+                          = Ryu-kishin Powered (1600/1200 Mon/Jpt Fiend)
+
+[MercurySpellcaster] + [Jar]
+                          = Ushi Oni (2150/1950 Jpt/Vns Fiend)
+                            < Mystical Sand (2100/1700 Mrc/Stn)
+
+[MercurySpellcaster] + [Machine]
+                          = Disk Magician (1350/1000 Mon/Urn Machine)
+
+[Mirror] + [Winged Beast] = Fiend Refrection #1 (1300/1400 Vns/Jpt Winged Beast | Mirror)
+
+[MusKingian] + {Hibikime, Sonic Maid}
+                          = Musician King (1750/1500 Sun/Mrs Spellcaster)
+
+[MystElfian] + [Elf]      = Mystical Elf (800/2000 Sun/Jpt Spellcaster | Elf Female)
+
+[Plant] + [Dragon]        = B. Dragon Jungle King (2100/1800 Jpt/Npt Dragon | Dragon)
+                            < Bean Soldier (1400/1300 Jpt/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Pumpking the King of Ghosts (1800/2000 Jpt/Npt)
+
+[Plant] + [Female]        = Queen of Autumn Leaves (1800/1500 Jpt/Mon Plant | Female)
+
+[Plant] + [Pyro]          = Firegrass (700/600 Mrs/Mon Plant | Pyro)
+
+[Plant] + [Reptile]       = Snakeyashi (1000/1200 Jpt/Mrc Plant)
+
+[Plant] + [UsableBeast]   = Flower Wolf (1800/1400 Jpt/Sun Beast | UsableBeast)
+                            < Nekogal #2 (1900/2000 Jpt/Urn),
+                              Flame Cerebrus (2100/1800 Mrs/Plt)
+
+[Plant] + [Warrior]       = Bean Soldier (1400/1300 Jpt/Urn Plant)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+
+[Plant] + [Zombie]        = Wood Remains (1000/900 Jpt/Npt Zombie)
+                          = Pumpking the King of Ghosts (1800/2000 Jpt/Npt Zombie)
+
+[Pyro] + Fiend Kraken     = Fire Kraken (1600/1500 Mrs/Stn Aqua | Bugrothian Pyro)
+                            < Spike Seadra (1600/1300 Plt/Mrc)
+
+[Pyro] + [Plant]          = Firegrass (700/600 Mrs/Mon Plant | Pyro)
+
+[Pyro] + [Rock]           = Dissolverock (900/1000 Mrs/Vns Rock | Pyro)
+                            < Stone Ghost (1200/1000 Urn/Mrc),
+                              Minomushi Warrior (1300/1200 Urn/Vns)
+
+[Pyro] + [Turtle]         = Giant Turtle Who Feeds on Flames (1400/1800 Npt/Mrs Aqua | Bugrothian Turtle)
+                            < 30,000-Year White Turtle (1250/2100 Npt/Mon),
+                              Boulder Tortoise (1450/2200 Urn/Npt),
+                              Turtle Bird (1900/1700 Stn/Mrs)
+
+[Pyro] + [UsableBeast]    = Flame Cerebrus (2100/1800 Mrs/Plt Pyro)
+
+[Pyro] + [Warrior]        = Charubin the Fire Knight (1100/800 Mrs/Urn Pyro | Pyro)
+                            < Zombie Warrior (1200/900 Mon/Mrs),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+                          = Flame Swordsman (1800/1600 Mrs/Sun Warrior | Pyro)
+                            < Zombie Warrior (1200/900 Mon/Mrs),
+                              Armored Zombie (1500/0 Mon/Plt),
+                              Dragon Zombie (1600/0 Mon/Plt),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+                          = Vermillion Sparrow (1900/1500 Mrs/Vns Pyro | Pyro)
+
+[Pyro] + [Winged Beast]   = Mavelus (1300/900 Mrs/Mrc Winged Beast | FeatherFromBear FeatherFromMachine Pyro)
+                          = Crimson Sunbird (2300/1800 Mrs/Mrc Winged Beast | FeatherFromMachine)
+                            < Flame Swordsman (1800/1600 Mrs/Sun),
+                              Vermillion Sparrow (1900/1500 Mrs/Vns),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon),
+                              Harpie's Pet Dragon (2000/2500 Stn/Mon),
+                              Mystical Sand (2100/1700 Mrc/Stn)
+
+[Pyro] + [Zombie]         = Fire Reaper (700/500 Mrs/Sun Zombie | Pyro)
+                          = Flame Ghost (1000/800 Mrs/Plt Zombie | Pyro)
+                            < Wood Remains (1000/900 Jpt/Npt),
+                              Zombie Warrior (1200/900 Mon/Mrs),
+                              Stone Ghost (1200/1000 Urn/Mrc),
+                              Magical Ghost (1300/1400 Mon/Plt),
+                              The Snake Hair (1500/1200 Mon/Stn)
+
+[Rainbow] + [Fish]        = 7 Colored Fish (1800/800 Npt/Sun Fish | Bugrothian)
+                            < Queen of Autumn Leaves (1800/1500 Jpt/Mon),
+                              Dark Witch (1800/1700 Sun/Npt)
+
+[Reptile] + [Plant]       = Snakeyashi (1000/1200 Jpt/Mrc Plant)
+
+[Reptile] + [Thunder]     = Electric Lizard (850/800 Plt/Sun Thunder)
+
+[Reptile] + {Clown Zombie, Crass Clown}
+                          = Soul Hunter (2200/1800 Mon/Jpt Fiend)
+
+[Rock] + [Dragon]         = Stone D. (2000/2300 Urn/Mrs Rock | Dragon)
+                            < Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Rock] + [Female]         = Mystical Sand (2100/1700 Mrc/Stn Rock)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              B. Dragon Jungle King (2100/1800 Jpt/Npt)
+
+[Rock] + [Pyro]           = Dissolverock (900/1000 Mrs/Vns Rock | Pyro)
+                            < Stone Ghost (1200/1000 Urn/Mrc),
+                              Minomushi Warrior (1300/1200 Urn/Vns)
+
+[Rock] + [Turtle]         = Boulder Tortoise (1450/2200 Urn/Npt Aqua | Bugrothian Turtle)
+
+[Rock] + [Warrior]        = Minomushi Warrior (1300/1200 Urn/Vns Rock)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Stone D. (2000/2300 Urn/Mrs),
+                              Mystical Sand (2100/1700 Mrc/Stn)
+
+[Rock] + [Zombie]         = Stone Ghost (1200/1000 Urn/Mrc Rock)
+
+[Sheepian] + Mystical Sheep #2
+                          = Mystical Sheep #1 (1150/900 Vns/Stn Beast | UsableBeast)
+
+[Spellcaster] + Mystic Lamp
+                          = Lord of the Lamp (1400/1200 Mrc/Stn Fiend | MercuryMagicUser)
+                            < Dark Elf (2000/800 Mrc/Jpt)
+
+[Spellcaster] + Spike Seadra
+                          = Kaminari Attack (1900/1400 Plt/Vns Thunder)
+                            < Thousand Dragon (2400/2000 Mrs/Mrc)
+
+[Spellcaster] + [Thunder] = The Immortal of Thunder (1500/1300 Plt/Sun Thunder)
+                          = Kaminari Attack (1900/1400 Plt/Vns Thunder)
+                            < Thousand Dragon (2400/2000 Mrs/Mrc)
+
+[Spellcaster] + [Turtle]  = 30,000-Year White Turtle (1250/2100 Npt/Mon Aqua | Bugrothian Turtle)
+
+[Spellcaster] + [Zombie]  = Magical Ghost (1300/1400 Mon/Plt Zombie)
+                            < Dark Elf (2000/800 Mrc/Jpt)
+
+[Thronian] + Protector of the Throne
+                          = Invader of the Throne (1350/1700 Urn/Vns Warrior | Female)
+
+[Thunder] + [Aqua]        = Bolt Escargot (1400/1500 Plt/Jpt Thunder)
+
+[Thunder] + [Beast]       = Tripwire Beast (1200/1300 Plt/Stn Thunder)
+
+[Thunder] + [Dragon]      = Thunder Dragon (1600/1500 Plt/Jpt Thunder | Dragon)
+                          = Twin-headed Thunder Dragon (2800/2100 Plt/Mon Thunder)
+                            < Skelgon (1700/1900 Mon/Plt),
+                              Sword Arm of Dragon (1750/2030 Urn/Mon)
+
+[Thunder] + [Reptile]     = Electric Lizard (850/800 Plt/Sun Thunder)
+
+[Thunder] + [Spellcaster] = The Immortal of Thunder (1500/1300 Plt/Sun Thunder)
+                          = Kaminari Attack (1900/1400 Plt/Vns Thunder)
+                            < Thousand Dragon (2400/2000 Mrs/Mrc)
+
+[Turtle] + [Beast]        = Turtle Tiger (1000/1500 Npt/Stn Aqua | Bugrothian Turtle)
+
+[Turtle] + [Dragon]       = Sea King Dragon (2000/1700 Npt/Mrc Sea Serpent | Dragon)
+                            < Spike Seadra (1600/1300 Plt/Mrc),
+                              Kairyu-shin (1800/1500 Npt/Mrs)
+
+[Turtle] + [Pyro]         = Giant Turtle Who Feeds on Flames (1400/1800 Npt/Mrs Aqua | Bugrothian Turtle)
+                            < 30,000-Year White Turtle (1250/2100 Npt/Mon),
+                              Boulder Tortoise (1450/2200 Urn/Npt),
+                              Turtle Bird (1900/1700 Stn/Mrs)
+
+[Turtle] + [Rock]         = Boulder Tortoise (1450/2200 Urn/Npt Aqua | Bugrothian Turtle)
+
+[Turtle] + [Spellcaster]  = 30,000-Year White Turtle (1250/2100 Npt/Mon Aqua | Bugrothian Turtle)
+
+[Turtle] + [Winged Beast] = Turtle Bird (1900/1700 Stn/Mrs Aqua | Turtle)
+
+[UsableBeast] + [Female]  = Nekogal #2 (1900/2000 Jpt/Urn Beast-Warrior | Female)
+
+[UsableBeast] + [Machine] = Giga-tech Wolf (1200/1400 Jpt/Urn Machine)
+                            < Flame Cerebrus (2100/1800 Mrs/Plt)
+                          = Dice Armadillo (1650/1800 Jpt/Plt Machine)
+                            < Flame Cerebrus (2100/1800 Mrs/Plt)
+
+[UsableBeast] + [Plant]   = Flower Wolf (1800/1400 Jpt/Sun Beast | UsableBeast)
+                            < Nekogal #2 (1900/2000 Jpt/Urn),
+                              Flame Cerebrus (2100/1800 Mrs/Plt)
+
+[UsableBeast] + [Pyro]    = Flame Cerebrus (2100/1800 Mrs/Plt Pyro)
+
+[UsableBeast] + [Warrior] = Tiger Axe (1300/1100 Jpt/Npt Beast-Warrior)
+                            < Nekogal #2 (1900/2000 Jpt/Urn),
+                              Flame Cerebrus (2100/1800 Mrs/Plt)
+
+[Warrior] + The Judgement Hand
+                          = Judge Man (2200/1500 Sun/Stn Warrior)
+                            < Sword Arm of Dragon (1750/2030 Urn/Mon),
+                              Musician King (1750/1500 Sun/Mrs),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Vermillion Sparrow (1900/1500 Mrs/Vns)
+
+[Warrior] + [Dragon]      = Dragon Statue (1100/900 Urn/Mrs Warrior | Dragon)
+                          = Dragoness the Wicked Knight (1200/900 Stn/Mrc Warrior)
+                            < Flame Swordsman (1800/1600 Mrs/Sun)
+                          = D. Human (1300/1100 Urn/Mrs Warrior)
+                          = Sword Arm of Dragon (1750/2030 Urn/Mon Dinosaur | Dragon)
+                            < Skelgon (1700/1900 Mon/Plt),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+[Warrior] + [Elf]         = Celtic Guardian (1400/1200 Sun/Urn Warrior | Elf)
+                            < Dark Elf (2000/800 Mrc/Jpt)
+
+[Warrior] + [Fish]        = Wow Warrior (1250/900 Npt/Mrs Fish)
+
+[Warrior] + [Insect]      = Cockroach Knight (800/900 Jpt/Vns Insect)
+
+[Warrior] + [Machine]     = Cyber Soldier (1500/1700 Mon/Mrs Machine)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Warrior] + [Plant]       = Bean Soldier (1400/1300 Jpt/Urn Plant)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+
+[Warrior] + [Pyro]        = Charubin the Fire Knight (1100/800 Mrs/Urn Pyro | Pyro)
+                            < Zombie Warrior (1200/900 Mon/Mrs),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+                          = Flame Swordsman (1800/1600 Mrs/Sun Warrior | Pyro)
+                            < Zombie Warrior (1200/900 Mon/Mrs),
+                              Armored Zombie (1500/0 Mon/Plt),
+                              Dragon Zombie (1600/0 Mon/Plt),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon)
+                          = Vermillion Sparrow (1900/1500 Mrs/Vns Pyro | Pyro)
+
+[Warrior] + [Rock]        = Minomushi Warrior (1300/1200 Urn/Vns Rock)
+                            < Charubin the Fire Knight (1100/800 Mrs/Urn),
+                              Flame Swordsman (1800/1600 Mrs/Sun),
+                              Stone D. (2000/2300 Urn/Mrs),
+                              Mystical Sand (2100/1700 Mrc/Stn)
+
+[Warrior] + [UsableBeast] = Tiger Axe (1300/1100 Jpt/Npt Beast-Warrior)
+                            < Nekogal #2 (1900/2000 Jpt/Urn),
+                              Flame Cerebrus (2100/1800 Mrs/Plt)
+
+[Warrior] + [Zombie]      = Zombie Warrior (1200/900 Mon/Mrs Zombie)
+                            < Dragon Zombie (1600/0 Mon/Plt)
+                          = Armored Zombie (1500/0 Mon/Plt Zombie)
+                            < Dragon Zombie (1600/0 Mon/Plt),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+[Winged Beast] + Boo Koo  = Spirit of the Books (1400/1200 Stn/Mon Winged Beast)
+
+[Winged Beast] + Ryu-kishin
+                          = Whiptail Crow (1650/1600 Mon/Mrc Fiend)
+
+[Winged Beast] + The Judgement Hand
+                          = Punished Eagle (2100/1800 Stn/Plt Winged Beast | FeatherFromBear FeatherFromMachine)
+                            < Flame Swordsman (1800/1600 Mrs/Sun)
+
+[Winged Beast] + [Mirror] = Fiend Refrection #1 (1300/1400 Vns/Jpt Winged Beast | Mirror)
+
+[Winged Beast] + [Pyro]   = Mavelus (1300/900 Mrs/Mrc Winged Beast | FeatherFromBear FeatherFromMachine Pyro)
+                          = Crimson Sunbird (2300/1800 Mrs/Mrc Winged Beast | FeatherFromMachine)
+                            < Flame Swordsman (1800/1600 Mrs/Sun),
+                              Vermillion Sparrow (1900/1500 Mrs/Vns),
+                              Queen of Autumn Leaves (1800/1500 Jpt/Mon),
+                              Harpie's Pet Dragon (2000/2500 Stn/Mon),
+                              Mystical Sand (2100/1700 Mrc/Stn)
+
+[Winged Beast] + [Turtle] = Turtle Bird (1900/1700 Stn/Mrs Aqua | Turtle)
+
+[Zombie] + Graveyard and the Hand of Invitation
+                          = The Snake Hair (1500/1200 Mon/Stn Zombie)
+
+[Zombie] + Mammoth Graveyard
+                          = Great Mammoth of Goldfine (2200/1800 Mon/Plt Zombie)
+
+[Zombie] + [Beast]        = Shadow Specter (500/200 Mon/Stn Zombie | Sheepian)
+
+[Zombie] + [Dragon]       = Dragon Zombie (1600/0 Mon/Plt Zombie | Dragon)
+                          = Skelgon (1700/1900 Mon/Plt Zombie | Dragon)
+                          = Curse of Dragon (2000/1500 Stn/Plt Dragon | Dragon)
+                            < Sword Arm of Dragon (1750/2030 Urn/Mon),
+                              Twin-headed Thunder Dragon (2800/2100 Plt/Mon)
+
+[Zombie] + [Fish]         = Corroding Shark (1100/700 Mon/Plt Zombie | Sheepian)
+
+[Zombie] + [Plant]        = Wood Remains (1000/900 Jpt/Npt Zombie)
+                          = Pumpking the King of Ghosts (1800/2000 Jpt/Npt Zombie)
+
+[Zombie] + [Pyro]         = Fire Reaper (700/500 Mrs/Sun Zombie | Pyro)
+                          = Flame Ghost (1000/800 Mrs/Plt Zombie | Pyro)
+                            < Wood Remains (1000/900 Jpt/Npt),
+                              Zombie Warrior (1200/900 Mon/Mrs),
+                              Stone Ghost (1200/1000 Urn/Mrc),
+                              Magical Ghost (1300/1400 Mon/Plt),
+                              The Snake Hair (1500/1200 Mon/Stn)
+
+[Zombie] + [Rock]         = Stone Ghost (1200/1000 Urn/Mrc Rock)
+
+[Zombie] + [Spellcaster]  = Magical Ghost (1300/1400 Mon/Plt Zombie)
+                            < Dark Elf (2000/800 Mrc/Jpt)
+
+[Zombie] + [Warrior]      = Zombie Warrior (1200/900 Mon/Mrs Zombie)
+                            < Dragon Zombie (1600/0 Mon/Plt)
+                          = Armored Zombie (1500/0 Mon/Plt Zombie)
+                            < Dragon Zombie (1600/0 Mon/Plt),
+                              Dark Elf (2000/800 Mrc/Jpt)
+
+=====================
+4. Exact fusion rules
+=====================
+
+Dark Hole                + Stain Storm              = Acid Trap Hole ( Trap)
+Magician of Faith        + Metalmorph               = Ancient Elf ( Spellcaster | Elf Female)
+Zanki                    + Warrior Elimination      = Armored Zombie ( Zombie)
+Bear Trap                + Tiger Axe                = Axe of Despair ( Equip)
+Red-eyes B. Dragon       + Summoned Skull           = B. Skull Dragon ( Dragon)
+Battle Ox                + Dragon Statue            = Baby Dragon ( Dragon)
+Dragon Piper             + Orion the Battle King    = Baby Dragon ( Dragon)
+Monster Egg              + The Wicked Worm Beast    = Baby Dragon ( Dragon)
+Mooyan Curry             + Mooyan Curry             = Bad Reaction to Simochi
+Key Mace                 + Shadow Specter           = Battle Warrior ( Warrior)
+Beast Fangs              + Megamorph                = Bear Trap ( Trap | FeatherFromHarpie)
+Final Flame              + Ooguchi                  = Beast Fangs ( Equip)
+Dark Energy              + Elegant Egotist          = Beastry Mirror Ritual ( Ritual)
+Cyber Shield             + Monster Tamer            = Beautiful Beast Trainer ( Warrior | Female)
+House of Adhesive Tape   + Monster Eye              = Big Eye ( Fiend | Thronian)
+Dark Energy              + Dark-piercing Light      = Black Luster Ritual ( Ritual)
+Dark Energy              +Machine Conversion Factory= Black Pendant ( Equip)
+Boo Koo                  + Dark-piercing Light      = Book of Secret Arts ( Equip)
+Bad Reaction to Simochi  + Goblin Fan               = Breath of Light ( Magic)
+Follow Wind              + Wasteland                = Breath of Light ( Magic)
+Castle of Dark Illusions + Dark-piercing Light      = Bright Castle ( Equip)
+Crass Clown              + Final Flame              = Clown Zombie ( Zombie)
+Akihiron                 + Giant Soldier of Stone   = Cocoon of Evolution ( Insect)
+Ansatsu                  + LaMoon                   = Cocoon of Evolution ( Insect)
+Darkfire Dragon          + Tiger Axe                = Cocoon of Evolution ( Insect)
+Koumori Dragon           + Summoned Skull           = Cocoon of Evolution ( Insect)
+Cyber Shield             + Winged Trumpeter         = Commencement Dance ( Ritual)
+Elf's Light              + Malevolent Nuzzler       = Contruct of Mask ( Ritual)
+Cyber Shield             + Malevolent Nuzzler       = Cosmo Queen's Prayer ( Ritual)
+Metalmorph               + Vile Germs               = Crush Card ( Magic)
+Metalmorph               + Metalmorph               = Curse of Millennium Shield ( Ritual)
+Elegant Egotist          + Horn of Light            = Curse of Tri-Horned Dragon ( Ritual)
+Elegant Egotist          + Horn of the Unicorn      = Curse of Tri-Horned Dragon ( Ritual)
+Elegant Egotist          + Key Mace                 = Cursebreaker ( Magic)
+Yami                     + Yami                     = Dark Energy ( Equip)
+Acid Trap Hole           + Dark Energy              = Dark Hole ( Magic)
+Widespread Ruin          + Zone Eater               = Darkfire Dragon ( Dragon | Dragon Pyro)
+Soul of the Pure         + Soul of the Pure         = Dian Keto the Cure Master ( Magic)
+Dragon Treasure          + Mooyan Curry             = Dragon Capture Jar ( Magic)
+Crawling Dragon          + Dragon Capture Jar       = Dragon Zombie ( Zombie | Dragon)
+Twin Long Rods #2        + Graveyard and the Hand of Invitation = Dragon Zombie ( Zombie | Dragon)
+Labyrinth Wall           + Zone Eater               = Dungeon Worm ( Insect)
+Beast Fangs              + Beast Fangs              = Eatgaboon ( Trap | FeatherFromHarpie)
+Beautiful Beast Trainer  + Warrior Elimination      = Electro-whip ( Equip)
+Monster Tamer            + Warrior Elimination      = Electro-whip ( Equip)
+Electro-whip             + Job-change Mirror        = Elegant Egotist ( Equip)
+Electro-whip             + Wicked Mirror            = Elegant Egotist ( Equip)
+Electro-whip             + Fiend's Mirror           = Elegant Egotist ( Equip)
+Ancient Elf              + House of Adhesive Tape   = Elf's Light ( Equip)
+Follow Wind              + Goblin's Secret Remedy   = Eradicating Aerosol ( Magic)
+Goblin's Secret Remedy   +Machine Conversion Factory= Eradicating Aerosol ( Magic)
+Dark Hole                + Umi                      = Eternal Draught ( Magic)
+Mystical Moon            + Umi                      = Eternal Draught ( Magic)
+Tremendous Fire          + Umi                      = Eternal Draught ( Magic)
+Elf's Light              + Silver Bow and Arrow     = Eternal Rest ( Magic)
+Cursebreaker             + Spellbinding Circle      = Fake Trap ( Trap)
+Reverse Trap             + Widespread Ruin          = Fake Trap ( Trap)
+Hinotama                 + Hinotama                 = Final Flame ( Magic)
+Megamorph                + Vile Germs               = Forest ( Field)
+Machine Conversion Factory+ Umi                     = Fortress Whale's Oath ( Ritual)
+Curse of Dragon          + Gaia the Fierce Knight   = Gaia the Dragon Champion ( Dragon | Dragon)
+Elegant Egotist          + Legendary Sword          = Garma Sword Oath ( Ritual)
+Magical Labyrinth        + Metalmorph               = Gate Guardian Ritual ( Ritual)
+Breath of Light          + Follow Wind              = Goblin Fan ( Trap)
+Red Medicine             + Red Medicine             = Goblin's Secret Remedy ( Magic)
+Book of Secret Arts      + Mooyan Curry             = Hamburger Recipe ( Ritual)
+Elegant Egotist          + Harpie Lady              = Harpie Lady Sisters ( Winged Beast | FeatherFromBear FeatherFromHarpie FeatherFromMachine Female)
+Flying Penguin           + Invisible Wire           = Harpie's Feather Duster ( Magic)
+Sparks                   + Sparks                   = Hinotama ( Magic)
+Raise Body Heat          + Reverse Trap             = Horn of the Unicorn ( Equip)
+Eradicating Aerosol      + Magical Labyrinth        = House of Adhesive Tape ( Trap | FeatherFromHarpie)
+Machine Conversion Factory+Hinotama             = Insect Armor with Laser Cannon ( Equip)
+Elegant Egotist          + Raigeki                  = Invigoration ( Equip)
+Black Pendant            + Yami                     = Invisible Wire ( Trap | FeatherFromHarpie)
+Forest                   + Power of Kaishin         = Javelin Beetle Pact ( Ritual)
+Darkfire Dragon          + Reverse Trap             = Kairyu-shin ( Sea Serpent | Dragon)
+Final Flame              + Waterdragon Fairy        = Kairyu-shin ( Sea Serpent | Dragon)
+Armed Ninja              + Sinister Serpent         = Korogashi ( Insect)
+Legendary Sword          + Sword of Dark Destruction= Kunai with Chain ( Equip)
+Machine Conversion Factory+ Violet Crystal          = Laser Cannon Armor ( Equip)
+Jirai Gumo               + Metalmorph               = Launcher Spider ( Machine | Pyro)
+Flame Swordsman          + Umi                      = Legendary Sword ( Equip)
+House of Adhesive Tape   + Metalmorph               = Machine Conversion Factory ( Equip | FeatherFromHarpie)
+Dian Keto the Cure Master+ Dian Keto the Cure Master= Megamorph ( Equip)
+Electro-whip             + Metal Guardian           = Metalmorph ( Equip)
+Machine Conversion Factory+ Metal Guardian          = Metalmorph ( Equip)
+Baby Dragon              + Metalmorph               = Metal Dragon ( Machine | Dragon Pyro)
+Tongyo                   + Metalmorph               = Metal Fish ( Machine | Bugrothian)
+Metalmorph               + Zoa                      = Metalzoa ( Machine)
+Meteor Dragon            + Red-eyes B. Dragon       = Meteor B. Dragon ( Dragon)
+Celtic Guardian          + Sonic Maid               = Musician King ( Spellcaster)
+Ancient Elf              + Sonic Maid               = Musician King ( Spellcaster)
+Blue-eyed Silver Zombie  + Mystical Sheep #2        = Mystical Sheep #1 ( Beast | UsableBeast)
+Beautiful Beast Trainer  + Mooyan Curry             = Monster Tamer ( Warrior)
+Eternal Rest             + Kunai with Chain         = Novox's Prayer ( Ritual)
+Final Flame              + Final Flame              = Ookazi ( Magic)
+Breath of Light          + Umi                      = Power of Kaishin ( Equip)
+Metalmorph               + Stain Storm              = Puppet Ritual ( Ritual)
+Battle Ox                + Mystic Horseman          = Rabid Horseman ( Beast-Warrior)
+Electro-whip             + Metalmorph               = Raigeki ( Magic)
+Mooyan Curry             + Sparks                   = Raise Body Heat ( Equip)
+Koumori Dragon           + Saggi the Dark Clown     = Reaper of the Cards ( Fiend | Koumorian)
+B. Dragon Jungle King    + Tyhone #2                = Red-eyes B. Dragon ( Dragon | Dragon)
+Blackland Fire Dragon    + Tyhone #2                = Red-eyes B. Dragon ( Dragon | Dragon)
+Darkfire Dragon          + Tyhone #2                = Red-eyes B. Dragon ( Dragon | Dragon)
+Malevolent Nuzzler       + Malevolent Nuzzler       = Resurrection of Chakra ( Ritual)
+Cursebreaker             + Megamorph                = Reverse Trap ( Trap)
+Fake Trap                + Megamorph                = Reverse Trap ( Trap)
+Curse of Millennium Shield+ Puppet Ritual           = Revival of Sennen Genjin ( Ritual)
+Elegant Egotist          + Mystical Moon            = Revival of Sennen Genjin ( Ritual)
+Machine Conversion Factory+ Wasteland               = Revival of Skeleton Rider ( Ritual)
+Dark Energy              + Dragon Treasure     = Revived of Serpent Night Dragon ( Ritual)
+Legendary Sword          + Sparks                   = Salamandra ( Equip)
+Kuriboh                  + Skull Servant            = Shadow Specter ( Zombie | Sheepian)
+Spellbinding Circle      + Spellbinding Circle      = Shadow Spell ( Magic)
+Goblin's Secret Remedy   + Goblin's Secret Remedy   = Soul of the Pure ( Magic)
+Winged Trumpeter         + Winged Trumpeter         = Soul of the Pure ( Magic)
+Acid Trap Hole           + Follow Wind              = Stain Storm ( Magic)
+Electro-whip             + Umi                      = Stain Storm ( Magic)
+Final Flame              + Monsturtle               = Steel Shell ( Equip)
+Millennium Shield        + Reverse Trap             = Stop Defense ( Magic)
+Time Wizard              + Embryonic Beast          = Summoned Skull ( Fiend)
+Armored Zombie           + Eternal Rest             = Sword of Dark Destruction ( Equip)
+Dark-piercing Light      + Shadow Spell             = Swords of Revealing Light ( Magic)
+Ancient Brain            + Invisible Wire           = Tainted Wisdom ( Fiend | Koumorian Thronian)
+Clown Zombie             + Kojikocy                 = The 13th Grave ( Zombie)
+Dream Clown              + Mysterious Puppeteer     = The 13th Grave ( Zombie)
+Ancient Jar              + Mystery Hand             = The Wicked Worm Beast ( Beast)
+Ancient Jar              + Fiend Sword              = Tiger Axe ( Beast-Warrior)
+Petit Dragon             + Serpent Marauder         = Trakadon ( Dinosaur)
+Ookazi                   + Ookazi                   = Tremendous Fire ( Magic)
+Fake Trap                + Steel Shell              = Turtle Oath ( Ritual)
+Power of Kaishin         + Umi                      = Turtle Oath ( Ritual)
+Dragon Treasure          + Megamorph                = Ultimate Dragon ( Ritual)
+Crush Card               + Forest                   = Vile Germs ( Equip)
+Elegant Egotist          + Kuriboh                  = Vile Germs ( Equip)
+Breath of Light          + Prisman                  = Violet Crystal ( Equip)
+Beast Fangs              + Elegant Egotist          = War-lion Ritual ( Ritual)
+Forest                   + Ookazi                   = Wasteland ( Magic)
+Aqua Snake               + Waterdragon Fairy        = Water Magician ( Aqua | Bugrothian Female)
+Dragon Capture Jar       + Tremendous Fire          = Widespread Ruin ( Trap)
+Machine Conversion Factory+ Silver Bow and Arrow    = Winged Trumpeter ( Equip | FeatherFromMachine)
+Armored Zombie           + Wood Clown               = Witty Phantom ( Fiend | MercuryMagicUser )
+Djinn the Watcher of the Wind+ Wolf                 = Witty Phantom ( Fiend | MercuryMagicUser )
+Gyakutenno Megami        + Weather Control          = Witty Phantom ( Fiend | MercuryMagicUser )
+Oscillo Hero #2          + Spirit of the Harp       = Witty Phantom ( Fiend | MercuryMagicUser )
+Elegant Egotist          + Wicked Dragon with the Ersatz Head= Yamadron ( Dragon | Dragon Pyro)
+Dragon Treasure          + Elegant Egotist          = Yamadron Ritual ( Ritual)
+Dark Energy              + Malevolent Nuzzler       = Zera Ritual ( Ritual)
+
+======================
+5. Conflicts in detail
+======================
+
+[AngelWinged]             + [Beast] = Garvas
+[Sheepian]                + Mystical Sheep #2 < Mystical Sheep #1
+Ancient Brain               Mystical Sheep #2
+                            
+
+[AngelWinged]             + [Beast] = Garvas
+[Beast]                   + Larvas < Mon Larvas
+Fusionist                   Larvas
+                            
+
+[AngelWinged]             + [Beast] = Garvas
+[Egg]                     + [AngelWinged] < Winged Egg of New Life
+Wing Egg Elf                Fusionist
+                            
+
+[AngelWinged]             + [Beast] = Garvas
+[Fairy]                   + [Female] < Dark Witch
+Dancing Elf                 Nekogal #1
+Happy Lover                 
+Hourglass of Courage        
+Hourglass of Life           
+Lunar Queen Elzaim          
+Ocubeam                     
+Petit Angel                 
+Shining Friendship          
+Skelengel                   
+Tenderness                  
+Wing Egg Elf                
+Winged Egg of New Life      
+                            
+
+[AngelWinged]             + [Beast] = Garvas
+[UsableBeast]             + [Female] < Nekogal #2
+Fusionist                   Nekogal #1
+                            
+
+[AngelWinged]             + [Beast] = Garvas
+[Female]                  + [UsableBeast] < Nekogal #2
+Angelwitch                  Air Marmot of Nefariousness
+Dancing Elf                 Ancient One of the Deep Forest
+Dark Witch                  Armored Rat
+LaMoon                      Burglar
+Lunar Queen Elzaim          Dark Gray
+Maiden of the Moonlight     Flower Wolf
+Witch's Apprentice          Frenzied Panda
+                            Fusionist
+                            Griffore
+                            Leogun
+                            Little Chimera
+                            Master & Expert
+                            Milus Radiant
+                            Mystic Horseman
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Pale Beast
+                            Prevent Rat
+                            Silver Fang
+                            Sleeping Lion
+                            Synchar
+                            Togex
+                            Torike
+                            Wolf
+                            
+
+[AngelWinged]             + [Egg] = Winged Egg of New Life
+[Elf]                     + [MystElfian] < Mystical Elf
+Dancing Elf                 Wing Egg Elf
+Wing Egg Elf                
+                            
+
+[AngelWinged]             + [Egg] = Winged Egg of New Life
+[MystElfian]              + [Elf] < Mystical Elf
+Hourglass of Life           Wing Egg Elf
+Lunar Queen Elzaim          
+Petit Angel                 
+Tenderness                  
+Wing Egg Elf                
+                            
+
+[AngelWinged]             + [Egg] = Winged Egg of New Life
+[UsableBeast]             + [Warrior] < Tiger Axe
+Fusionist                   Monster Egg
+                            
+
+[AngelWinged]             + [Egg] = Winged Egg of New Life
+[Elf]                     + [Warrior] < Celtic Guardian
+Dancing Elf                 Monster Egg
+Wing Egg Elf                
+                            
+
+[AngelWinged]             + [Egg] = Winged Egg of New Life
+[Female]                  + [Fairy] < Dark Witch
+LaMoon                      Wing Egg Elf
+                            
+
+[AngelWinged]             + [Egg] = Winged Egg of New Life
+[MercuryMagicUser]        + [Elf] < Dark Elf
+Ancient Brain               Wing Egg Elf
+Angelwitch                  
+Witch's Apprentice          
+                            
+
+[Aqua]                    + [Dragon] = Kairyu-shin
+[Pyro]                    + [Warrior] < Flame Swordsman
+Fire Kraken                 Dragon Statue
+                            
+
+[Beast]                   + [AngelWinged] = Garvas
+Mystical Sheep #2         + [Sheepian] < Mystical Sheep #1
+Mystical Sheep #2           Ancient Brain
+                            
+
+[Beast]                   + [AngelWinged] = Garvas
+Larvas                    + [Beast] < Mon Larvas
+Larvas                      Fusionist
+                            
+
+[Beast]                   + [AngelWinged] = Garvas
+[AngelWinged]             + [Egg] < Winged Egg of New Life
+Fusionist                   Wing Egg Elf
+                            
+
+[Beast]                   + [AngelWinged] = Garvas
+[Female]                  + [Fairy] < Dark Witch
+Nekogal #1                  Dancing Elf
+                            Happy Lover
+                            Hourglass of Courage
+                            Hourglass of Life
+                            Lunar Queen Elzaim
+                            Ocubeam
+                            Petit Angel
+                            Shining Friendship
+                            Skelengel
+                            Tenderness
+                            Wing Egg Elf
+                            Winged Egg of New Life
+                            
+
+[Beast]                   + [AngelWinged] = Garvas
+[UsableBeast]             + [Female] < Nekogal #2
+Air Marmot of Nefariousness   Angelwitch
+Ancient One of the Deep Forest   Dancing Elf
+Armored Rat                 Dark Witch
+Burglar                     LaMoon
+Dark Gray                   Lunar Queen Elzaim
+Flower Wolf                 Maiden of the Moonlight
+Frenzied Panda              Witch's Apprentice
+Fusionist                   
+Griffore                    
+Leogun                      
+Little Chimera              
+Master & Expert             
+Milus Radiant               
+Mystic Horseman             
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Pale Beast                  
+Prevent Rat                 
+Silver Fang                 
+Sleeping Lion               
+Synchar                     
+Togex                       
+Torike                      
+Wolf                        
+                            
+
+[Beast]                   + [AngelWinged] = Garvas
+[Female]                  + [UsableBeast] < Nekogal #2
+Nekogal #1                  Fusionist
+                            
+
+[Beast]                   + [Fish] = Tatsunootoshigo
+[UsableBeast]             + [Female] < Nekogal #2
+Air Marmot of Nefariousness   Amazon of the Seas
+Armored Rat                 Enchanting Mermaid
+Burglar                     
+Dark Gray                   
+Frenzied Panda              
+Fusionist                   
+Griffore                    
+Little Chimera              
+Master & Expert             
+Milus Radiant               
+Mystic Horseman             
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Prevent Rat                 
+Silver Fang                 
+Sleeping Lion               
+Synchar                     
+Torike                      
+Wolf                        
+                            
+
+[Beast]                   + [Fish] = Marine Beast
+[UsableBeast]             + [Female] < Nekogal #2
+Air Marmot of Nefariousness   Amazon of the Seas
+Armored Rat                 Enchanting Mermaid
+Burglar                     Rainbow Marine Mermaid
+Dark Gray                   
+Frenzied Panda              
+Fusionist                   
+Griffore                    
+Little Chimera              
+Master & Expert             
+Milus Radiant               
+Mystic Horseman             
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Pale Beast                  
+Prevent Rat                 
+Silver Fang                 
+Sleeping Lion               
+Synchar                     
+Togex                       
+Torike                      
+Wolf                        
+                            
+
+[Dragon]                  + [Aqua] = Kairyu-shin
+[Warrior]                 + [Pyro] < Flame Swordsman
+Dragon Statue               Fire Kraken
+                            
+
+[Dragon]                  + [Koumorian] = Koumori Dragon
+[Warrior]                 + [Dragon] < Dragoness the Wicked Knight
+Dragon Statue               Wicked Dragon with the Ersatz Head
+                            
+
+[Dragon]                  + [Koumorian] = Koumori Dragon
+[Warrior]                 + [Dragon] < D. Human
+Dragon Statue               Lesser Dragon
+                            
+
+[Dragon]                  + [Koumorian] = Koumori Dragon
+[Warrior]                 + [UsableBeast] < Tiger Axe
+Dragon Statue               Air Marmot of Nefariousness
+                            Obese Marmot of Nefariousness
+                            
+
+[Dragon]                  + [Machine] = Metal Dragon
+[Warrior]                 + [Machine] < Cyber Soldier
+Dragon Statue               Bat
+                            Blocker
+                            Brave Scizzar
+                            Cannon Soldier
+                            Cyber Commander
+                            Cyber Soldier of Darkworld
+                            Cyber-Stein
+                            Dharma Cannon
+                            Disk Magician
+                            Giga-tech Wolf
+                            Golgoil
+                            Holograh
+                            Jinzo #7
+                            Mechanical Snail
+                            Mechanical Spider
+                            Patrol Robo
+                            Saber Slasher
+                            Shovel Crusher
+                            Steel Ogre Grotto #1
+                            Steel Scorpion
+                            Yaiba Robo
+                            
+
+[Dragon]                  + [Machine] = Metal Dragon
+[Dinosaur]                + [Machine] < Cyber Saurus
+Crawling Dragon #2          Ancient Tool
+Sword Arm of Dragon         Bat
+                            Blast Juggler
+                            Blocker
+                            Brave Scizzar
+                            Cannon Soldier
+                            Cyber Commander
+                            Cyber Soldier
+                            Cyber Soldier of Darkworld
+                            Cyber-Stein
+                            Dharma Cannon
+                            Dice Armadillo
+                            Disk Magician
+                            Gatekeeper
+                            Giant Mech-soldier
+                            Giga-tech Wolf
+                            Giganto
+                            Golgoil
+                            Ground Attacker Bugroth
+                            Guardian of the Throne Room
+                            Holograh
+                            Jinzo #7
+                            Machine Attacker
+                            Mechanical Snail
+                            Mechanical Spider
+                            Megasonic Eye
+                            Metal Fish
+                            Patrol Robo
+                            Pendulum Machine
+                            Saber Slasher
+                            Shovel Crusher
+                            Steel Ogre Grotto #1
+                            Steel Scorpion
+                            Yaiba Robo
+                            
+
+[Dragon]                  + [Machine] = Metal Dragon
+[Warrior]                 + [Pyro] < Flame Swordsman
+Dragon Statue               Blast Juggler
+                            
+
+[Dragon]                  + [MercuryMagicUser] = Blackland Fire Dragon
+[Dragon]                  + [Zombie] < Dragon Zombie
+Baby Dragon                 Temple of Skulls
+Dragon Statue               
+Fairy Dragon                
+Lesser Dragon               
+One-eyed Shield Dragon      
+Petit Dragon                
+Wicked Dragon with the Ersatz Head   
+Winged Dragon #1            
+Yamatano Dragon Scroll      
+                            
+
+[Dragon]                  + [MercuryMagicUser] = Blackland Fire Dragon
+[Dragon]                  + [Warrior] < Dragon Statue
+One-eyed Shield Dragon      Guardian of the Labyrinth
+Petit Dragon                Masked Clown
+Wicked Dragon with the Ersatz Head   Trap Master
+Yamatano Dragon Scroll      Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wood Clown
+                            
+
+[Dragon]                  + [MercuryMagicUser] = Blackland Fire Dragon
+[Dragon]                  + [Warrior] < Dragoness the Wicked Knight
+Dragon Statue               Guardian of the Labyrinth
+Fairy Dragon                Masked Clown
+                            Trap Master
+                            Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wood Clown
+                            
+
+[Dragon]                  + [MercuryMagicUser] = Blackland Fire Dragon
+[Dragon]                  + [Warrior] < D. Human
+Baby Dragon                 Guardian of the Labyrinth
+Lesser Dragon               Masked Clown
+                            Trap Master
+                            Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wood Clown
+                            
+
+[Dragon]                  + [MercuryMagicUser] = Blackland Fire Dragon
+[Dragon]                  + [Warrior] < Sword Arm of Dragon or sibling
+Baby Dragon                 Guardian of the Labyrinth
+Dragon Statue               Hibikime
+Fairy Dragon                Masked Clown
+Lesser Dragon               Trap Master
+One-eyed Shield Dragon      Unknown Warrior of Fiend
+Petit Dragon                Vishwar Randi
+Wicked Dragon with the Ersatz Head   Wood Clown
+Winged Dragon #1            
+Yamatano Dragon Scroll      
+                            
+
+[Dragon]                  + [Plant] = B. Dragon Jungle King
+[Warrior]                 + [Plant] < Bean Soldier
+Dragon Statue               Abyss Flower
+                            Ancient Tree of Enlightenment
+                            Arlownay
+                            Barrel Lily
+                            Dark Plant
+                            Darkworld Thorns
+                            Green Phantom King
+                            Griggle
+                            Laughing Flower
+                            Living Vase
+                            Man Eater
+                            Man-eating Plant
+                            Mushroom Man
+                            Rainbow Flower
+                            Snakeyashi
+                            Tentacle Plant
+                            Yashinoki
+                            
+
+[Dragon]                  + [Plant] = B. Dragon Jungle King
+[Warrior]                 + [Pyro] < Flame Swordsman
+Dragon Statue               Firegrass
+                            
+
+[Dragon]                  + [Plant] = B. Dragon Jungle King
+[Zombie]                  + [Plant] < Pumpking the King of Ghosts
+Dragon Zombie               Abyss Flower
+Skelgon                     Ancient Tree of Enlightenment
+                            Arlownay
+                            Barrel Lily
+                            Bean Soldier
+                            Dark Plant
+                            Darkworld Thorns
+                            Firegrass
+                            Green Phantom King
+                            Griggle
+                            Laughing Flower
+                            Living Vase
+                            Man Eater
+                            Man-eating Plant
+                            Mushroom Man
+                            Rainbow Flower
+                            Snakeyashi
+                            Tentacle Plant
+                            Trent
+                            Yashinoki
+                            
+
+[Dragon]                  + [Rock] = Stone D.
+[Warrior]                 + [Pyro] < Flame Swordsman
+Dragon Statue               Dissolverock
+                            
+
+[Dragon]                  + [Thunder] = Twin-headed Thunder Dragon
+[Zombie]                  + [Dragon] < Skelgon
+Dragon Zombie               Thunder Dragon
+                            
+
+[Dragon]                  + [Thunder] = Twin-headed Thunder Dragon
+[Warrior]                 + [Dragon] < Sword Arm of Dragon
+Dragon Statue               Thunder Dragon
+                            
+
+[Dragon]                  + [Turtle] = Sea King Dragon
+[Dragon]                  + [Aqua] < Spike Seadra
+Baby Dragon                 30,000-Year White Turtle
+Blackland Fire Dragon       Boulder Tortoise
+Darkfire Dragon             Catapult Turtle
+Dragon Statue               Giant Turtle Who Feeds on Flames
+Fairy Dragon                Monsturtle
+Koumori Dragon              Turtle Raccoon
+Lesser Dragon               Turtle Tiger
+One-eyed Shield Dragon      
+Petit Dragon                
+Takriminos                  
+Wicked Dragon with the Ersatz Head   
+Winged Dragon #1            
+Yamatano Dragon Scroll      
+                            
+
+[Dragon]                  + [Turtle] = Sea King Dragon
+[Dragon]                  + [Aqua] < Kairyu-shin
+Crawling Dragon             30,000-Year White Turtle
+Crawling Dragon #2          Boulder Tortoise
+Dragon Zombie               Catapult Turtle
+Skelgon                     Giant Turtle Who Feeds on Flames
+Spike Seadra                Monsturtle
+Sword Arm of Dragon         Turtle Raccoon
+Thunder Dragon              Turtle Tiger
+Tyhone #2                   
+Yamadron                    
+                            
+
+[Dragon]                  + [Warrior] = Dragoness the Wicked Knight
+[Warrior]                 + [Pyro] < Flame Swordsman
+Dragon Statue               Armaill
+                            Kagemusha of the Blue Flame
+                            
+
+[Dragon]                  + [Warrior] = Sword Arm of Dragon
+[Zombie]                  + [Dragon] < Skelgon
+Dragon Zombie               Dragon Statue
+                            
+
+[Dragon]                  + [Warrior] = Sword Arm of Dragon
+[Pyro]                    + [Warrior] < Flame Swordsman
+Darkfire Dragon             Ansatsu
+Tyhone #2                   Armaill
+Yamadron                    Armed Ninja
+                            Axe Raider
+                            Battle Warrior
+                            Beautiful Headhuntress
+                            Celtic Guardian
+                            D. Human
+                            Dimensional Warrior
+                            Doron
+                            Dragon Statue
+                            Dragoness the Wicked Knight
+                            Dream Clown
+                            Eyearmor
+                            Fiend Sword
+                            Greenkappa
+                            Guardian of the Labyrinth
+                            Hard Armor
+                            Hero of the East
+                            Hibikime
+                            Hyo
+                            Invader of the Throne
+                            Kagemusha of the Blue Flame
+                            Kageningen
+                            Kanan the Swordmistress
+                            Karbonala Warrior
+                            Kojikocy
+                            Lava Battleguard
+                            M-warrior #1
+                            M-warrior #2
+                            Masaki the Legendary Swordsman
+                            Masked Clown
+                            Millennium Shield
+                            Monster Egg
+                            Moon Envoy
+                            Mushroom Man #2
+                            Mysterious Puppeteer
+                            Oscillo Hero
+                            Princess of Tsurugi
+                            Protector of the Throne
+                            Queen's Double
+                            Rhaimundos of the Red Sword
+                            Skull Stalker
+                            Sonic Maid
+                            Stuffed Animal
+                            Succubus Knight
+                            Supporter in the Shadows
+                            Swordsman from a Foreign Land
+                            The Judgement Hand
+                            The Little Swordsman of Aile
+                            Trap Master
+                            Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wall Shadow
+                            Wodan the Resident of the Forest
+                            Wood Clown
+                            Zanki
+                            
+
+[Dragon]                  + [Warrior] = Sword Arm of Dragon
+[MercuryMagicUser]        + [Elf] < Dark Elf
+Blackland Fire Dragon       Celtic Guardian
+                            
+
+[Dragon]                  + [Zombie] = Curse of Dragon
+[Warrior]                 + [Dragon] < Sword Arm of Dragon
+Dragon Statue               Skelgon
+                            
+
+[Dragon]                  + [Zombie] = Curse of Dragon
+[Thunder]                 + [Dragon] < Twin-headed Thunder Dragon
+Thunder Dragon              Skelgon
+                            
+
+[Egg]                     + [AngelWinged] = Winged Egg of New Life
+[Elf]                     + [MystElfian] < Mystical Elf
+Wing Egg Elf                Hourglass of Life
+                            Lunar Queen Elzaim
+                            Petit Angel
+                            Tenderness
+                            Wing Egg Elf
+                            
+
+[Egg]                     + [AngelWinged] = Winged Egg of New Life
+[MystElfian]              + [Elf] < Mystical Elf
+Wing Egg Elf                Dancing Elf
+                            Wing Egg Elf
+                            
+
+[Egg]                     + [AngelWinged] = Winged Egg of New Life
+[Warrior]                 + [UsableBeast] < Tiger Axe
+Monster Egg                 Fusionist
+                            
+
+[Egg]                     + [AngelWinged] = Winged Egg of New Life
+[Warrior]                 + [Elf] < Celtic Guardian
+Monster Egg                 Dancing Elf
+                            Wing Egg Elf
+                            
+
+[Egg]                     + [AngelWinged] = Winged Egg of New Life
+[Fairy]                   + [Female] < Dark Witch
+Wing Egg Elf                LaMoon
+                            
+
+[Egg]                     + [AngelWinged] = Winged Egg of New Life
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Wing Egg Elf                Ancient Brain
+                            Angelwitch
+                            Witch's Apprentice
+                            
+
+[Elf]                     + [Warrior] = Celtic Guardian
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Dancing Elf                 Guardian of the Labyrinth
+Mystical Elf                Masked Clown
+Wing Egg Elf                Trap Master
+                            Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wood Clown
+                            
+
+[Fairy]                   + [Female] = Dark Witch
+[Elf]                     + [MystElfian] < Mystical Elf
+Dancing Elf                 Key Mace
+Wing Egg Elf                Lunar Queen Elzaim
+                            Magician of Faith
+                            
+
+[Fairy]                   + [Female] = Dark Witch
+[MystElfian]              + [Elf] < Mystical Elf
+Hoshiningen                 Dancing Elf
+Hourglass of Life           
+Key Mace                    
+Lunar Queen Elzaim          
+Mystical Capture Chain      
+Petit Angel                 
+Tenderness                  
+Weather Control             
+Wing Egg Elf                
+                            
+
+[Fairy]                   + [Female] = Dark Witch
+[Elf]                     + [Warrior] < Celtic Guardian
+Dancing Elf                 Invader of the Throne
+Wing Egg Elf                Princess of Tsurugi
+                            Protector of the Throne
+                            Queen's Double
+                            Sonic Maid
+                            
+
+[Fairy]                   + [Female] = Dark Witch
+[MusKingian]              + {Hibikime, Sonic Maid} < Musician King
+Binding Chain               Hibikime
+Goddess of Whim             Sonic Maid
+Goddess with the Third Eye   
+Happy Lover                 
+Hoshiningen                 
+Hourglass of Courage        
+Hourglass of Life           
+Key Mace                    
+Lunar Queen Elzaim          
+Muse-A                      
+Mystical Capture Chain      
+Petit Angel                 
+Shining Friendship          
+Skelengel                   
+Spirit of the Harp          
+Tenderness                  
+Weather Control             
+Winged Egg of New Life      
+                            
+
+[Fairy]                   + [Female] = Dark Witch
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Dancing Elf                 Arlownay
+Goddess of Whim             
+Goddess with the Third Eye   
+Key Mace                    
+Lunar Queen Elzaim          
+Muse-A                      
+                            
+
+[Fairy]                   + [Female] = Dark Witch
+[MercuryMagicUser]        + [Elf] < Dark Elf
+Doma The Angel of Silence   Ancient Elf
+                            Dancing Elf
+                            Mystical Elf
+                            
+
+[Fairy]                   + [Female] = Dark Witch
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Dancing Elf                 Angelwitch
+Wing Egg Elf                Beautiful Headhuntress
+                            Eldeen
+                            Hibikime
+                            Key Mace #2
+                            Nemuriko
+                            Succubus Knight
+                            Vishwar Randi
+                            Witch of the Black Forest
+                            Witch's Apprentice
+                            
+
+[Female]                  + [Fairy] = Dark Witch
+[Elf]                     + [MystElfian] < Mystical Elf
+Dancing Elf                 Hoshiningen
+                            Hourglass of Life
+                            Key Mace
+                            Lunar Queen Elzaim
+                            Mystical Capture Chain
+                            Petit Angel
+                            Tenderness
+                            Weather Control
+                            Wing Egg Elf
+                            
+
+[Female]                  + [Fairy] = Dark Witch
+[MystElfian]              + [Elf] < Mystical Elf
+Key Mace                    Dancing Elf
+Lunar Queen Elzaim          Wing Egg Elf
+Magician of Faith           
+                            
+
+[Female]                  + [Fairy] = Dark Witch
+[Warrior]                 + [Elf] < Celtic Guardian
+Invader of the Throne       Dancing Elf
+Princess of Tsurugi         Wing Egg Elf
+Protector of the Throne     
+Queen's Double              
+Sonic Maid                  
+                            
+
+[Female]                  + [Fairy] = Dark Witch
+{Hibikime, Sonic Maid}    + [MusKingian] < Musician King
+Hibikime                    Binding Chain
+Sonic Maid                  Goddess of Whim
+                            Goddess with the Third Eye
+                            Happy Lover
+                            Hoshiningen
+                            Hourglass of Courage
+                            Hourglass of Life
+                            Key Mace
+                            Lunar Queen Elzaim
+                            Muse-A
+                            Mystical Capture Chain
+                            Petit Angel
+                            Shining Friendship
+                            Skelengel
+                            Spirit of the Harp
+                            Tenderness
+                            Weather Control
+                            Winged Egg of New Life
+                            
+
+[Female]                  + [Fairy] = Dark Witch
+[Plant]                   + [Female] < Queen of Autumn Leaves
+Arlownay                    Dancing Elf
+                            Goddess of Whim
+                            Goddess with the Third Eye
+                            Key Mace
+                            Lunar Queen Elzaim
+                            Muse-A
+                            
+
+[Female]                  + [Fairy] = Dark Witch
+[MercuryMagicUser]        + [Elf] < Dark Elf
+Angelwitch                  Dancing Elf
+Beautiful Headhuntress      Wing Egg Elf
+Eldeen                      
+Hibikime                    
+Key Mace #2                 
+Nemuriko                    
+Succubus Knight             
+Vishwar Randi               
+Witch of the Black Forest   
+Witch's Apprentice          
+                            
+
+[Female]                  + [Fairy] = Dark Witch
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Ancient Elf                 Doma The Angel of Silence
+Dancing Elf                 
+Mystical Elf                
+                            
+
+[Female]                  + [Fish] = Ice Water
+[Warrior]                 + [Fish] < Wow Warrior
+Princess of Tsurugi         Root Water
+Protector of the Throne     White Dolphin
+Queen's Double              
+Vishwar Randi               
+                            
+
+[Female]                  + [Fish] = Ice Water
+[Beast]                   + [Fish] < Tatsunootoshigo
+Nekogal #1                  Root Water
+                            White Dolphin
+                            
+
+[Female]                  + [Fish] = Amazon of the Seas
+[Warrior]                 + [Fish] < Wow Warrior
+Princess of Tsurugi         Enchanting Mermaid
+Protector of the Throne     Root Water
+Queen's Double              White Dolphin
+Sonic Maid                  
+Vishwar Randi               
+                            
+
+[Female]                  + [Fish] = Amazon of the Seas
+[Beast]                   + [Fish] < Tatsunootoshigo
+Nekogal #1                  Enchanting Mermaid
+                            Wow Warrior
+                            
+
+[Female]                  + [Fish] = Amazon of the Seas
+[Fairy]                   + [Female] < Dark Witch
+Dancing Elf                 Enchanting Mermaid
+Goddess of Whim             
+Goddess with the Third Eye   
+Key Mace                    
+Lunar Queen Elzaim          
+Muse-A                      
+                            
+
+[Female]                  + [Fish] = Amazon of the Seas
+[Plant]                   + [Female] < Queen of Autumn Leaves
+Arlownay                    Enchanting Mermaid
+                            
+
+[Female]                  + [Rock] = Mystical Sand
+[Warrior]                 + [Pyro] < Charubin the Fire Knight
+Princess of Tsurugi         Dissolverock
+Protector of the Throne     
+Queen's Double              
+Vishwar Randi               
+                            
+
+[Female]                  + [Rock] = Mystical Sand
+[Warrior]                 + [Pyro] < Flame Swordsman
+Beautiful Beast Trainer     Dissolverock
+Beautiful Headhuntress      
+Hibikime                    
+Invader of the Throne       
+Kanan the Swordmistress     
+Sonic Maid                  
+Succubus Knight             
+                            
+
+[Female]                  + [Rock] = Mystical Sand
+[Plant]                   + [Dragon] < B. Dragon Jungle King
+Arlownay                    Stone D.
+Queen of Autumn Leaves      
+Rose Spectre of Dunn        
+                            
+
+[Fiend]                   + Arlownay = Rose Spectre of Dunn
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Key Mace #2                 Arlownay
+                            
+
+[Fiend]                   + Job-change Mirror = Summoned Skull
+Fungi of the Musk         + [Fiend] < Darkworld Thorns
+Fungi of the Musk           Job-change Mirror
+                            
+
+[Fish]                    + [Beast] = Tatsunootoshigo
+[Female]                  + [UsableBeast] < Nekogal #2
+Amazon of the Seas          Air Marmot of Nefariousness
+Enchanting Mermaid          Armored Rat
+                            Burglar
+                            Dark Gray
+                            Frenzied Panda
+                            Fusionist
+                            Griffore
+                            Little Chimera
+                            Master & Expert
+                            Milus Radiant
+                            Mystic Horseman
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Prevent Rat
+                            Silver Fang
+                            Sleeping Lion
+                            Synchar
+                            Torike
+                            Wolf
+                            
+
+[Fish]                    + [Beast] = Marine Beast
+[Female]                  + [UsableBeast] < Nekogal #2
+Amazon of the Seas          Air Marmot of Nefariousness
+Enchanting Mermaid          Armored Rat
+Rainbow Marine Mermaid      Burglar
+                            Dark Gray
+                            Frenzied Panda
+                            Fusionist
+                            Griffore
+                            Little Chimera
+                            Master & Expert
+                            Milus Radiant
+                            Mystic Horseman
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Pale Beast
+                            Prevent Rat
+                            Silver Fang
+                            Sleeping Lion
+                            Synchar
+                            Togex
+                            Torike
+                            Wolf
+                            
+
+[Fish]                    + [Female] = Ice Water
+[Fish]                    + [Warrior] < Wow Warrior
+Root Water                  Princess of Tsurugi
+White Dolphin               Protector of the Throne
+                            Queen's Double
+                            Vishwar Randi
+                            
+
+[Fish]                    + [Female] = Ice Water
+[Fish]                    + [Beast] < Tatsunootoshigo
+Root Water                  Nekogal #1
+White Dolphin               
+                            
+
+[Fish]                    + [Female] = Amazon of the Seas
+[Fish]                    + [Warrior] < Wow Warrior
+Enchanting Mermaid          Princess of Tsurugi
+Root Water                  Protector of the Throne
+White Dolphin               Queen's Double
+                            Sonic Maid
+                            Vishwar Randi
+                            
+
+[Fish]                    + [Female] = Amazon of the Seas
+[Fish]                    + [Beast] < Tatsunootoshigo
+Enchanting Mermaid          Nekogal #1
+Wow Warrior                 
+                            
+
+[Fish]                    + [Female] = Amazon of the Seas
+[Female]                  + [Fairy] < Dark Witch
+Enchanting Mermaid          Dancing Elf
+                            Goddess of Whim
+                            Goddess with the Third Eye
+                            Key Mace
+                            Lunar Queen Elzaim
+                            Muse-A
+                            
+
+[Fish]                    + [Female] = Amazon of the Seas
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Enchanting Mermaid          Arlownay
+                            
+
+[Fish]                    + [Rainbow] = 7 Colored Fish
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Amazon of the Seas          Rainbow Flower
+Enchanting Mermaid          
+Rainbow Marine Mermaid      
+                            
+
+[Fish]                    + [Rainbow] = 7 Colored Fish
+[Female]                  + [Fairy] < Dark Witch
+Amazon of the Seas          Hoshiningen
+Enchanting Mermaid          
+Rainbow Marine Mermaid      
+                            
+
+[Jar]                     + [MercurySpellcaster] = Ushi Oni
+[Rock]                    + [Female] < Mystical Sand
+Ancient Jar                 Angelwitch
+Morphing Jar                Dark Elf
+Pot the Trick               Eldeen
+                            Nemuriko
+                            Witch of the Black Forest
+                            Witch's Apprentice
+                            
+
+[Koumorian]               + [Dragon] = Koumori Dragon
+[Dragon]                  + [Warrior] < Dragoness the Wicked Knight
+Wicked Dragon with the Ersatz Head   Dragon Statue
+                            
+
+[Koumorian]               + [Dragon] = Koumori Dragon
+[Dragon]                  + [Warrior] < D. Human
+Lesser Dragon               Dragon Statue
+                            
+
+[Koumorian]               + [Dragon] = Koumori Dragon
+[UsableBeast]             + [Warrior] < Tiger Axe
+Air Marmot of Nefariousness   Dragon Statue
+Obese Marmot of Nefariousness   
+                            
+
+[Machine]                 + [Dragon] = Metal Dragon
+[Machine]                 + [Warrior] < Cyber Soldier
+Bat                         Dragon Statue
+Blocker                     
+Brave Scizzar               
+Cannon Soldier              
+Cyber Commander             
+Cyber Soldier of Darkworld   
+Cyber-Stein                 
+Dharma Cannon               
+Disk Magician               
+Giga-tech Wolf              
+Golgoil                     
+Holograh                    
+Jinzo #7                    
+Mechanical Snail            
+Mechanical Spider           
+Patrol Robo                 
+Saber Slasher               
+Shovel Crusher              
+Steel Ogre Grotto #1        
+Steel Scorpion              
+Yaiba Robo                  
+                            
+
+[Machine]                 + [Dragon] = Metal Dragon
+[Machine]                 + [Dinosaur] < Cyber Saurus
+Ancient Tool                Crawling Dragon #2
+Bat                         Sword Arm of Dragon
+Blast Juggler               
+Blocker                     
+Brave Scizzar               
+Cannon Soldier              
+Cyber Commander             
+Cyber Soldier               
+Cyber Soldier of Darkworld   
+Cyber-Stein                 
+Dharma Cannon               
+Dice Armadillo              
+Disk Magician               
+Gatekeeper                  
+Giant Mech-soldier          
+Giga-tech Wolf              
+Giganto                     
+Golgoil                     
+Ground Attacker Bugroth     
+Guardian of the Throne Room   
+Holograh                    
+Jinzo #7                    
+Machine Attacker            
+Mechanical Snail            
+Mechanical Spider           
+Megasonic Eye               
+Metal Fish                  
+Patrol Robo                 
+Pendulum Machine            
+Saber Slasher               
+Shovel Crusher              
+Steel Ogre Grotto #1        
+Steel Scorpion              
+Yaiba Robo                  
+                            
+
+[Machine]                 + [Dragon] = Metal Dragon
+[Pyro]                    + [Warrior] < Flame Swordsman
+Blast Juggler               Dragon Statue
+                            
+
+[Machine]                 + [UsableBeast] = Giga-tech Wolf
+[Pyro]                    + [UsableBeast] < Flame Cerebrus
+Blast Juggler               Air Marmot of Nefariousness
+                            Armored Rat
+                            Burglar
+                            Dark Gray
+                            Fusionist
+                            Little Chimera
+                            Milus Radiant
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Prevent Rat
+                            Sleeping Lion
+                            Synchar
+                            
+
+[Machine]                 + [UsableBeast] = Dice Armadillo
+[Pyro]                    + [UsableBeast] < Flame Cerebrus
+Blast Juggler               Frenzied Panda
+                            Griffore
+                            Master & Expert
+                            Mystic Horseman
+                            Pale Beast
+                            Silver Fang
+                            Togex
+                            Torike
+                            Wolf
+                            
+
+[Machine]                 + [Warrior] = Cyber Soldier
+[Pyro]                    + [Warrior] < Charubin the Fire Knight
+Blast Juggler               Armaill
+                            Armed Ninja
+                            Battle Warrior
+                            Doron
+                            Eyearmor
+                            Greenkappa
+                            Guardian of the Labyrinth
+                            Hard Armor
+                            Hyo
+                            Kagemusha of the Blue Flame
+                            Kageningen
+                            M-warrior #1
+                            M-warrior #2
+                            Masked Clown
+                            Millennium Shield
+                            Monster Egg
+                            Mysterious Puppeteer
+                            Princess of Tsurugi
+                            Protector of the Throne
+                            Queen's Double
+                            Skull Stalker
+                            Supporter in the Shadows
+                            Swordsman from a Foreign Land
+                            The Little Swordsman of Aile
+                            Trap Master
+                            Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wodan the Resident of the Forest
+                            Wood Clown
+                            
+
+[Machine]                 + [Warrior] = Cyber Soldier
+[Pyro]                    + [Warrior] < Flame Swordsman
+Blast Juggler               Celtic Guardian
+                            D. Human
+                            Dimensional Warrior
+                            Dragon Statue
+                            Dragoness the Wicked Knight
+                            Dream Clown
+                            Fiend Sword
+                            Hero of the East
+                            Hibikime
+                            Invader of the Throne
+                            Kanan the Swordmistress
+                            Masaki the Legendary Swordsman
+                            Moon Envoy
+                            Mushroom Man #2
+                            Oscillo Hero
+                            Rhaimundos of the Red Sword
+                            Sonic Maid
+                            Stuffed Animal
+                            The Judgement Hand
+                            
+
+[MercuryMagicUser]        + [Dragon] = Blackland Fire Dragon
+[Zombie]                  + [Dragon] < Dragon Zombie
+Temple of Skulls            Baby Dragon
+                            Dragon Statue
+                            Fairy Dragon
+                            Lesser Dragon
+                            One-eyed Shield Dragon
+                            Petit Dragon
+                            Wicked Dragon with the Ersatz Head
+                            Winged Dragon #1
+                            Yamatano Dragon Scroll
+                            
+
+[MercuryMagicUser]        + [Dragon] = Blackland Fire Dragon
+[Warrior]                 + [Dragon] < Dragon Statue
+Guardian of the Labyrinth   One-eyed Shield Dragon
+Masked Clown                Petit Dragon
+Trap Master                 Wicked Dragon with the Ersatz Head
+Unknown Warrior of Fiend    Yamatano Dragon Scroll
+Vishwar Randi               
+Wood Clown                  
+                            
+
+[MercuryMagicUser]        + [Dragon] = Blackland Fire Dragon
+[Warrior]                 + [Dragon] < Dragoness the Wicked Knight
+Guardian of the Labyrinth   Dragon Statue
+Masked Clown                Fairy Dragon
+Trap Master                 
+Unknown Warrior of Fiend    
+Vishwar Randi               
+Wood Clown                  
+                            
+
+[MercuryMagicUser]        + [Dragon] = Blackland Fire Dragon
+[Warrior]                 + [Dragon] < D. Human
+Guardian of the Labyrinth   Baby Dragon
+Masked Clown                Lesser Dragon
+Trap Master                 
+Unknown Warrior of Fiend    
+Vishwar Randi               
+Wood Clown                  
+                            
+
+[MercuryMagicUser]        + [Dragon] = Blackland Fire Dragon
+[Warrior]                 + [Dragon] < Sword Arm of Dragon or sibling
+Guardian of the Labyrinth   Baby Dragon
+Hibikime                    Dragon Statue
+Masked Clown                Fairy Dragon
+Trap Master                 Lesser Dragon
+Unknown Warrior of Fiend    One-eyed Shield Dragon
+Vishwar Randi               Petit Dragon
+Wood Clown                  Wicked Dragon with the Ersatz Head
+                            Winged Dragon #1
+                            Yamatano Dragon Scroll
+                            
+
+[MercurySpellcaster]      + [Jar] = Ushi Oni
+[Female]                  + [Rock] < Mystical Sand
+Angelwitch                  Ancient Jar
+Dark Elf                    Morphing Jar
+Eldeen                      Pot the Trick
+Nemuriko                    
+Witch of the Black Forest   
+Witch's Apprentice          
+                            
+
+[Plant]                   + [Dragon] = B. Dragon Jungle King
+[Plant]                   + [Warrior] < Bean Soldier
+Abyss Flower                Dragon Statue
+Ancient Tree of Enlightenment   
+Arlownay                    
+Barrel Lily                 
+Dark Plant                  
+Darkworld Thorns            
+Green Phantom King          
+Griggle                     
+Laughing Flower             
+Living Vase                 
+Man Eater                   
+Man-eating Plant            
+Mushroom Man                
+Rainbow Flower              
+Snakeyashi                  
+Tentacle Plant              
+Yashinoki                   
+                            
+
+[Plant]                   + [Dragon] = B. Dragon Jungle King
+[Pyro]                    + [Warrior] < Flame Swordsman
+Firegrass                   Dragon Statue
+                            
+
+[Plant]                   + [Dragon] = B. Dragon Jungle King
+[Plant]                   + [Zombie] < Pumpking the King of Ghosts
+Abyss Flower                Dragon Zombie
+Ancient Tree of Enlightenment   Skelgon
+Arlownay                    
+Barrel Lily                 
+Bean Soldier                
+Dark Plant                  
+Darkworld Thorns            
+Firegrass                   
+Green Phantom King          
+Griggle                     
+Laughing Flower             
+Living Vase                 
+Man Eater                   
+Man-eating Plant            
+Mushroom Man                
+Rainbow Flower              
+Snakeyashi                  
+Tentacle Plant              
+Trent                       
+Yashinoki                   
+                            
+
+[Plant]                   + [UsableBeast] = Flower Wolf
+[Female]                  + [UsableBeast] < Nekogal #2
+Arlownay                    Air Marmot of Nefariousness
+                            Armored Rat
+                            Burglar
+                            Dark Gray
+                            Frenzied Panda
+                            Fusionist
+                            Griffore
+                            Leogun
+                            Little Chimera
+                            Master & Expert
+                            Milus Radiant
+                            Mystic Horseman
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Pale Beast
+                            Prevent Rat
+                            Silver Fang
+                            Sleeping Lion
+                            Synchar
+                            Togex
+                            Torike
+                            Wolf
+                            
+
+[Plant]                   + [UsableBeast] = Flower Wolf
+[Pyro]                    + [UsableBeast] < Flame Cerebrus
+Firegrass                   Air Marmot of Nefariousness
+                            Armored Rat
+                            Burglar
+                            Dark Gray
+                            Frenzied Panda
+                            Fusionist
+                            Griffore
+                            Leogun
+                            Little Chimera
+                            Master & Expert
+                            Milus Radiant
+                            Mystic Horseman
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Pale Beast
+                            Prevent Rat
+                            Silver Fang
+                            Sleeping Lion
+                            Synchar
+                            Togex
+                            Torike
+                            Wolf
+                            
+
+[Plant]                   + [Warrior] = Bean Soldier
+[Pyro]                    + [Warrior] < Charubin the Fire Knight
+Firegrass                   Armaill
+                            Armed Ninja
+                            Battle Warrior
+                            Doron
+                            Eyearmor
+                            Greenkappa
+                            Guardian of the Labyrinth
+                            Hard Armor
+                            Hyo
+                            Kagemusha of the Blue Flame
+                            Kageningen
+                            M-warrior #1
+                            M-warrior #2
+                            Masked Clown
+                            Millennium Shield
+                            Monster Egg
+                            Mysterious Puppeteer
+                            Skull Stalker
+                            Supporter in the Shadows
+                            Swordsman from a Foreign Land
+                            The Little Swordsman of Aile
+                            Trap Master
+                            Unknown Warrior of Fiend
+                            Wodan the Resident of the Forest
+                            Wood Clown
+                            
+
+[Plant]                   + [Warrior] = Bean Soldier
+[Pyro]                    + [Warrior] < Flame Swordsman
+Firegrass                   D. Human
+                            Dimensional Warrior
+                            Dragon Statue
+                            Dragoness the Wicked Knight
+                            Dream Clown
+                            Hero of the East
+                            Masaki the Legendary Swordsman
+                            Moon Envoy
+                            Mushroom Man #2
+                            Oscillo Hero
+                            Rhaimundos of the Red Sword
+                            Stuffed Animal
+                            
+
+[Plant]                   + [Warrior] = Bean Soldier
+[Plant]                   + [Female] < Queen of Autumn Leaves
+Abyss Flower                Invader of the Throne
+Ancient Tree of Enlightenment   Princess of Tsurugi
+Arlownay                    Protector of the Throne
+Barrel Lily                 Queen's Double
+Dark Plant                  Sonic Maid
+Darkworld Thorns            Vishwar Randi
+Firegrass                   
+Green Phantom King          
+Griggle                     
+Laughing Flower             
+Living Vase                 
+Man Eater                   
+Man-eating Plant            
+Mushroom Man                
+Rainbow Flower              
+Snakeyashi                  
+Tentacle Plant              
+Yashinoki                   
+                            
+
+[Pyro]                    + Fiend Kraken = Fire Kraken
+[Dragon]                  + [Aqua] < Spike Seadra
+Darkfire Dragon             Fiend Kraken
+                            
+
+[Pyro]                    + [Rock] = Dissolverock
+[Zombie]                  + [Rock] < Stone Ghost
+Fire Reaper                 Ancient Jar
+                            Haniwa
+                            Labyrinth Wall
+                            Morphing Jar
+                            Muka Muka
+                            Pot the Trick
+                            Prisman
+                            Rock Ogre Grotto #1
+                            Rock Ogre Grotto #2
+                            Stone Armadiller
+                            
+
+[Pyro]                    + [Rock] = Dissolverock
+[Warrior]                 + [Rock] < Minomushi Warrior
+Armaill                     Ancient Jar
+Kagemusha of the Blue Flame   Haniwa
+                            Labyrinth Wall
+                            Morphing Jar
+                            Muka Muka
+                            Pot the Trick
+                            Prisman
+                            Rock Ogre Grotto #1
+                            Rock Ogre Grotto #2
+                            Stone Armadiller
+                            
+
+[Pyro]                    + [Turtle] = Giant Turtle Who Feeds on Flames
+[Spellcaster]             + [Turtle] < 30,000-Year White Turtle
+Flame Manipulator           Catapult Turtle
+                            Monsturtle
+                            Turtle Raccoon
+                            Turtle Tiger
+                            
+
+[Pyro]                    + [Turtle] = Giant Turtle Who Feeds on Flames
+[Rock]                    + [Turtle] < Boulder Tortoise
+Dissolverock                30,000-Year White Turtle
+                            Catapult Turtle
+                            Monsturtle
+                            Turtle Raccoon
+                            Turtle Tiger
+                            
+
+[Pyro]                    + [Turtle] = Giant Turtle Who Feeds on Flames
+[Winged Beast]            + [Turtle] < Turtle Bird
+Mavelus                     30,000-Year White Turtle
+                            Catapult Turtle
+                            Monsturtle
+                            Turtle Raccoon
+                            Turtle Tiger
+                            
+
+[Pyro]                    + [Warrior] = Charubin the Fire Knight
+[Zombie]                  + [Warrior] < Zombie Warrior
+Fire Reaper                 Armaill
+Flame Ghost                 Armed Ninja
+                            Battle Warrior
+                            Doron
+                            Eyearmor
+                            Greenkappa
+                            Guardian of the Labyrinth
+                            Hard Armor
+                            Hyo
+                            Kagemusha of the Blue Flame
+                            Kageningen
+                            M-warrior #1
+                            M-warrior #2
+                            Masked Clown
+                            Millennium Shield
+                            Monster Egg
+                            Mysterious Puppeteer
+                            Princess of Tsurugi
+                            Protector of the Throne
+                            Queen's Double
+                            Skull Stalker
+                            Supporter in the Shadows
+                            Swordsman from a Foreign Land
+                            The Little Swordsman of Aile
+                            Trap Master
+                            Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wodan the Resident of the Forest
+                            Wood Clown
+                            
+
+[Pyro]                    + [Warrior] = Charubin the Fire Knight
+[Plant]                   + [Female] < Queen of Autumn Leaves
+Firegrass                   Princess of Tsurugi
+                            Protector of the Throne
+                            Queen's Double
+                            Vishwar Randi
+                            
+
+[Pyro]                    + [Warrior] = Flame Swordsman
+[Zombie]                  + [Warrior] < Zombie Warrior
+Fire Reaper                 Hero of the East
+Flame Ghost                 Masaki the Legendary Swordsman
+                            Moon Envoy
+                            
+
+[Pyro]                    + [Warrior] = Flame Swordsman
+[Zombie]                  + [Warrior] < Armored Zombie
+Fire Reaper                 Celtic Guardian
+Flame Ghost                 D. Human
+                            Dimensional Warrior
+                            Dragoness the Wicked Knight
+                            Dream Clown
+                            Fiend Sword
+                            Hibikime
+                            Invader of the Throne
+                            Kanan the Swordmistress
+                            Mushroom Man #2
+                            Oscillo Hero
+                            Rhaimundos of the Red Sword
+                            Sonic Maid
+                            Stuffed Animal
+                            The Judgement Hand
+                            
+
+[Pyro]                    + [Warrior] = Flame Swordsman
+[Zombie]                  + [Dragon] < Dragon Zombie
+Fire Reaper                 Dragon Statue
+Flame Ghost                 
+                            
+
+[Pyro]                    + [Warrior] = Flame Swordsman
+[Plant]                   + [Female] < Queen of Autumn Leaves
+Firegrass                   Beautiful Beast Trainer
+                            Beautiful Headhuntress
+                            Hibikime
+                            Invader of the Throne
+                            Kanan the Swordmistress
+                            Sonic Maid
+                            Succubus Knight
+                            
+
+[Pyro]                    + [Winged Beast] = Crimson Sunbird
+[Warrior]                 + [Pyro] < Flame Swordsman
+Armaill                     Mavelus
+Kagemusha of the Blue Flame   
+                            
+
+[Pyro]                    + [Winged Beast] = Crimson Sunbird
+[Warrior]                 + [Pyro] < Vermillion Sparrow
+Flame Swordsman             Mavelus
+                            
+
+[Pyro]                    + [Winged Beast] = Crimson Sunbird
+[Plant]                   + [Female] < Queen of Autumn Leaves
+Firegrass                   Harpie Lady
+                            
+
+[Pyro]                    + [Winged Beast] = Crimson Sunbird
+[Dragon]                  + Harpie Lady < Harpie's Pet Dragon
+Darkfire Dragon             Harpie Lady
+Metal Dragon                
+Tyhone #2                   
+Yamadron                    
+                            
+
+[Pyro]                    + [Winged Beast] = Crimson Sunbird
+[Rock]                    + [Female] < Mystical Sand
+Dissolverock                Harpie Lady
+                            Harpie Lady Sisters
+                            
+
+[Pyro]                    + [Zombie] = Flame Ghost
+[Plant]                   + [Zombie] < Wood Remains
+Firegrass                   Blue-eyed Silver Zombie
+                            Bone Mouse
+                            Dokuroizo the Grim Reaper
+                            Fiend's Hand
+                            Fire Reaper
+                            Graveyard and the Hand of Invitation
+                            Mech Mole Zombie
+                            Phantom Ghost
+                            Shadow Specter
+                            Skull Servant
+                            Temple of Skulls
+                            The Wandering Doomed
+                            
+
+[Pyro]                    + [Zombie] = Flame Ghost
+[Warrior]                 + [Zombie] < Zombie Warrior
+Armaill                     Blue-eyed Silver Zombie
+Kagemusha of the Blue Flame   Bone Mouse
+                            Dokuroizo the Grim Reaper
+                            Fiend's Hand
+                            Fire Reaper
+                            Graveyard and the Hand of Invitation
+                            Mech Mole Zombie
+                            Phantom Ghost
+                            Shadow Specter
+                            Skull Servant
+                            Temple of Skulls
+                            The Wandering Doomed
+                            
+
+[Pyro]                    + [Zombie] = Flame Ghost
+[Rock]                    + [Zombie] < Stone Ghost
+Dissolverock                Blue-eyed Silver Zombie
+                            Bone Mouse
+                            Dokuroizo the Grim Reaper
+                            Fiend's Hand
+                            Fire Reaper
+                            Graveyard and the Hand of Invitation
+                            Mech Mole Zombie
+                            Phantom Ghost
+                            Shadow Specter
+                            Skull Servant
+                            Temple of Skulls
+                            The Wandering Doomed
+                            
+
+[Pyro]                    + [Zombie] = Flame Ghost
+[Spellcaster]             + [Zombie] < Magical Ghost
+Flame Manipulator           Blue-eyed Silver Zombie
+                            Bone Mouse
+                            Dokuroizo the Grim Reaper
+                            Fiend's Hand
+                            Fire Reaper
+                            Graveyard and the Hand of Invitation
+                            Mech Mole Zombie
+                            Phantom Ghost
+                            Shadow Specter
+                            Skull Servant
+                            Temple of Skulls
+                            The Wandering Doomed
+                            
+
+[Pyro]                    + [Zombie] = Flame Ghost
+[Zombie]                 + Graveyard and the Hand of Invitation < The Snake Hair
+Fire Reaper                 Graveyard and the Hand of Invitation
+                            
+
+[Rainbow]                 + [Fish] = 7 Colored Fish
+[Plant]                   + [Female] < Queen of Autumn Leaves
+Rainbow Flower              Amazon of the Seas
+                            Enchanting Mermaid
+                            Rainbow Marine Mermaid
+                            
+
+[Rainbow]                 + [Fish] = 7 Colored Fish
+[Fairy]                   + [Female] < Dark Witch
+Hoshiningen                 Amazon of the Seas
+                            Enchanting Mermaid
+                            Rainbow Marine Mermaid
+                            
+
+[Rock]                    + [Dragon] = Stone D.
+[Pyro]                    + [Warrior] < Flame Swordsman
+Dissolverock                Dragon Statue
+                            
+
+[Rock]                    + [Female] = Mystical Sand
+[Pyro]                    + [Warrior] < Charubin the Fire Knight
+Dissolverock                Princess of Tsurugi
+                            Protector of the Throne
+                            Queen's Double
+                            Vishwar Randi
+                            
+
+[Rock]                    + [Female] = Mystical Sand
+[Pyro]                    + [Warrior] < Flame Swordsman
+Dissolverock                Beautiful Beast Trainer
+                            Beautiful Headhuntress
+                            Hibikime
+                            Invader of the Throne
+                            Kanan the Swordmistress
+                            Sonic Maid
+                            Succubus Knight
+                            
+
+[Rock]                    + [Female] = Mystical Sand
+[Dragon]                  + [Plant] < B. Dragon Jungle King
+Stone D.                    Arlownay
+                            Queen of Autumn Leaves
+                            Rose Spectre of Dunn
+                            
+
+[Rock]                    + [Pyro] = Dissolverock
+[Rock]                    + [Zombie] < Stone Ghost
+Ancient Jar                 Fire Reaper
+Haniwa                      
+Labyrinth Wall              
+Morphing Jar                
+Muka Muka                   
+Pot the Trick               
+Prisman                     
+Rock Ogre Grotto #1         
+Rock Ogre Grotto #2         
+Stone Armadiller            
+                            
+
+[Rock]                    + [Pyro] = Dissolverock
+[Rock]                    + [Warrior] < Minomushi Warrior
+Ancient Jar                 Armaill
+Haniwa                      Kagemusha of the Blue Flame
+Labyrinth Wall              
+Morphing Jar                
+Muka Muka                   
+Pot the Trick               
+Prisman                     
+Rock Ogre Grotto #1         
+Rock Ogre Grotto #2         
+Stone Armadiller            
+                            
+
+[Rock]                    + [Warrior] = Minomushi Warrior
+[Pyro]                    + [Warrior] < Charubin the Fire Knight
+Dissolverock                Armaill
+                            Armed Ninja
+                            Battle Warrior
+                            Doron
+                            Eyearmor
+                            Greenkappa
+                            Guardian of the Labyrinth
+                            Hard Armor
+                            Hyo
+                            Kagemusha of the Blue Flame
+                            Kageningen
+                            M-warrior #1
+                            M-warrior #2
+                            Masked Clown
+                            Millennium Shield
+                            Monster Egg
+                            Mysterious Puppeteer
+                            Princess of Tsurugi
+                            Protector of the Throne
+                            Queen's Double
+                            Skull Stalker
+                            Supporter in the Shadows
+                            Swordsman from a Foreign Land
+                            The Little Swordsman of Aile
+                            Trap Master
+                            Unknown Warrior of Fiend
+                            Vishwar Randi
+                            Wodan the Resident of the Forest
+                            Wood Clown
+                            
+
+[Rock]                    + [Warrior] = Minomushi Warrior
+[Pyro]                    + [Warrior] < Flame Swordsman
+Dissolverock                Dimensional Warrior
+                            Dragon Statue
+                            Dragoness the Wicked Knight
+                            Dream Clown
+                            Hero of the East
+                            Masaki the Legendary Swordsman
+                            Moon Envoy
+                            Mushroom Man #2
+                            Oscillo Hero
+                            Rhaimundos of the Red Sword
+                            Sonic Maid
+                            Stuffed Animal
+                            
+
+[Rock]                    + [Warrior] = Minomushi Warrior
+[Rock]                    + [Dragon] < Stone D.
+Ancient Jar                 Dragon Statue
+Barrel Rock                 
+Haniwa                      
+Labyrinth Wall              
+Morphing Jar                
+Muka Muka                   
+Pot the Trick               
+Prisman                     
+Rock Ogre Grotto #1         
+Rock Ogre Grotto #2         
+Stone Armadiller            
+Stone Ghost                 
+The Statue of Easter Island   
+The Thing That Hides in the Mud   
+                            
+
+[Rock]                    + [Warrior] = Minomushi Warrior
+[Rock]                    + [Female] < Mystical Sand
+Ancient Jar                 Princess of Tsurugi
+Barrel Rock                 Protector of the Throne
+Haniwa                      Queen's Double
+Labyrinth Wall              Sonic Maid
+Morphing Jar                Vishwar Randi
+Muka Muka                   
+Pot the Trick               
+Prisman                     
+Rock Ogre Grotto #1         
+Rock Ogre Grotto #2         
+Stone Armadiller            
+Stone Ghost                 
+The Statue of Easter Island   
+The Thing That Hides in the Mud   
+                            
+
+[Spellcaster]             + Mystic Lamp = Lord of the Lamp
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Mystical Elf                Mystic Lamp
+                            
+
+[Spellcaster]             + Spike Seadra = Kaminari Attack
+Time Wizard               + [Dragon] < Thousand Dragon
+Time Wizard                 Spike Seadra
+                            
+
+[Spellcaster]             + [Thunder] = Kaminari Attack
+Time Wizard               + [Dragon] < Thousand Dragon
+Time Wizard                 Thunder Dragon
+                            
+
+[Spellcaster]             + [Zombie] = Magical Ghost
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Mystical Elf                Temple of Skulls
+                            
+
+[Thunder]                 + [Dragon] = Twin-headed Thunder Dragon
+[Dragon]                  + [Zombie] < Skelgon
+Thunder Dragon              Dragon Zombie
+                            
+
+[Thunder]                 + [Dragon] = Twin-headed Thunder Dragon
+[Dragon]                  + [Warrior] < Sword Arm of Dragon
+Thunder Dragon              Dragon Statue
+                            
+
+[Thunder]                 + [Spellcaster] = Kaminari Attack
+[Dragon]                  + Time Wizard < Thousand Dragon
+Thunder Dragon              Time Wizard
+                            
+
+[Turtle]                  + [Dragon] = Sea King Dragon
+[Aqua]                    + [Dragon] < Spike Seadra
+30,000-Year White Turtle    Baby Dragon
+Boulder Tortoise            Blackland Fire Dragon
+Catapult Turtle             Darkfire Dragon
+Giant Turtle Who Feeds on Flames   Dragon Statue
+Monsturtle                  Fairy Dragon
+Turtle Raccoon              Koumori Dragon
+Turtle Tiger                Lesser Dragon
+                            One-eyed Shield Dragon
+                            Petit Dragon
+                            Takriminos
+                            Wicked Dragon with the Ersatz Head
+                            Winged Dragon #1
+                            Yamatano Dragon Scroll
+                            
+
+[Turtle]                  + [Dragon] = Sea King Dragon
+[Aqua]                    + [Dragon] < Kairyu-shin
+30,000-Year White Turtle    Crawling Dragon
+Boulder Tortoise            Crawling Dragon #2
+Catapult Turtle             Dragon Zombie
+Giant Turtle Who Feeds on Flames   Skelgon
+Monsturtle                  Spike Seadra
+Turtle Raccoon              Sword Arm of Dragon
+Turtle Tiger                Thunder Dragon
+                            Tyhone #2
+                            Yamadron
+                            
+
+[Turtle]                  + [Pyro] = Giant Turtle Who Feeds on Flames
+[Turtle]                  + [Spellcaster] < 30,000-Year White Turtle
+Catapult Turtle             Flame Manipulator
+Monsturtle                  
+Turtle Raccoon              
+Turtle Tiger                
+                            
+
+[Turtle]                  + [Pyro] = Giant Turtle Who Feeds on Flames
+[Turtle]                  + [Rock] < Boulder Tortoise
+30,000-Year White Turtle    Dissolverock
+Catapult Turtle             
+Monsturtle                  
+Turtle Raccoon              
+Turtle Tiger                
+                            
+
+[Turtle]                  + [Pyro] = Giant Turtle Who Feeds on Flames
+[Turtle]                  + [Winged Beast] < Turtle Bird
+30,000-Year White Turtle    Mavelus
+Catapult Turtle             
+Monsturtle                  
+Turtle Raccoon              
+Turtle Tiger                
+                            
+
+[UsableBeast]             + [Machine] = Giga-tech Wolf
+[UsableBeast]             + [Pyro] < Flame Cerebrus
+Air Marmot of Nefariousness   Blast Juggler
+Armored Rat                 
+Burglar                     
+Dark Gray                   
+Fusionist                   
+Little Chimera              
+Milus Radiant               
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Prevent Rat                 
+Sleeping Lion               
+Synchar                     
+                            
+
+[UsableBeast]             + [Machine] = Dice Armadillo
+[UsableBeast]             + [Pyro] < Flame Cerebrus
+Frenzied Panda              Blast Juggler
+Griffore                    
+Master & Expert             
+Mystic Horseman             
+Pale Beast                  
+Silver Fang                 
+Togex                       
+Torike                      
+Wolf                        
+                            
+
+[UsableBeast]             + [Plant] = Flower Wolf
+[UsableBeast]             + [Female] < Nekogal #2
+Air Marmot of Nefariousness   Arlownay
+Armored Rat                 
+Burglar                     
+Dark Gray                   
+Frenzied Panda              
+Fusionist                   
+Griffore                    
+Leogun                      
+Little Chimera              
+Master & Expert             
+Milus Radiant               
+Mystic Horseman             
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Pale Beast                  
+Prevent Rat                 
+Silver Fang                 
+Sleeping Lion               
+Synchar                     
+Togex                       
+Torike                      
+Wolf                        
+                            
+
+[UsableBeast]             + [Plant] = Flower Wolf
+[UsableBeast]             + [Pyro] < Flame Cerebrus
+Air Marmot of Nefariousness   Firegrass
+Armored Rat                 
+Burglar                     
+Dark Gray                   
+Frenzied Panda              
+Fusionist                   
+Griffore                    
+Leogun                      
+Little Chimera              
+Master & Expert             
+Milus Radiant               
+Mystic Horseman             
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Pale Beast                  
+Prevent Rat                 
+Silver Fang                 
+Sleeping Lion               
+Synchar                     
+Togex                       
+Torike                      
+Wolf                        
+                            
+
+[UsableBeast]             + [Warrior] = Tiger Axe
+[UsableBeast]             + [Female] < Nekogal #2
+Air Marmot of Nefariousness   Princess of Tsurugi
+Armored Rat                 Protector of the Throne
+Burglar                     Queen's Double
+Dark Gray                   Sonic Maid
+Frenzied Panda              Vishwar Randi
+Fusionist                   
+Griffore                    
+Little Chimera              
+Master & Expert             
+Milus Radiant               
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Prevent Rat                 
+Silver Fang                 
+Sleeping Lion               
+Synchar                     
+Torike                      
+Wolf                        
+                            
+
+[UsableBeast]             + [Warrior] = Tiger Axe
+[UsableBeast]             + [Pyro] < Flame Cerebrus
+Air Marmot of Nefariousness   Armaill
+Armored Rat                 Kagemusha of the Blue Flame
+Burglar                     
+Dark Gray                   
+Frenzied Panda              
+Fusionist                   
+Griffore                    
+Little Chimera              
+Master & Expert             
+Milus Radiant               
+Mystical Sheep #1           
+Mystical Sheep #2           
+Obese Marmot of Nefariousness   
+Prevent Rat                 
+Silver Fang                 
+Sleeping Lion               
+Synchar                     
+Torike                      
+Wolf                        
+                            
+
+[Warrior]                 + The Judgement Hand = Judge Man
+[Dragon]                  + [Warrior] < Sword Arm of Dragon
+Dragon Statue               The Judgement Hand
+                            
+
+[Warrior]                 + The Judgement Hand = Judge Man
+{Hibikime, Sonic Maid}    + [MusKingian] < Musician King
+Hibikime                    The Judgement Hand
+Sonic Maid                  
+                            
+
+[Warrior]                 + The Judgement Hand = Judge Man
+[Pyro]                    + [Warrior] < Flame Swordsman
+Armaill                     The Judgement Hand
+Kagemusha of the Blue Flame   
+                            
+
+[Warrior]                 + The Judgement Hand = Judge Man
+[Pyro]                    + [Warrior] < Vermillion Sparrow
+Flame Swordsman             The Judgement Hand
+                            
+
+[Warrior]                 + [Dragon] = Dragoness the Wicked Knight
+[Pyro]                    + [Warrior] < Flame Swordsman
+Armaill                     Dragon Statue
+Kagemusha of the Blue Flame   
+                            
+
+[Warrior]                 + [Dragon] = Sword Arm of Dragon
+[Dragon]                  + [Zombie] < Skelgon
+Dragon Statue               Dragon Zombie
+                            
+
+[Warrior]                 + [Dragon] = Sword Arm of Dragon
+[Warrior]                 + [Pyro] < Flame Swordsman
+Ansatsu                     Darkfire Dragon
+Armaill                     Tyhone #2
+Armed Ninja                 Yamadron
+Axe Raider                  
+Battle Warrior              
+Beautiful Headhuntress      
+Celtic Guardian             
+D. Human                    
+Dimensional Warrior         
+Doron                       
+Dragon Statue               
+Dragoness the Wicked Knight   
+Dream Clown                 
+Eyearmor                    
+Fiend Sword                 
+Greenkappa                  
+Guardian of the Labyrinth   
+Hard Armor                  
+Hero of the East            
+Hibikime                    
+Hyo                         
+Invader of the Throne       
+Kagemusha of the Blue Flame   
+Kageningen                  
+Kanan the Swordmistress     
+Karbonala Warrior           
+Kojikocy                    
+Lava Battleguard            
+M-warrior #1                
+M-warrior #2                
+Masaki the Legendary Swordsman   
+Masked Clown                
+Millennium Shield           
+Monster Egg                 
+Moon Envoy                  
+Mushroom Man #2             
+Mysterious Puppeteer        
+Oscillo Hero                
+Princess of Tsurugi         
+Protector of the Throne     
+Queen's Double              
+Rhaimundos of the Red Sword   
+Skull Stalker               
+Sonic Maid                  
+Stuffed Animal              
+Succubus Knight             
+Supporter in the Shadows    
+Swordsman from a Foreign Land   
+The Judgement Hand          
+The Little Swordsman of Aile   
+Trap Master                 
+Unknown Warrior of Fiend    
+Vishwar Randi               
+Wall Shadow                 
+Wodan the Resident of the Forest   
+Wood Clown                  
+Zanki                       
+                            
+
+[Warrior]                 + [Dragon] = Sword Arm of Dragon
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Celtic Guardian             Blackland Fire Dragon
+                            
+
+[Warrior]                 + [Elf] = Celtic Guardian
+[MercuryMagicUser]        + [Elf] < Dark Elf
+Guardian of the Labyrinth   Dancing Elf
+Masked Clown                Mystical Elf
+Trap Master                 Wing Egg Elf
+Unknown Warrior of Fiend    
+Vishwar Randi               
+Wood Clown                  
+                            
+
+[Warrior]                 + [Machine] = Cyber Soldier
+[Warrior]                 + [Pyro] < Charubin the Fire Knight
+Armaill                     Blast Juggler
+Armed Ninja                 
+Battle Warrior              
+Doron                       
+Eyearmor                    
+Greenkappa                  
+Guardian of the Labyrinth   
+Hard Armor                  
+Hyo                         
+Kagemusha of the Blue Flame   
+Kageningen                  
+M-warrior #1                
+M-warrior #2                
+Masked Clown                
+Millennium Shield           
+Monster Egg                 
+Mysterious Puppeteer        
+Princess of Tsurugi         
+Protector of the Throne     
+Queen's Double              
+Skull Stalker               
+Supporter in the Shadows    
+Swordsman from a Foreign Land   
+The Little Swordsman of Aile   
+Trap Master                 
+Unknown Warrior of Fiend    
+Vishwar Randi               
+Wodan the Resident of the Forest   
+Wood Clown                  
+                            
+
+[Warrior]                 + [Machine] = Cyber Soldier
+[Warrior]                 + [Pyro] < Flame Swordsman
+Celtic Guardian             Blast Juggler
+D. Human                    
+Dimensional Warrior         
+Dragon Statue               
+Dragoness the Wicked Knight   
+Dream Clown                 
+Fiend Sword                 
+Hero of the East            
+Hibikime                    
+Invader of the Throne       
+Kanan the Swordmistress     
+Masaki the Legendary Swordsman   
+Moon Envoy                  
+Mushroom Man #2             
+Oscillo Hero                
+Rhaimundos of the Red Sword   
+Sonic Maid                  
+Stuffed Animal              
+The Judgement Hand          
+                            
+
+[Warrior]                 + [Plant] = Bean Soldier
+[Warrior]                 + [Pyro] < Charubin the Fire Knight
+Armaill                     Firegrass
+Armed Ninja                 
+Battle Warrior              
+Doron                       
+Eyearmor                    
+Greenkappa                  
+Guardian of the Labyrinth   
+Hard Armor                  
+Hyo                         
+Kagemusha of the Blue Flame   
+Kageningen                  
+M-warrior #1                
+M-warrior #2                
+Masked Clown                
+Millennium Shield           
+Monster Egg                 
+Mysterious Puppeteer        
+Skull Stalker               
+Supporter in the Shadows    
+Swordsman from a Foreign Land   
+The Little Swordsman of Aile   
+Trap Master                 
+Unknown Warrior of Fiend    
+Wodan the Resident of the Forest   
+Wood Clown                  
+                            
+
+[Warrior]                 + [Plant] = Bean Soldier
+[Warrior]                 + [Pyro] < Flame Swordsman
+D. Human                    Firegrass
+Dimensional Warrior         
+Dragon Statue               
+Dragoness the Wicked Knight   
+Dream Clown                 
+Hero of the East            
+Masaki the Legendary Swordsman   
+Moon Envoy                  
+Mushroom Man #2             
+Oscillo Hero                
+Rhaimundos of the Red Sword   
+Stuffed Animal              
+                            
+
+[Warrior]                 + [Plant] = Bean Soldier
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Invader of the Throne       Abyss Flower
+Princess of Tsurugi         Ancient Tree of Enlightenment
+Protector of the Throne     Arlownay
+Queen's Double              Barrel Lily
+Sonic Maid                  Dark Plant
+Vishwar Randi               Darkworld Thorns
+                            Firegrass
+                            Green Phantom King
+                            Griggle
+                            Laughing Flower
+                            Living Vase
+                            Man Eater
+                            Man-eating Plant
+                            Mushroom Man
+                            Rainbow Flower
+                            Snakeyashi
+                            Tentacle Plant
+                            Yashinoki
+                            
+
+[Warrior]                 + [Pyro] = Charubin the Fire Knight
+[Warrior]                 + [Zombie] < Zombie Warrior
+Armaill                     Fire Reaper
+Armed Ninja                 Flame Ghost
+Battle Warrior              
+Doron                       
+Eyearmor                    
+Greenkappa                  
+Guardian of the Labyrinth   
+Hard Armor                  
+Hyo                         
+Kagemusha of the Blue Flame   
+Kageningen                  
+M-warrior #1                
+M-warrior #2                
+Masked Clown                
+Millennium Shield           
+Monster Egg                 
+Mysterious Puppeteer        
+Princess of Tsurugi         
+Protector of the Throne     
+Queen's Double              
+Skull Stalker               
+Supporter in the Shadows    
+Swordsman from a Foreign Land   
+The Little Swordsman of Aile   
+Trap Master                 
+Unknown Warrior of Fiend    
+Vishwar Randi               
+Wodan the Resident of the Forest   
+Wood Clown                  
+                            
+
+[Warrior]                 + [Pyro] = Charubin the Fire Knight
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Princess of Tsurugi         Firegrass
+Protector of the Throne     
+Queen's Double              
+Vishwar Randi               
+                            
+
+[Warrior]                 + [Pyro] = Flame Swordsman
+[Warrior]                 + [Zombie] < Zombie Warrior
+Hero of the East            Fire Reaper
+Masaki the Legendary Swordsman   Flame Ghost
+Moon Envoy                  
+                            
+
+[Warrior]                 + [Pyro] = Flame Swordsman
+[Warrior]                 + [Zombie] < Armored Zombie
+Celtic Guardian             Fire Reaper
+D. Human                    Flame Ghost
+Dimensional Warrior         
+Dragoness the Wicked Knight   
+Dream Clown                 
+Fiend Sword                 
+Hibikime                    
+Invader of the Throne       
+Kanan the Swordmistress     
+Mushroom Man #2             
+Oscillo Hero                
+Rhaimundos of the Red Sword   
+Sonic Maid                  
+Stuffed Animal              
+The Judgement Hand          
+                            
+
+[Warrior]                 + [Pyro] = Flame Swordsman
+[Dragon]                  + [Zombie] < Dragon Zombie
+Dragon Statue               Fire Reaper
+                            Flame Ghost
+                            
+
+[Warrior]                 + [Pyro] = Flame Swordsman
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Beautiful Beast Trainer     Firegrass
+Beautiful Headhuntress      
+Hibikime                    
+Invader of the Throne       
+Kanan the Swordmistress     
+Sonic Maid                  
+Succubus Knight             
+                            
+
+[Warrior]                 + [Rock] = Minomushi Warrior
+[Warrior]                 + [Pyro] < Charubin the Fire Knight
+Armaill                     Dissolverock
+Armed Ninja                 
+Battle Warrior              
+Doron                       
+Eyearmor                    
+Greenkappa                  
+Guardian of the Labyrinth   
+Hard Armor                  
+Hyo                         
+Kagemusha of the Blue Flame   
+Kageningen                  
+M-warrior #1                
+M-warrior #2                
+Masked Clown                
+Millennium Shield           
+Monster Egg                 
+Mysterious Puppeteer        
+Princess of Tsurugi         
+Protector of the Throne     
+Queen's Double              
+Skull Stalker               
+Supporter in the Shadows    
+Swordsman from a Foreign Land   
+The Little Swordsman of Aile   
+Trap Master                 
+Unknown Warrior of Fiend    
+Vishwar Randi               
+Wodan the Resident of the Forest   
+Wood Clown                  
+                            
+
+[Warrior]                 + [Rock] = Minomushi Warrior
+[Warrior]                 + [Pyro] < Flame Swordsman
+Dimensional Warrior         Dissolverock
+Dragon Statue               
+Dragoness the Wicked Knight   
+Dream Clown                 
+Hero of the East            
+Masaki the Legendary Swordsman   
+Moon Envoy                  
+Mushroom Man #2             
+Oscillo Hero                
+Rhaimundos of the Red Sword   
+Sonic Maid                  
+Stuffed Animal              
+                            
+
+[Warrior]                 + [Rock] = Minomushi Warrior
+[Dragon]                  + [Rock] < Stone D.
+Dragon Statue               Ancient Jar
+                            Barrel Rock
+                            Haniwa
+                            Labyrinth Wall
+                            Morphing Jar
+                            Muka Muka
+                            Pot the Trick
+                            Prisman
+                            Rock Ogre Grotto #1
+                            Rock Ogre Grotto #2
+                            Stone Armadiller
+                            Stone Ghost
+                            The Statue of Easter Island
+                            The Thing That Hides in the Mud
+                            
+
+[Warrior]                 + [Rock] = Minomushi Warrior
+[Female]                  + [Rock] < Mystical Sand
+Princess of Tsurugi         Ancient Jar
+Protector of the Throne     Barrel Rock
+Queen's Double              Haniwa
+Sonic Maid                  Labyrinth Wall
+Vishwar Randi               Morphing Jar
+                            Muka Muka
+                            Pot the Trick
+                            Prisman
+                            Rock Ogre Grotto #1
+                            Rock Ogre Grotto #2
+                            Stone Armadiller
+                            Stone Ghost
+                            The Statue of Easter Island
+                            The Thing That Hides in the Mud
+                            
+
+[Warrior]                 + [UsableBeast] = Tiger Axe
+[Female]                  + [UsableBeast] < Nekogal #2
+Princess of Tsurugi         Air Marmot of Nefariousness
+Protector of the Throne     Armored Rat
+Queen's Double              Burglar
+Sonic Maid                  Dark Gray
+Vishwar Randi               Frenzied Panda
+                            Fusionist
+                            Griffore
+                            Little Chimera
+                            Master & Expert
+                            Milus Radiant
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Prevent Rat
+                            Silver Fang
+                            Sleeping Lion
+                            Synchar
+                            Torike
+                            Wolf
+                            
+
+[Warrior]                 + [UsableBeast] = Tiger Axe
+[Pyro]                    + [UsableBeast] < Flame Cerebrus
+Armaill                     Air Marmot of Nefariousness
+Kagemusha of the Blue Flame   Armored Rat
+                            Burglar
+                            Dark Gray
+                            Frenzied Panda
+                            Fusionist
+                            Griffore
+                            Little Chimera
+                            Master & Expert
+                            Milus Radiant
+                            Mystical Sheep #1
+                            Mystical Sheep #2
+                            Obese Marmot of Nefariousness
+                            Prevent Rat
+                            Silver Fang
+                            Sleeping Lion
+                            Synchar
+                            Torike
+                            Wolf
+                            
+
+[Warrior]                 + [Zombie] = Zombie Warrior
+[Dragon]                  + [Zombie] < Dragon Zombie
+Dragon Statue               Blue-eyed Silver Zombie
+                            Bone Mouse
+                            Corroding Shark
+                            Dokuroizo the Grim Reaper
+                            Fiend's Hand
+                            Fire Reaper
+                            Flame Ghost
+                            Graveyard and the Hand of Invitation
+                            Mech Mole Zombie
+                            Phantom Ghost
+                            Shadow Specter
+                            Skull Servant
+                            Temple of Skulls
+                            The Wandering Doomed
+                            Three-legged Zombies
+                            Wood Remains
+                            
+
+[Warrior]                 + [Zombie] = Armored Zombie
+[Dragon]                  + [Zombie] < Dragon Zombie
+Dragon Statue               Clown Zombie
+                            Dark Assailant
+                            Magical Ghost
+                            The 13th Grave
+                            Yaranzo
+                            Zombie Warrior
+                            
+
+[Warrior]                 + [Zombie] = Armored Zombie
+[Elf]                     + [MercuryMagicUser] < Dark Elf
+Celtic Guardian             Temple of Skulls
+                            
+
+[Winged Beast]            + The Judgement Hand = Punished Eagle
+[Pyro]                    + [Warrior] < Flame Swordsman
+Mavelus                     The Judgement Hand
+                            
+
+[Winged Beast]            + [Pyro] = Crimson Sunbird
+[Pyro]                    + [Warrior] < Flame Swordsman
+Mavelus                     Armaill
+                            Kagemusha of the Blue Flame
+                            
+
+[Winged Beast]            + [Pyro] = Crimson Sunbird
+[Pyro]                    + [Warrior] < Vermillion Sparrow
+Mavelus                     Flame Swordsman
+                            
+
+[Winged Beast]            + [Pyro] = Crimson Sunbird
+[Female]                  + [Plant] < Queen of Autumn Leaves
+Harpie Lady                 Firegrass
+                            
+
+[Winged Beast]            + [Pyro] = Crimson Sunbird
+Harpie Lady               + [Dragon] < Harpie's Pet Dragon
+Harpie Lady                 Darkfire Dragon
+                            Metal Dragon
+                            Tyhone #2
+                            Yamadron
+                            
+
+[Winged Beast]            + [Pyro] = Crimson Sunbird
+[Female]                  + [Rock] < Mystical Sand
+Harpie Lady                 Dissolverock
+Harpie Lady Sisters         
+                            
+
+[Zombie]                  + [Dragon] = Curse of Dragon
+[Dragon]                  + [Warrior] < Sword Arm of Dragon
+Skelgon                     Dragon Statue
+                            
+
+[Zombie]                  + [Dragon] = Curse of Dragon
+[Dragon]                  + [Thunder] < Twin-headed Thunder Dragon
+Skelgon                     Thunder Dragon
+                            
+
+[Zombie]                  + [Pyro] = Flame Ghost
+[Zombie]                  + [Plant] < Wood Remains
+Blue-eyed Silver Zombie     Firegrass
+Bone Mouse                  
+Dokuroizo the Grim Reaper   
+Fiend's Hand                
+Fire Reaper                 
+Graveyard and the Hand of Invitation   
+Mech Mole Zombie            
+Phantom Ghost               
+Shadow Specter              
+Skull Servant               
+Temple of Skulls            
+The Wandering Doomed        
+                            
+
+[Zombie]                  + [Pyro] = Flame Ghost
+[Zombie]                  + [Warrior] < Zombie Warrior
+Blue-eyed Silver Zombie     Armaill
+Bone Mouse                  Kagemusha of the Blue Flame
+Dokuroizo the Grim Reaper   
+Fiend's Hand                
+Fire Reaper                 
+Graveyard and the Hand of Invitation   
+Mech Mole Zombie            
+Phantom Ghost               
+Shadow Specter              
+Skull Servant               
+Temple of Skulls            
+The Wandering Doomed        
+                            
+
+[Zombie]                  + [Pyro] = Flame Ghost
+[Zombie]                  + [Rock] < Stone Ghost
+Blue-eyed Silver Zombie     Dissolverock
+Bone Mouse                  
+Dokuroizo the Grim Reaper   
+Fiend's Hand                
+Fire Reaper                 
+Graveyard and the Hand of Invitation   
+Mech Mole Zombie            
+Phantom Ghost               
+Shadow Specter              
+Skull Servant               
+Temple of Skulls            
+The Wandering Doomed        
+                            
+
+[Zombie]                  + [Pyro] = Flame Ghost
+[Zombie]                  + [Spellcaster] < Magical Ghost
+Blue-eyed Silver Zombie     Flame Manipulator
+Bone Mouse                  
+Dokuroizo the Grim Reaper   
+Fiend's Hand                
+Fire Reaper                 
+Graveyard and the Hand of Invitation   
+Mech Mole Zombie            
+Phantom Ghost               
+Shadow Specter              
+Skull Servant               
+Temple of Skulls            
+The Wandering Doomed        
+                            
+
+[Zombie]                  + [Pyro] = Flame Ghost
+Graveyard and the Hand of Invitation + [Zombie] < The Snake Hair
+Graveyard and the Hand of Invitation   Fire Reaper
+                            
+
+[Zombie]                  + [Spellcaster] = Magical Ghost
+[MercuryMagicUser]        + [Elf] < Dark Elf
+Temple of Skulls            Mystical Elf
+                            
+
+[Zombie]                  + [Warrior] = Zombie Warrior
+[Zombie]                  + [Dragon] < Dragon Zombie
+Blue-eyed Silver Zombie     Dragon Statue
+Bone Mouse                  
+Corroding Shark             
+Dokuroizo the Grim Reaper   
+Fiend's Hand                
+Fire Reaper                 
+Flame Ghost                 
+Graveyard and the Hand of Invitation   
+Mech Mole Zombie            
+Phantom Ghost               
+Shadow Specter              
+Skull Servant               
+Temple of Skulls            
+The Wandering Doomed        
+Three-legged Zombies        
+Wood Remains                
+                            
+
+[Zombie]                  + [Warrior] = Armored Zombie
+[Zombie]                  + [Dragon] < Dragon Zombie
+Clown Zombie                Dragon Statue
+Dark Assailant              
+Magical Ghost               
+The 13th Grave              
+Yaranzo                     
+Zombie Warrior              
+                            
+
+[Zombie]                  + [Warrior] = Armored Zombie
+[MercuryMagicUser]        + [Elf] < Dark Elf
+Temple of Skulls            Celtic Guardian
+
+=======================
+6. Secondary card types
+=======================
+
+I only list the cards of a given secondary type either if there isn't
+a high-level description that's objective and easy to apply or the 
+list is short.
+
+-------------
+[AngelWinged]
+These are monsters that have wings like those of an angel.
+More precisely, these are monsters that fuse with The Wicked Worm Beast to
+become Garvas.
+-------------
+Ancient Brain
+Angelwitch
+Dancing Elf
+Dark Witch
+Fusionist
+Happy Lover
+Hourglass of Courage
+Hourglass of Life
+LaMoon
+Lunar Queen Elzaim
+Maiden of the Moonlight
+Ocubeam
+Petit Angel
+Shining Friendship
+Skelengel
+Tenderness
+Wing Egg Elf
+Winged Egg of New Life
+Witch's Apprentice
+
+------
+[Aqua]
+These are monsters of primary type Aqua.
+------
+
+...
+
+-------
+[Beast]
+These are monsters of primary type Beast.
+-------
+
+...
+
+------------
+[Bugrothian]
+These are monsters with strictly less than 1850 attack points that have primary
+type Aqua or first guardian star Neptune and that are not Fish with strictly
+less than 1600 attack points nor Sea Serpents.
+-----------
+
+...
+
+----------
+[Dinosaur]
+These are monsters with primary type Dinosaur.
+----------
+
+...
+
+--------
+[Dragon]
+These are
+- monsters with primary type Dragon with attack level less than 2800;
+- monsters with primary type Sea Serpent;
+- monsters with the word 'dragon' or 'D.' in their names and attack level less 
+than 2800, except D. Human, Dragon Piper, Dragon Seeker, Dragoness the Wicked
+Knight, Giltia the D. Knight, Waterdragon Fairy and Winged Dragon #2;
+- Skelgon
+- optionally all monsters with primary type Dragon and attack level
+greater than or equal to 2800, namely B. Skull Dragon,
+Blue-eyes Ultimate Dragon, Blue-eyes White Dragon
+Meteor B. Dragon and Tri-horned Dragon;
+- optionally all monsters with the word 'dragon' or 'D.' in their names and
+attack level greater than or equal to 2800, namely B. Skull Dragon,
+Blue-eyes Ultimate Dragon, Blue-eyes White Dragon, Meteor B. Dragon,
+Tri-horned Dragon and Twin-headed Thunder Dragon
+
+Note: every dragon can be equipped with Dragon Treasure, but there are 36
+monsters that can be equipped with Dragon Treasure that are not dragons.
+--------
+
+...
+
+-----
+[Egg]
+These are monsters with the word 'egg' in their name, except Three-legged
+Zombies.
+-----
+Gorgon Egg
+Monster Egg
+Wing Egg Elf
+Winged Egg of New Life
+
+-----
+[Elf]
+These are
+- monsters with the word 'elf' in their names with attack level less
+than 2000
+- Celtic Guardian
+- optionally the monster with the word 'elf' in its name and attack level
+greater than or equal to 2000, namely Dark Elf.
+-----
+Ancient Elf
+Celtic Guardian
+Dancing Elf
+Gemini Elf
+Mystical Elf
+Wing Egg Elf
+
+-------
+[Fairy]
+These are monsters with primary type Fairy.
+-------
+
+...
+
+-----------------
+[FeatherFromBear]
+These are cards that fuse with Bear Trap to become Harpie's Feather Duster.
+-----------------
+Angelwitch
+Blue-winged Crown
+Faith Bird
+Fusionist
+Happy Lover
+Harpie Lady
+Harpie Lady Sisters
+Hourglass of Life
+LaMoon
+Lisark
+Mavelus
+Monstrous Bird
+Peacock
+Punished Eagle
+Queen Bird
+Skull Red Bird
+Takuhee
+Wing Eagle
+Wing Egg Elf
+
+-------------------
+[FeatherFromHarpie]
+These are cards that fuse with Harpie Lady and Harpie Lady Sisters to become
+Harpie's Feather Duster.
+-------------------
+Bear Trap
+Eatgaboon
+Harpie Lady
+Harpie Lady Sisters
+House of Adhesive Tape
+Invisible Wire
+Machine Conversion Factory
+Magical Labyrinth
+
+--------------------
+[FeatherFromMachine]
+These are cards that fuse with Machine Conversion Factory to become
+Harpie's Feather Duster. All FeatherFromBear cards are included.
+Generally speaking, these are cards with feathers.
+--------------------
+Angelwitch
+Blue-winged Crown
+Crimson Sunbird
+Dark Witch
+Faith Bird
+Fiend Refrection #2
+Flying Penguin
+Follow Wind
+Fusionist
+Hane-Hane
+Happy Lover
+Harpie Lady
+Harpie Lady Sisters
+Hourglass of Courage
+Hourglass of Life
+LaMoon
+Lisark
+Maiden of the Moonlight
+Mavelus
+Monstrous Bird
+Peacock
+Punished Eagle
+Queen Bird
+Shining Friendship
+Skelengel
+Skull Red Bird
+Sky Dragon
+Takuhee
+Tenderness
+Wing Eagle
+Wing Egg Elf
+Winged Egg of New Life
+Winged Trumpeter
+
+--------
+[Female]
+These are monsters that fuse with Stone Ogre Grotto to become Mystical Sand.
+Notes:
+- Performance of Sword, Spirit of the Harp and Spirit of the Winds are not
+female, even though they can be equipped with Cyber Shield and certainly look
+female.
+- Mystical Sand, Empress Judge and Cosmo Queen can be
+considered female, as they can be equipped with Cyber Shield and look female,
+but they don't participate in any fusions as females because their attack level
+is too high.
+- every female and every monster that can be equipped with Cyber Shield can be
+equipped with Electro-whip, but there are dozens of monsters that can be
+equipped with Electro-whip that aren't female and can't be equipped with
+Cyber Shield
+- all females can be equipped with Malevolent Nuzzler
+--------
+Amazon of the Seas
+Ancient Elf
+Angelwitch
+Arlownay
+Beautiful Beast Trainer
+Beautiful Headhuntress
+Dancing Elf
+Dark Elf
+Dark Witch
+Dryad
+Eldeen
+Enchanting Mermaid
+Fairy of the Fountain
+Fairy's Gift
+Gemini Elf
+Goddess of Whim
+Goddess with the Third Eye
+Gyakutenno Megami
+Harpie Lady
+Harpie Lady Sisters
+Hibikime
+Ice Water
+Ill Witch
+Invader of the Throne
+Kanan the Swordmistress
+Key Mace
+Key Mace #2
+LaMoon
+Lady of Faith
+Lunar Queen Elzaim
+Magician of Faith
+Maiden of the Moonlight
+Muse-A
+Mystical Elf
+Nekogal #1
+Nekogal #2
+Nemuriko
+Princess of Tsurugi
+Protector of the Throne
+Queen of Autumn Leaves
+Queen's Double
+Rainbow Marine Mermaid
+Rose Spectre of Dunn
+Sonic Maid
+Succubus Knight
+Vishwar Randi
+Warrior of Tradition
+Water Element
+Water Girl
+Water Magician
+Water Omotics
+Waterdragon Fairy
+Witch of the Black Forest
+Witch's Apprentice
+
+-------
+[Fiend]
+These are monsters of primary type Fiend.
+-------
+
+...
+
+------
+[Fish]
+These are monsters of primary type Fish.
+------
+
+...
+
+-----------
+[Koumorian]
+These are monsters with strictly less than 1500 attack points that
+- have first guardian star Moon and primary type Beast, Beast-Warrior, Dinosaur,
+Dragon, Fiend or Insect or
+- are Kuriboh or Mammoth Graveyard.
+----------
+
+...
+
+--------
+[Insect]
+These are monsters of primary type Insect.
+--------
+
+...
+
+-----
+[Jar]
+These are monsters whose names contain 'jar', 'piper' or 'pot'.
+-----
+Ancient Jar
+Dragon Piper
+Morphing Jar
+Pot the Trick
+
+---------
+[Machine]
+These are monsters of primary type Machine.
+---------
+
+...
+
+---------------
+[MercuryMagicUser]
+These are
+- monsters that have Mercury as their first guardian star with attack strictly
+less than 2000, except Mammoth Graveyard, Kuriboh, Dark Chimera and
+Man-eating Plant
+- Guardian of the Labyrinth
+- optionally, monsters with Mercury as their first guardian star and attack
+greater than or equal to 2000 can be included, namely Chakra, Dark Elf
+Dark Magician, Gaia the Fierce Knight, Magician of Black Chaos,
+Mystical Sand, Serpent Night Dragon and Skull Knight
+---------------
+
+...
+
+-----------------
+[MercurySpellcaster]
+These are monsters with Mercury as their first guardian star that have primary
+type Spellcaster and strictly less than 2150 attack points. Optionally,
+spellcasters with first guardian star Mercury and attack level greater than
+or equal to 2150 may be included, namely Dark Elf, Dark Magician,
+Kamion Wizard, Leo Wizard, Magician of Black Chaos and Skull Knight.
+Note that dark spellcasters are spellcasters that are also dark magic users, if
+we include Dark Elf as a dark magic user.
+-----------------
+
+...
+
+--------
+[Mirror]
+These are monsters that look like or possess a mirror.
+Equivalently, these are monsters whose names contain 'Refrection' or 'Mirror'.
+--------
+Fiend Refrection #1
+Fiend Refrection #2
+Fiend's Mirror
+Job-change Mirror
+Wicked Mirror
+
+------------
+[MusKingian]
+These are monsters that fuse with Hibikime to become Musician King.
+Equivalently, these are monsters that have strictly less than 1750 attack points
+that
+- are non-Elves with first guardian star Sun and primary type Fairy, Spellcaster
+or Warrior that are not Ray & Temperature or
+- are Faith Bird, Guardian of the Throne Room, Lunar Queen Elzaim or Moon Envoy
+Note: don't forget about the two exact fusions that yield Musician King!
+------------
+Binding Chain
+Boo Koo
+Faith Bird
+Goddess of Whim
+Goddess with the Third Eye
+Guardian of the Throne Room
+Happy Lover
+Hoshiningen
+Hourglass of Courage
+Hourglass of Life
+Ill Witch
+Key Mace
+LaMoon
+Lady of Faith
+Lucky Trinket
+Lunar Queen Elzaim
+Magician of Faith
+Maha Vailo
+Masaki the Legendary Swordsman
+Moon Envoy
+Muse-A
+Mystical Capture Chain
+Petit Angel
+Rogue Doll
+Shining Friendship
+Skelengel
+Sonic Maid
+Spirit of the Harp
+Tenderness
+The Judgement Hand
+Weather Control
+White Magical Hat
+Winged Egg of New Life
+
+------------
+[MystElfian]
+These are
+- monsters that have Sun as their first guardian star and strictly less
+than 800 attack points
+- Lunar Queen Elzaim
+------------
+Boo Koo
+Hoshiningen
+Hourglass of Life
+Key Mace
+Lucky Trinket
+Lunar Queen Elzaim
+Magician of Faith
+Mystical Capture Chain
+Petit Angel
+Tenderness
+Weather Control
+Wing Egg Elf
+
+-------
+[Plant]
+These are monsters of primary type Plant.
+-------
+
+...
+
+------
+[Pyro]
+These are monsters that can be equipped with Salamandra and that have strictly
+less than 2100 attack points.
+
+Notes:
+- Flame Cerebrus does not have secondary type Pyro: you can't fuse it with
+a Winged Beast to produce Crimson Sunbird
+- Crimson Sunbird and Meteor B. Dragon can be considered
+Pyro monsters, because they can be equipped with Salamandra, but they don't
+participate in any fusions as Pyro monsters because their attack is too high.
+- all monsters with primary type Pyro also have secondary type Pyro, except
+for Flame Cerebrus.
+------
+Armaill
+Blast Juggler
+Candle of Fate
+Charubin the Fire Knight
+Darkfire Dragon
+Dissolverock
+Dragon Piper
+Fire Eye
+Fire Kraken
+Fire Reaper
+Firegrass
+Firewing Pegasus
+Fireyarou
+Flame Ghost
+Flame Manipulator
+Flame Swordsman
+Flame Viper
+Garoozis
+Hinotama Soul
+Kagemusha of the Blue Flame
+Launcher Spider
+Machine King
+Mavelus
+Metal Dragon
+Tyhone #2
+Vermillion Sparrow
+Wings of Wicked Flame
+Yamadron
+
+---------
+[Rainbow]
+These are monsters that are related to rainbows.
+Equivalently, these are all monsters whose names contain the word 'Rainbow'
+plus Hoshiningen.
+---------
+Hoshiningen
+Rainbow Flower
+Rainbow Marine Mermaid
+
+---------
+[Reptile]
+These are monsters with primary type Reptile.
+---------
+
+...
+
+------
+[Rock]
+These are monsters with primary type Rock.
+------
+
+...
+
+----------
+[Sheepian]
+These are monsters with strictly less than 1150 attack points that
+- have primary type Fiend and are not Candle of Fate or Key Mace #2;
+- have first guardian star Moon and primary type Aqua, Beast,
+Beast-Warrior, Dinosaur, Dragon, Insect, Rock or Zombie or
+- are Blue-eyed Silver Zombie.
+---------
+
+...
+
+-------------
+[Spellcaster]
+These are monsters with primary type Spellcaster.
+-------------
+
+...
+
+----------
+[Thronian]
+These are monsters with strictly less than 1350 attack points that
+- have primary type Fiend and are not Candle of Fate;
+- have first guardian star Moon and primary type Aqua, Beast, Beast-Warrior,
+Dinosaur, Insect or Warrior and are not Air Marmot of Nefariousness, Obese 
+Marmot of Nefariousness or Moon Envoy or
+- are Mammoth Graveyard.
+--------
+
+...
+
+---------
+[Thunder]
+These are monsters with primary type Thunder.
+---------
+
+...
+
+--------
+[Turtle]
+These are monsters whose names contain 'turtle' or 'tortoise'.
+Note: Sea King Dragon may optionally be considered a turtle, since it looks
+like one, but doesn't participate in any fusion as a turtle, because of its
+high attack.
+--------
+30,000-Year White Turtle
+Boulder Tortoise
+Catapult Turtle
+Giant Turtle Who Feeds on Flames
+Monsturtle
+Turtle Bird
+Turtle Raccoon
+Turtle Tiger
+
+-------------
+[UsableBeast]
+These are monsters that fuse with Vermillion Sparrow to become Flame Cerebrus.
+All usable beasts have primary type Beast.
+-------------
+Air Marmot of Nefariousness
+Ancient One of the Deep Forest
+Armored Rat
+Burglar
+Dark Gray
+Flower Wolf
+Frenzied Panda
+Fusionist
+Garvas
+Griffore
+Leogun
+Little Chimera
+Master & Expert
+Milus Radiant
+Mystic Horseman
+Mystical Sheep #1
+Mystical Sheep #2
+Obese Marmot of Nefariousness
+Pale Beast
+Prevent Rat
+Silver Fang
+Sleeping Lion
+Synchar
+Togex
+Torike
+Wolf
+
+---------
+[Warrior]
+These are monsters with primary type Warrior.
+---------
+
+...
+
+--------------
+[Winged Beast]
+These are monsters with primary type Winged Beast.
+--------------
+
+...
+
+--------
+[Zombie]
+These are monsters with primary type Zombie.
+--------
+
+...
+
+===============================
+7. Secondary card types by card
+===============================
+
+30,000-Year White Turtle         | Bugrothian Turtle 
+7 Colored Fish                   | Bugrothian 
+Air Marmot of Nefariousness      | Koumorian Sheepian UsableBeast 
+Akakieisu                        | MercuryMagicUser MercurySpellcaster 
+Akihiron                         | Bugrothian 
+Amazon of the Seas               | Female 
+Ameba                            | Bugrothian 
+Ancient Brain                    | AngelWinged MercuryMagicUser Sheepian
+                                   Thronian 
+Ancient Elf                      | Elf Female 
+Ancient Jar                      | Jar 
+Ancient Lizard Warrior           | Bugrothian 
+Ancient One of the Deep Forest   | UsableBeast 
+Ancient Sorcerer                 | MercuryMagicUser MercurySpellcaster 
+Angelwitch                       | AngelWinged FeatherFromBear
+                                   FeatherFromMachine Female MercuryMagicUser
+                                   MercurySpellcaster 
+Ansatsu                          | MercuryMagicUser 
+Aqua Dragon                      | Dragon 
+Aqua Madoor                      | Bugrothian 
+Aqua Snake                       | Bugrothian 
+Arlownay                         | Female 
+Arma Knight                      | Bugrothian 
+Armaill                          | Pyro 
+Armed Ninja                      | Bugrothian 
+Armored Lizard                   | Bugrothian 
+Armored Rat                      | UsableBeast 
+Armored Starfish                 | Bugrothian 
+B. Dragon Jungle King            | Dragon 
+Baby Dragon                      | Dragon 
+Beaked Snake                     | Bugrothian 
+Bear Trap                        | FeatherFromHarpie 
+Beastking of the Swamps          | Bugrothian 
+Beautiful Beast Trainer          | Female 
+Beautiful Headhuntress           | Female MercuryMagicUser 
+Behegon                          | Bugrothian 
+Big Eye                          | Thronian 
+Binding Chain                    | MusKingian 
+Bio Plant                        | Sheepian Thronian 
+Blackland Fire Dragon            | Dragon MercuryMagicUser 
+Blast Juggler                    | Pyro 
+Blue-eyed Silver Zombie          | Sheepian 
+Blue-winged Crown                | FeatherFromBear FeatherFromMachine 
+Bone Mouse                       | Sheepian 
+Boo Koo                          | MusKingian MystElfian 
+Bottom Dweller                   | Bugrothian 
+Boulder Tortoise                 | Bugrothian Turtle 
+Burglar                          | UsableBeast 
+Candle of Fate                   | Pyro 
+Castle of Dark Illusions         | MercuryMagicUser Sheepian Thronian 
+Catapult Turtle                  | Bugrothian Turtle 
+Celtic Guardian                  | Elf 
+Change Slime                     | Bugrothian 
+Charubin the Fire Knight         | Pyro 
+Claw Reacher                     | MercuryMagicUser Sheepian Thronian 
+Corroding Shark                  | Sheepian 
+Crab Turtle                      | Turtle 
+Crawling Dragon                  | Dragon 
+Crawling Dragon #2               | Dragon 
+Crazy Fish                       | Bugrothian 
+Crimson Sunbird                  | FeatherFromMachine 
+Curse of Dragon                  | Dragon 
+Curtain of the Dark Ones         | MercuryMagicUser MercurySpellcaster 
+Dancing Elf                      | AngelWinged Elf Female 
+Dark Artist                      | MercuryMagicUser Sheepian Thronian 
+Dark Elf                         | Female MercuryMagicUser MercurySpellcaster 
+Dark Gray                        | UsableBeast 
+Dark King of the Abyss           | MercuryMagicUser Thronian 
+Dark Prisoner                    | MercuryMagicUser Sheepian Thronian 
+Dark Rabbit                      | Koumorian Sheepian Thronian 
+Dark Shade                       | Sheepian Thronian 
+Dark Titan of Terror             | MercuryMagicUser Thronian 
+Dark Witch                       | AngelWinged FeatherFromMachine Female 
+Darkfire Dragon                  | Dragon Pyro 
+Dissolverock                     | Pyro 
+Dokuroizo the Grim Reaper        | Sheepian 
+Doma The Angel of Silence        | MercuryMagicUser 
+Doron                            | Bugrothian 
+Dorover                          | Bugrothian 
+Dragon Piper                     | Jar Pyro 
+Dragon Statue                    | Dragon 
+Dragon Zombie                    | Dragon 
+Drooling Lizard                  | Bugrothian 
+Dryad                            | Female 
+Eatgaboon                        | FeatherFromHarpie 
+Eldeen                           | Female MercuryMagicUser MercurySpellcaster 
+Embryonic Beast                  | Koumorian Sheepian Thronian 
+Emperor of the Land and Sea      | Bugrothian 
+Enchanting Mermaid               | Female 
+Exodia the Forbidden             | MercuryMagicUser MercurySpellcaster 
+Fairy Dragon                     | Dragon 
+Fairy of the Fountain            | Bugrothian Female 
+Fairy's Gift                     | Female 
+Faith Bird                       | FeatherFromBear FeatherFromMachine
+                                   MusKingian 
+Feral Imp                        | Koumorian Thronian 
+Fiend Kraken                     | Bugrothian 
+Fiend Refrection #1              | Mirror 
+Fiend Refrection #2              | FeatherFromMachine Mirror 
+Fiend's Hand                     | Sheepian 
+Fiend's Mirror                   | Mirror 
+Fire Eye                         | Pyro 
+Fire Kraken                      | Bugrothian Pyro 
+Fire Reaper                      | Pyro 
+Firegrass                        | Pyro 
+Firewing Pegasus                 | Pyro 
+Fireyarou                        | Pyro 
+Flame Ghost                      | Pyro 
+Flame Manipulator                | Pyro 
+Flame Swordsman                  | Pyro 
+Flame Viper                      | Pyro 
+Flower Wolf                      | UsableBeast 
+Flying Penguin                   | Bugrothian FeatherFromMachine 
+Follow Wind                      | FeatherFromMachine 
+Frenzied Panda                   | UsableBeast 
+Frog The Jam                     | Bugrothian 
+Fungi of the Musk                | Sheepian Thronian 
+Fusionist                        | AngelWinged FeatherFromBear
+                                   FeatherFromMachine UsableBeast 
+Gaia the Dragon Champion         | Dragon 
+Garoozis                         | Pyro 
+Garvas                           | UsableBeast 
+Gate Deeg                        | Koumorian Sheepian Thronian 
+Gatekeeper                       | MercuryMagicUser 
+Gemini Elf                       | Elf Female 
+Giant Red Seasnake               | Bugrothian 
+Giant Turtle Who Feeds on Flames | Bugrothian Turtle 
+Goddess of Whim                  | Female MusKingian 
+Goddess with the Third Eye       | Female MusKingian 
+Gorgon Egg                       | Egg Koumorian Sheepian Thronian 
+Grappler                         | Bugrothian 
+Graveyard and the Hand of Invitation | Sheepian 
+Great White                      | Bugrothian 
+Greenkappa                       | Thronian 
+Griffore                         | UsableBeast 
+Gruesome Goo                     | Bugrothian 
+Guardian of the Labyrinth        | MercuryMagicUser 
+Guardian of the Sea              | Bugrothian 
+Guardian of the Throne Room      | MusKingian 
+Gyakutenno Megami                | Female 
+Hane-Hane                        | FeatherFromMachine 
+Happy Lover                      | AngelWinged FeatherFromBear
+                                   FeatherFromMachine MusKingian 
+Harpie Lady                      | FeatherFromBear FeatherFromHarpie
+                                   FeatherFromMachine Female 
+Harpie Lady Sisters              | FeatherFromBear FeatherFromHarpie
+                                   FeatherFromMachine Female 
+Harpie's Pet Dragon              | Dragon 
+Hibikime                         | Female MercuryMagicUser 
+High Tide Gyojin                 | Bugrothian 
+Hinotama Soul                    | Pyro 
+Hiro's Shadow Scout              | Koumorian Sheepian Thronian 
+Hitodenchak                      | Bugrothian 
+Hitotsu-me Giant                 | Koumorian Thronian 
+Horn Imp                         | Koumorian Thronian 
+Hoshiningen                      | MusKingian MystElfian Rainbow 
+Hourglass of Courage             | AngelWinged FeatherFromMachine MusKingian 
+Hourglass of Life                | AngelWinged FeatherFromBear
+                                   FeatherFromMachine MusKingian MystElfian 
+House of Adhesive Tape           | FeatherFromHarpie 
+Hyo                              | Bugrothian 
+Hyosube                          | Bugrothian 
+Ice Water                        | Bugrothian Female 
+Ill Witch                        | Female MusKingian 
+Invader from Another Dimension   | Sheepian Thronian 
+Invader of the Throne            | Female 
+Invisible Wire                   | FeatherFromHarpie 
+Jellyfish                        | Bugrothian 
+Job-change Mirror                | MercuryMagicUser Mirror Sheepian Thronian 
+Kagemusha of the Blue Flame      | Pyro 
+Kageningen                       | Thronian 
+Kairyu-shin                      | Dragon 
+Kaiser Dragon                    | Dragon 
+Kamion Wizard                    | MercuryMagicUser MercurySpellcaster 
+Kanan the Swordmistress          | Female 
+Kanikabuto                       | Bugrothian 
+Kappa Avenger                    | Bugrothian 
+Key Mace                         | Female MusKingian MystElfian 
+Key Mace #2                      | Female MercuryMagicUser Thronian 
+King Fog                         | MercuryMagicUser Sheepian Thronian 
+Koumori Dragon                   | Dragon 
+Krokodilus                       | Bugrothian 
+Kuriboh                          | Koumorian Sheepian Thronian 
+La Jinn the Mystical Genie       | MercuryMagicUser 
+LaMoon                           | AngelWinged FeatherFromBear
+FeatherFromMachine Female MusKingian 
+Lady of Faith                    | Female MusKingian 
+Launcher Spider                  | Pyro 
+Lava Battleguard                 | MercuryMagicUser 
+Left Arm of the Forbidden One    | MercuryMagicUser MercurySpellcaster 
+Left Leg of the Forbidden One    | MercuryMagicUser MercurySpellcaster 
+Leo Wizard                       | MercuryMagicUser MercurySpellcaster 
+Leogun                           | UsableBeast 
+Lesser Dragon                    | Dragon Koumorian 
+Liquid Beast                     | Bugrothian 
+Lisark                           | FeatherFromBear FeatherFromMachine 
+Little Chimera                   | UsableBeast 
+Lord of Zemia                    | MercuryMagicUser Thronian 
+Lord of the Lamp                 | MercuryMagicUser 
+Lucky Trinket                    | MusKingian MystElfian 
+Lunar Queen Elzaim               | AngelWinged Female MusKingian MystElfian 
+Machine Conversion Factory       | FeatherFromHarpie 
+Machine King                     | Pyro 
+Madjinn Gunn                     | Koumorian Sheepian Thronian 
+Magical Labyrinth                | FeatherFromHarpie 
+Magician of Faith                | Female MusKingian MystElfian 
+Maha Vailo                       | MusKingian 
+Maiden of the Moonlight          | AngelWinged FeatherFromMachine Female 
+Mammoth Graveyard                | Koumorian Thronian 
+Marine Beast                     | Bugrothian 
+Masaki the Legendary Swordsman   | MusKingian 
+Mask of Darkness                 | MercuryMagicUser Sheepian Thronian 
+Masked Clown                     | MercuryMagicUser 
+Masked Sorcerer                  | MercuryMagicUser MercurySpellcaster 
+Master & Expert                  | UsableBeast 
+Mavelus                          | FeatherFromBear FeatherFromMachine Pyro 
+Mech Bass                        | Bugrothian 
+Mech Mole Zombie                 | Sheepian 
+Mechaleon                        | Bugrothian 
+Meda Bat                         | Koumorian Sheepian Thronian 
+Megirus Light                    | MercuryMagicUser Sheepian Thronian 
+Meotoko                          | Koumorian Sheepian Thronian 
+Metal Dragon                     | Dragon Pyro 
+Metal Fish                       | Bugrothian 
+Metal Guardian                   | Koumorian Thronian 
+Meteor Dragon                    | Dragon 
+Midnight Fiend                   | Koumorian Sheepian Thronian 
+Mikazukinoyaiba                  | Dragon 
+Milus Radiant                    | UsableBeast 
+Minar                            | Koumorian Sheepian Thronian 
+Monster Egg                      | Egg 
+Monster Eye                      | Koumorian Sheepian Thronian 
+Monstrous Bird                   | FeatherFromBear FeatherFromMachine 
+Monsturtle                       | Bugrothian Turtle 
+Moon Envoy                       | MusKingian 
+Morphing Jar                     | Jar 
+Muse-A                           | Female MusKingian 
+Mystery Hand                     | Koumorian Sheepian Thronian 
+Mystic Clown                     | MercuryMagicUser 
+Mystic Horseman                  | UsableBeast 
+Mystic Lamp                      | MercuryMagicUser MercurySpellcaster 
+Mystical Capture Chain           | MusKingian MystElfian 
+Mystical Elf                     | Elf Female 
+Mystical Sheep #1                | UsableBeast 
+Mystical Sheep #2                | UsableBeast 
+Needle Ball                      | Koumorian Sheepian Thronian 
+Nekogal #1                       | Female 
+Nekogal #2                       | Female 
+Nemuriko                         | Female MercuryMagicUser MercurySpellcaster 
+Night Lizard                     | Bugrothian 
+Obese Marmot of Nefariousness    | Koumorian Sheepian UsableBeast 
+Octoberser                       | Bugrothian 
+Ocubeam                          | AngelWinged 
+Ogre of the Black Shadow         | Koumorian Thronian 
+One Who Hunts Souls              | Koumorian Sheepian Thronian 
+One-eyed Shield Dragon           | Dragon 
+Ooguchi                          | Bugrothian 
+Pale Beast                       | UsableBeast 
+Parrot Dragon                    | Dragon 
+Peacock                          | FeatherFromBear FeatherFromMachine 
+Pendulum Machine                 | MercuryMagicUser 
+Penguin Knight                   | Bugrothian 
+Penguin Soldier                  | Bugrothian 
+Petit Angel                      | AngelWinged MusKingian MystElfian 
+Petit Dragon                     | Dragon 
+Phantom Dewan                    | MercuryMagicUser MercurySpellcaster 
+Phantom Ghost                    | Sheepian 
+Pot the Trick                    | Jar Sheepian 
+Prevent Rat                      | UsableBeast 
+Princess of Tsurugi              | Female 
+Protector of the Throne          | Female 
+Psychic Kappa                    | Bugrothian 
+Punished Eagle                   | FeatherFromBear FeatherFromMachine 
+Queen Bird                       | FeatherFromBear FeatherFromMachine 
+Queen of Autumn Leaves           | Female 
+Queen's Double                   | Female 
+Rainbow Flower                   | Rainbow 
+Rainbow Marine Mermaid           | Female Rainbow 
+Reaper of the Cards              | Koumorian 
+Red-eyes B. Dragon               | Dragon 
+Rhaimundos of the Red Sword      | Bugrothian 
+Right Arm of the Forbidden One   | MercuryMagicUser MercurySpellcaster 
+Right Leg of the Forbidden One   | MercuryMagicUser MercurySpellcaster 
+Rogue Doll                       | MusKingian 
+Rose Spectre of Dunn             | Female 
+Ryu-kishin                       | Sheepian Thronian 
+Saggi the Dark Clown             | MercuryMagicUser MercurySpellcaster 
+Sangan                           | Koumorian Sheepian Thronian 
+Sea Kamen                        | Bugrothian 
+Sea King Dragon                  | Dragon 
+Sectarian of Secrets             | MercuryMagicUser MercurySpellcaster 
+Seiyaryu                         | Dragon 
+Serpent Marauder                 | Bugrothian 
+Serpent Night Dragon             | Dragon 
+Shadow Specter                   | Sheepian 
+Shining Friendship               | AngelWinged FeatherFromMachine MusKingian 
+Silver Fang                      | UsableBeast 
+Sinister Serpent                 | Bugrothian 
+Skelengel                        | AngelWinged FeatherFromMachine MusKingian 
+Skelgon                          | Dragon 
+Skull Red Bird                   | FeatherFromBear FeatherFromMachine 
+Skull Servant                    | Sheepian 
+Skull Stalker                    | Thronian 
+Sky Dragon                       | Dragon FeatherFromMachine 
+Sleeping Lion                    | UsableBeast 
+Solitude                         | Koumorian Sheepian Thronian 
+Sonic Maid                       | Female MusKingian 
+Spike Seadra                     | Dragon 
+Spiked Snail                     | Koumorian Sheepian Thronian 
+Spirit of the Harp               | MusKingian 
+Star Boy                         | Bugrothian 
+Stone D.                         | Dragon 
+Stuffed Animal                   | Thronian 
+Succubus Knight                  | Female MercuryMagicUser 
+Swamp Battleguard                | MercuryMagicUser 
+Sword Arm of Dragon              | Dragon 
+Synchar                          | UsableBeast 
+Tainted Wisdom                   | Koumorian Thronian 
+Takriminos                       | Dragon 
+Takuhee                          | FeatherFromBear FeatherFromMachine 
+Tatsunootoshigo                  | Bugrothian 
+Temple of Skulls                 | MercuryMagicUser 
+Tenderness                       | AngelWinged FeatherFromMachine
+                                   MusKingian MystElfian 
+Terra the Terrible               | Koumorian Thronian 
+That Which Feeds on Life         | MercuryMagicUser Thronian 
+The Drdek                        | Koumorian Sheepian Thronian 
+The Furious Sea King             | Bugrothian 
+The Judgement Hand               | MusKingian 
+The Little Swordsman of Aile     | Bugrothian 
+The Melting Red Shadow           | Bugrothian Sheepian Thronian 
+The Shadow Who Controls the Dark | MercuryMagicUser Sheepian Thronian 
+The Wandering Doomed             | Sheepian 
+Thousand Dragon                  | Dragon 
+Three-legged Zombies             | Sheepian 
+Thunder Dragon                   | Dragon 
+Toad Master                      | Bugrothian 
+Togex                            | UsableBeast 
+Toon Alligator                   | Bugrothian 
+Torike                           | UsableBeast 
+Trap Master                      | MercuryMagicUser 
+Trial of Nightmares              | Koumorian Thronian 
+Turtle Bird                      | Turtle 
+Turtle Raccoon                   | Bugrothian Turtle 
+Turtle Tiger                     | Bugrothian Turtle 
+Turu-Purun                       | Bugrothian 
+Twin Long Rods #1                | Bugrothian Sheepian Thronian 
+Twin Long Rods #2                | Bugrothian 
+Two-mouth Darkruler              | Koumorian Sheepian Thronian 
+Tyhone #2                        | Dragon Pyro 
+Unknown Warrior of Fiend         | MercuryMagicUser 
+Vermillion Sparrow               | Pyro 
+Versago the Destroyer            | MercuryMagicUser Sheepian Thronian 
+Violent Rain                     | Bugrothian 
+Vishwar Randi                    | Female MercuryMagicUser 
+Warrior of Tradition             | Female MercuryMagicUser 
+Water Element                    | Bugrothian Female 
+Water Girl                       | Bugrothian Female 
+Water Magician                   | Bugrothian Female 
+Water Omotics                    | Bugrothian Female 
+Waterdragon Fairy                | Bugrothian Female 
+Weather Control                  | MusKingian MystElfian 
+Weather Report                   | Bugrothian 
+Wetha                            | Bugrothian 
+White Magical Hat                | MusKingian 
+Wicked Dragon with the Ersatz Head | Dragon Koumorian Sheepian 
+Wicked Mirror                    | Mirror Sheepian Thronian 
+Wing Eagle                       | FeatherFromBear FeatherFromMachine 
+Wing Egg Elf                     | AngelWinged Egg Elf FeatherFromBear
+                                   FeatherFromMachine MystElfian 
+Winged Dragon #1                 | Dragon 
+Winged Egg of New Life           | AngelWinged Egg FeatherFromMachine
+                                   MusKingian 
+Winged Trumpeter                 | FeatherFromMachine 
+Wings of Wicked Flame            | Pyro 
+Witch of the Black Forest        | Female MercuryMagicUser MercurySpellcaster 
+Witch's Apprentice               | AngelWinged Female MercuryMagicUser
+                                   MercurySpellcaster 
+Witty Phantom                    | MercuryMagicUser 
+Wolf                             | UsableBeast 
+Wood Clown                       | MercuryMagicUser 
+Wretched Ghost of the Attic      | MercuryMagicUser Sheepian Thronian 
+Yado Karu                        | Bugrothian 
+Yamadron                         | Dragon Pyro 
+Yamatano Dragon Scroll           | Dragon 
+Yormungarde                      | Bugrothian 
+Zarigun                          | Bugrothian 
+Zone Eater                       | Bugrothian 

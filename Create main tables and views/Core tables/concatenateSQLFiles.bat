@@ -1,0 +1,4 @@
+setlocal
+cd %~dp0
+
+copy /b createCards.sql+createDuelists.sql+createDuelistPoolTypes.sql+createDuelistPoolSamplingRates.sql+createStarterPools.sql+createStarterPoolSamplingRates.sql+createEquippingFusionsAndRituals.sql+createGSBeats.sql createAllCoreTables.sql

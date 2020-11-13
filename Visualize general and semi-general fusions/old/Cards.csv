@@ -1,0 +1,3097 @@
+Id,CardName,Description,GuardianStar1,GuardianStar2,Level,CardType,Attribute,Attack,Defense,Password,StarchipCost,IsAngelWinged,IsBugrothian,IsMercuryMagicUser,IsDragon,IsElf,IsFeatherian,IsFemale,IsJar,IsKoumorian,IsMystElfian,IsPyro,IsTurtle,IsUsableBeast,NumSort,AbcSort,MaxSort,AtkSort,DefSort,TypSort,AISort
+1,Blue-eyes White Dragon,"An extremely rare   
+card with
+unsurpassed attack
+and defense power.",Sun,Mars,8,Dragon,Light,3000,2500,89631139,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,1,74,7,7,11,6,5
+2,Mystical Elf,"A delicate elf that 
+lacks in offense
+but has a terrific
+defense backed by
+mystical power.",Sun,Jupiter,4,Spellcaster,Light,800,2000,15025844,160,0,0,0,0,1,0,1,0,0,0,0,0,0,2,451,98,443,67,70,23
+3,Hitotsu-me Giant,"A one-eyed behemoth 
+with thick, powerful
+arms made for
+delivering punishing
+blows.",Moon,Mars,4,Beast-Warrior,Earth,1200,1000,76184692,70,0,0,0,0,0,0,0,0,1,0,0,0,0,3,286,358,304,348,197,42
+4,Baby Dragon,"Much more than just 
+a child, this dragon
+is gifted with
+untapped power.",Uranus,Sun,3,Dragon,Wind,1200,700,88819587,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,4,40,389,326,475,3,42
+5,Ryu-kishin,"A very elusive 
+creature that looks 
+like a harmless
+statue until it
+attacks.",Saturn,Sun,3,Fiend,Dark,1000,500,15303296,30,0,0,0,0,0,0,0,0,0,0,0,0,0,5,534,452,392,543,320,46
+6,Feral Imp,"A playful little 
+imp that lurks in 
+the dark, waiting to
+attack an unwary
+enemy.",Moon,Jupiter,4,Fiend,Dark,1300,1400,41392891,140,0,0,0,0,0,0,0,0,1,0,0,0,0,6,193,264,250,204,290,38
+7,Winged Dragon #1,"A dragon commonly 
+found guarding 
+mountain fortresses.
+Its signature attack
+is a sweeping dive 
+from out of the blue.",Saturn,Moon,4,Dragon,Wind,1400,1200,87796900,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,7,693,281,227,285,30,38
+8,Mushroom Man,"Found in moist
+areas, this monster 
+launches poison
+spores against its
+enemies.",Jupiter,Sun,2,Plant,Earth,800,600,14181608,30,0,0,0,0,0,0,0,0,0,0,0,0,0,8,440,518,477,519,614,50
+9,Shadow Specter,"Ghostly beast that 
+appears in the
+wasteland and is
+particularly
+troublesome when
+faced in large
+numbers.",Moon,Saturn,1,Zombie,Dark,500,200,40575313,15,0,0,0,0,0,0,0,0,0,0,0,0,0,9,550,589,576,611,109,56
+10,Blackland Fire Dragon,"A dragon that dwells
+in the depths of
+darkness. Its
+defensive capability
+suffers from its
+poor eyesight.",Mercury,Moon,4,Dragon,Dark,1500,800,87564352,80,0,0,1,1,0,0,0,0,0,0,0,0,0,10,68,250,205,431,4,36
+11,Sword Arm of Dragon,"With a body covered 
+in sword-like
+thorns, nothing
+dares stand in the
+way of this monster 
+when it charges.",Uranus,Moon,6,Dinosaur,Earth,1750,2030,13069066,1000,0,0,0,1,0,0,0,0,0,0,0,0,0,11,598,74,122,47,409,22
+12,Swamp Battleguard,"This creature is    
+armed with a spiked 
+club that can
+destroy almost
+anything in its path.
+Rumored to have a
+brother that is just
+as destructive.",Mercury,Mars,5,Warrior,Earth,1800,1500,40453765,290,0,0,1,0,0,0,0,0,0,0,0,0,0,12,597,146,113,165,180,28
+13,Tyhone,"Capable of firing
+cannonballs from its
+mouth for long-range
+attacks against
+enemies.",Saturn,Venus,4,Winged Beast,Wind,1200,1400,72842870,120,0,0,0,0,0,0,0,0,0,0,0,0,0,13,657,279,293,214,268,38
+14,Battle Steer,"A bull monster often
+found in the woods.
+Charges enemy
+monsters with a pair
+of razor-sharp horns.",Moon,Uranus,5,Beast-Warrior,Earth,1800,1300,18246479,230,0,0,0,0,0,0,0,0,0,0,0,0,0,14,48,153,117,228,194,28
+15,Flame Swordsman,"A fighter gifted
+with the power of
+fire.
+Attacks enemies with
+a sword that
+launches flames.",Mars,Sun,5,Warrior,Fire,1800,1600,45231177,320,0,0,0,0,0,0,0,0,0,0,1,0,0,15,210,131,103,137,138,28
+16,Time Wizard,"A sorcerer capable
+of bending time to
+his will. Though not
+powerful at first
+glance, appearances 
+can be deceiving.",Venus,Sun,2,Spellcaster,Light,500,400,71625222,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,16,633,586,573,580,85,56
+17,Right Leg of the Forbidden One,"A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.",Mercury,Jupiter,1,Spellcaster,Dark,200,300,8124921,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,17,524,618,618,605,75,60
+18,Left Leg of the Forbidden One,"A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.",Mercury,Saturn,1,Spellcaster,Dark,200,300,44519536,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,18,358,615,616,603,59,60
+19,Right Arm of the Forbidden One,"A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.",Mercury,Uranus,1,Spellcaster,Dark,200,300,70903634,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,19,523,617,617,604,74,60
+20,Left Arm of the Forbidden One,"A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.",Mercury,Pluto,1,Spellcaster,Dark,200,300,7902349,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,20,357,614,615,602,58,60
+21,Exodia the Forbidden,"Once combined with
+arms and legs, this 
+monster is freed
+from its magical
+chains.
+Only one card of
+this type may be
+included in a deck.",Mercury,Neptune,3,Spellcaster,Dark,1000,1000,33396948,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,21,186,421,375,361,46,46
+22,Summoned Skull,"An entity with dark
+powers for confusing
+the enemy. Among the
+FIEND class of
+monsters, this is a 
+pretty rare card.",Moon,Pluto,6,Fiend,Dark,2500,1200,70781052,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,22,594,32,25,261,324,13
+23,The Wicked Worm Beast,"A monster worm
+created by the
+powers of darkness. 
+It suddenly appears 
+from under the
+ground to attack its
+enemies.",Uranus,Venus,3,Beast,Earth,1400,700,6285791,60,0,0,0,0,0,0,0,0,0,0,0,0,0,23,628,296,233,472,243,38
+24,Skull Servant,"A skeletal ghost
+that isn't strong
+but can mean trouble
+in large numbers.",Moon,Neptune,1,Zombie,Dark,300,200,32274490,10,0,0,0,0,0,0,0,0,0,0,0,0,0,24,562,619,608,616,111,60
+25,Horn Imp,"A small imp that
+dwells in the dark.
+Its single horn
+makes it a
+formidable opponent.",Moon,Mercury,4,Fiend,Dark,1300,1000,69669405,80,0,0,0,0,0,0,0,0,1,0,0,0,0,25,288,323,266,339,295,40
+26,Battle Ox,"A monster with
+tremendous power.
+Destroys enemies
+with a swing of its
+axe.",Jupiter,Moon,4,Beast-Warrior,Earth,1700,1000,5053103,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,26,47,179,140,325,193,30
+27,Beaver Warrior,"What this creature 
+lacks in size,
+it makes up for
+in defense when
+battling in the
+meadow.",Jupiter,Venus,4,Beast-Warrior,Earth,1200,1500,32452818,140,0,0,0,0,0,0,0,0,0,0,0,0,0,27,58,229,284,177,195,36
+28,Rock Ogre Grotto #1,"Protected by a solid
+body of rock, this
+creature throws
+a bone-shattering
+punch.",Uranus,Mercury,3,Rock,Earth,800,1200,68846917,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,28,526,384,450,303,591,42
+29,Mountain Warrior,"A solid warrior that
+can move swiftly
+over rough terrain.",Uranus,Mars,3,Beast-Warrior,Earth,600,1000,4931562,35,0,0,0,0,0,0,0,0,0,0,0,0,0,29,437,447,530,377,198,46
+30,Zombie Warrior,"A deceptively
+fragile-looking
+skeleton warrior
+that is known for
+its swift and
+precise attacks.",Moon,Mars,3,Zombie,Dark,1200,900,31339260,60,0,0,0,0,0,0,0,0,0,0,0,0,0,30,721,380,321,395,119,42
+31,Koumori Dragon,"A vicious,
+fire-breathing
+dragon whose wicked
+flames corrupt the
+souls of its victims.",Moon,Jupiter,4,Dragon,Dark,1500,1200,67724379,140,0,0,0,1,0,0,0,0,0,0,0,0,0,31,337,236,195,274,14,36
+32,Two-headed King Rex,"An unusual and
+rarely seen
+two-headed dragon.",Uranus,Neptune,4,Dinosaur,Earth,1600,1200,94119974,160,0,0,0,0,0,0,0,0,0,0,0,0,0,32,655,207,169,268,412,33
+33,Judge Man,"For this
+club-wielding
+warrior, there is
+no other outcome
+to battle than
+victory or defeat.",Sun,Saturn,6,Warrior,Earth,2200,1500,30113682,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,33,315,56,47,153,151,19
+34,Saggi the Dark Clown,"This clown appears 
+out of nowhere and 
+executes some very 
+strange moves to 
+avoid enemy attacks.",Mercury,Moon,3,Spellcaster,Dark,600,1500,66602787,60,0,0,1,0,0,0,0,0,0,0,0,0,0,34,537,254,526,187,78,36
+35,Dark Magician,"The ultimate wizard 
+in terms of attack
+and defense.",Mercury,Mars,7,Spellcaster,Dark,2500,2100,46986414,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,35,135,29,24,41,42,13
+36,The Snake Hair,"A monster with the
+head of a poisonus
+snake. One look will
+turn an unwary
+opponent to stone.",Moon,Saturn,4,Zombie,Dark,1500,1200,29491031,140,0,0,0,0,0,0,0,0,0,0,0,0,0,36,624,240,199,278,114,36
+37,Gaia the Dragon Champion,"A warrior's prowess 
+combines with a
+dragon's speed to
+create a powerful
+offensive force.",Saturn,Mercury,7,Dragon,Wind,2600,2100,66889139,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,37,222,21,18,40,11,11
+38,Gaia the Fierce Knight,"A knight mounted on 
+a horse that travels
+faster than the wind.
+His battle charge is
+a force to be
+reckoned with.",Mercury,Jupiter,7,Warrior,Earth,2300,2100,6368038,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,38,223,42,34,42,139,17
+39,Curse of Dragon,"A wicked dragon that
+taps dark forces to 
+execute a powerful
+attack.",Saturn,Pluto,5,Dragon,Dark,2000,1500,28279543,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,39,113,90,74,154,8,23
+40,Dragon Piper,"A jar carved with
+strange patterns. It
+has a particularly
+high defense factor.",Mars,Moon,3,Pyro,Fire,200,1800,55763552,55,0,0,0,0,0,0,0,1,0,0,1,0,0,40,161,160,614,111,569,28
+41,Celtic Guardian,"An elf, who learned
+to wield a sword,
+baffles enemies with
+lightning-swift
+attacks.",Sun,Uranus,4,Warrior,Earth,1400,1200,91152256,120,0,0,0,0,1,0,0,0,0,0,0,0,0,41,92,270,222,280,128,38
+42,Illusionist Faceless Mage,"Manipulates enemy
+attacks with the
+power of illusion.
+A very rare card.",Venus,Mars,5,Spellcaster,Dark,1200,2200,28546905,320,0,0,0,0,0,0,0,0,0,0,0,0,0,42,302,58,280,35,53,19
+43,Karbonala Warrior,"A very
+average-looking
+fighter with an
+unusually high
+attack factor.",Uranus,Jupiter,4,Warrior,Earth,1500,1200,54541900,140,0,0,0,0,0,0,0,0,0,0,0,0,0,43,327,234,193,272,155,36
+44,Rogue Doll,"A unique doll gifted
+with mystical power.
+Particularly
+powerful when
+attacking against
+dark forces.",Sun,Pluto,4,Spellcaster,Light,1600,1000,91939608,120,0,0,0,0,0,0,0,0,0,0,0,0,0,44,529,209,171,326,77,33
+45,Oscillo Hero #2,"Attacks its enemies
+with thunder.",Pluto,Sun,3,Thunder,Light,1000,500,27324313,30,0,0,0,0,0,0,0,0,0,0,0,0,0,45,477,451,391,542,500,46
+46,Griffore,"This creature's
+tough hide deflects
+just about any
+attack.",Jupiter,Mercury,4,Beast,Earth,1200,1500,53829412,140,0,0,0,0,0,0,0,0,0,0,0,0,1,46,261,232,286,179,221,36
+47,Torike,"Not as tough as it
+looks in terms of
+defense.
+This monster's
+sharp horn gives it
+an edge
+when attacking.",Uranus,Sun,3,Beast,Earth,1200,600,80813021,45,0,0,0,0,0,0,0,0,0,0,0,0,1,47,639,390,327,509,245,42
+48,Sangan,"A compact,
+three-eyed monster
+that is dangerous
+when faced
+in the dark.",Moon,Uranus,3,Fiend,Dark,1000,600,26202165,35,0,0,0,0,0,0,0,0,1,0,0,0,0,48,541,448,389,511,322,46
+49,Big Insect,"A giant ant that
+dwells in the jungle.
+Powerful in terms of
+both ATK and DEF
+factors.",Jupiter,Uranus,4,Insect,Earth,1200,1500,53606874,140,0,0,0,0,0,0,0,0,0,0,0,0,0,49,62,230,285,178,369,36
+50,Basic Insect,"Usually found
+travelling in swarms,
+this creature's
+ideal environment is
+the forest.",Jupiter,Pluto,2,Insect,Earth,500,700,89091579,25,0,0,0,0,0,0,0,0,0,0,0,0,0,50,45,549,563,505,368,52
+51,Armored Lizard,"A lizard with a very
+tough hide and a
+very vicious bite.",Neptune,Sun,4,Reptile,Earth,1500,1200,15480588,999999,0,1,0,0,0,0,0,0,0,0,0,0,0,51,32,228,191,270,416,36
+52,Hercules Beetle,"A massive beetle
+with a tough hide
+and a dangerous horn.",Jupiter,Neptune,5,Insect,Earth,1500,2000,52584282,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,52,278,91,182,62,380,23
+53,Killer Needle,"A huge bee with
+exceptional strength.
+Particularly
+dangerous when a
+swarm is encountered.",Jupiter,Sun,4,Insect,Wind,1200,1000,88979991,70,0,0,0,0,0,0,0,0,0,0,0,0,0,53,332,359,305,349,387,42
+54,Gokibore,"A large, spherical
+roach that attacks
+its enemies by
+rolling over them.
+Its tough defense
+makes it 
+a formidable foe.",Jupiter,Moon,4,Insect,Earth,1200,1400,15367030,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,54,250,275,291,212,378,38
+55,Giant Flea,"A giant
+blood-sucking flea
+that's devastating
+when attacking.",Jupiter,Venus,4,Insect,Earth,1500,1200,41762634,140,0,0,0,0,0,0,0,0,0,0,0,0,0,55,237,231,192,271,376,36
+56,Larvae Moth,"Not much in its
+larval form,
+this creature is a
+force to be reckoned
+with when it grows
+to become a colossal
+moth.",Jupiter,Mercury,2,Insect,Earth,500,400,87756343,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,56,351,582,571,578,392,56
+57,Great Moth,"A powerful creature
+of the forest, this
+huge moth attacks
+its enemies by
+spreading poison
+dust with its wings.",Jupiter,Uranus,8,Insect,Earth,2600,2500,14141448,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,57,257,19,16,13,379,11
+58,Kuriboh,"By itself, this
+small creature may
+not seem like much.
+But in the dark, it
+attacks in numbers
+as a formidable
+force.",Mercury,Saturn,1,Fiend,Dark,300,200,40640057,10,0,0,0,0,0,0,0,0,1,0,0,0,0,58,342,613,606,614,301,60
+59,Mammoth Graveyard,"A mammoth that
+protects the
+gravesite of its
+pack. It's
+absolutely merciless
+when facing
+graverobbers.",Mercury,Pluto,3,Dinosaur,Earth,1200,800,40374923,55,0,0,0,0,0,0,0,0,1,0,0,0,0,59,385,383,323,439,406,42
+60,Great White,"A giant white shark
+with razor-sharp
+teeth.",Neptune,Moon,4,Fish,Water,1600,800,13429800,999999,0,1,0,0,0,0,0,0,0,0,0,0,0,60,258,212,173,429,434,33
+61,Wolf,"A rarely seen wolf
+with a powerful nose
+for catching the
+scent of an enemy.",Jupiter,Pluto,3,Beast,Earth,1200,800,49417509,55,0,0,0,0,0,0,0,0,0,0,0,0,1,61,702,387,325,441,247,42
+62,Harpie Lady,"A human-shaped
+animal with wings.
+Beautiful to watch,
+but lethal when
+engaged in battle.",Saturn,Neptune,4,Winged Beast,Wind,1300,1400,76812113,999999,0,0,0,0,0,1,1,0,0,0,0,0,0,62,274,266,252,206,255,38
+63,Harpie Lady Sisters,"Three fierce sisters
+who relentlessly
+attack as a team.",Saturn,Mars,6,Winged Beast,Wind,1950,2100,12206212,999999,0,0,0,0,0,1,1,0,0,0,0,0,0,63,275,63,77,45,256,21
+64,Tiger Axe,"A fast and powerful
+axe-wielding
+beast warrior.",Jupiter,Neptune,4,Beast-Warrior,Earth,1300,1100,49791927,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,64,632,317,262,315,206,40
+65,Silver Fang,"A snow wolf that's
+beautiful to the eye
+but absolutely
+vicious in battle.",Jupiter,Sun,3,Beast,Earth,1200,800,90357090,55,0,0,0,0,0,0,0,0,0,0,0,0,1,65,555,385,324,440,238,42
+66,Kojikocy,"A man-hunter with
+powerful arms that
+can crush boulders.",Uranus,Moon,4,Warrior,Earth,1500,1200,1184620,140,0,0,0,0,0,0,0,0,0,0,0,0,0,66,335,235,194,273,156,36
+67,Perfectly Ultimate Great Moth,"The final
+incarnation of the
+ultimate insect,
+the Great Moth!",Jupiter,Moon,8,Insect,Earth,3500,3000,48579379,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,67,485,3,3,3,398,3
+68,Garoozis,"An axe-swinging
+beast warrior with
+the head of
+a dragon.",Mars,Venus,5,Beast-Warrior,Fire,1800,1500,14977074,290,0,0,0,0,0,0,0,0,0,0,1,0,0,68,228,139,108,160,196,28
+69,Thousand Dragon,"A dragon that has
+grown and developed
+over a thousand
+years.",Mars,Mercury,7,Dragon,Wind,2400,2000,41462083,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,69,629,38,31,51,26,15
+70,Fiend Kraken,"A massive squid that
+suddenly appears
+from the depths of
+the sea to attack
+unwary enemies.",Neptune,Venus,4,Aqua,Water,1200,1400,77456781,120,0,1,0,0,0,0,0,0,0,0,0,0,0,70,194,273,289,210,521,38
+71,Jellyfish,"An almost invisible,
+semi-transparent
+jellyfish that
+drifts in the sea.",Neptune,Mercury,4,Aqua,Water,1200,1500,14851496,140,0,1,0,0,0,0,0,0,0,0,0,0,0,71,311,233,287,180,533,36
+72,Cocoon of Evolution,"This creature is
+capable of instantly
+evolving larvae
+into adults.",Jupiter,Venus,3,Insect,Earth,0,2000,40240595,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,72,99,101,621,70,372,23
+73,Kairyu-shin,"A sea dragon that's
+referred to as the
+""King of the Ocean"".
+It attacks its
+enemies with huge
+tidal waves.",Neptune,Mars,5,Sea Serpent,Water,1800,1500,76634149,290,0,0,0,1,0,0,0,0,0,0,0,0,0,73,318,141,109,161,445,28
+74,Giant Soldier of Stone,"A giant warrior made
+of stone. A punch
+from this creature
+has earth-shaking
+results.",Uranus,Venus,3,Rock,Earth,1300,2000,13039848,290,0,0,0,0,0,0,0,0,0,0,0,0,0,74,241,92,244,63,581,23
+75,Man-eating Plant,"A meat-eating plant
+that is attractive
+to the eye but
+dangerous when
+approached.",Mercury,Jupiter,2,Plant,Earth,800,600,49127943,30,0,0,0,0,0,0,0,0,0,0,0,0,0,75,389,515,474,516,613,50
+76,Krokodilus,"A vicious crocodile
+with intelligence.
+Hard scales form
+a natural armor
+for this creature.",Neptune,Jupiter,4,Reptile,Water,1100,1200,76512652,80,0,1,0,0,0,0,0,0,0,0,0,0,0,76,338,348,339,292,421,42
+77,Grappler,"A devious snake with
+a thick body that
+wraps around an
+enemy monster and
+squeezes the life
+out of it.",Neptune,Saturn,4,Reptile,Water,1300,1200,2906250,100,0,1,0,0,0,0,0,0,0,0,0,0,0,77,253,305,256,287,420,40
+78,Axe Raider,"An axe-wielding
+monster of
+tremendous strength
+and agility.",Uranus,Mercury,4,Warrior,Earth,1700,1150,48305365,160,0,0,0,0,0,0,0,0,0,0,0,0,0,78,37,178,139,307,123,30
+79,Megazowler,"Nothing stands in
+the way of this
+spike-covered
+dinosaur.",Uranus,Neptune,6,Dinosaur,Earth,1800,2000,75390004,500,0,0,0,0,0,0,0,0,0,0,0,0,0,79,408,80,98,58,407,23
+80,Uraby,"Fast on its feet,
+this dinosaur rips
+enemies to shreds
+with its sharp claws.",Uranus,Mars,4,Dinosaur,Earth,1500,800,1784619,80,0,0,0,0,0,0,0,0,0,0,0,0,0,80,662,252,206,432,414,36
+81,Crawling Dragon #2,"A powerful dragon
+with teeth that can
+grind almost
+anything to dust.",Moon,Pluto,4,Dinosaur,Earth,1600,1200,38289717,160,0,0,0,1,0,0,0,0,0,0,0,0,0,81,108,203,165,264,404,33
+82,Red-eyes B. Dragon,"A very rare card
+with a high-level
+ATK factor.",Moon,Neptune,7,Dragon,Dark,2400,2000,74677422,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,82,516,37,30,50,22,15
+83,Castle of Dark Illusions,"A creature that can
+generate darkness to
+envelop all that
+exists around it.",Mercury,Uranus,4,Fiend,Dark,920,1930,62121,160,0,0,1,0,0,0,0,0,0,0,0,0,0,83,90,104,401,73,278,25
+84,Reaper of the Cards,"This monster boasts
+a strong defense and
+a massive scythe
+that cuts through
+almost anything.",Moon,Pluto,5,Fiend,Dark,1380,1930,33066139,290,0,0,0,0,0,0,0,0,1,0,0,0,0,84,514,103,234,72,319,25
+85,King of Yamimakai,"Wields the power of
+darkness to destroy
+its enemies.",Moon,Pluto,5,Fiend,Dark,2000,1530,69455834,350,0,0,0,0,0,0,0,0,0,0,0,0,0,85,334,89,73,151,300,23
+86,Barox,"This creature flies
+through the dark,
+attacking its
+enemies with its
+long, hairy arms.",Jupiter,Mercury,5,Fiend,Dark,1380,1530,6840573,180,0,0,0,0,0,0,0,0,0,0,0,0,0,86,42,221,235,152,273,35
+87,Dark Chimera,"A fire-breathing
+monster that dwells
+in the netherworld.",Mercury,Neptune,5,Fiend,Dark,1610,1460,32344688,200,0,0,0,0,0,0,0,0,0,0,0,0,0,87,128,187,148,188,283,32
+88,Metal Guardian,"A fiend guarding
+the treasures of
+the netherworld.
+Its defense is
+particularly high in
+ a dark environment.",Moon,Mercury,5,Fiend,Dark,1150,2150,68339286,290,0,0,0,0,0,0,0,0,1,0,0,0,0,88,413,61,328,38,310,20
+89,Catapult Turtle,"Well-protected by
+its shell, this
+monster flings
+projectiles from
+its catapult.",Neptune,Sun,5,Aqua,Water,1000,2000,95727991,200,0,1,0,0,0,0,0,0,0,0,0,1,0,89,91,96,362,66,516,23
+90,Gyakutenno Megami,"Uses her mystical
+power to protect the
+weak and provide
+spiritual support.",Sun,Neptune,6,Fairy,Light,1800,2000,31122090,500,0,0,0,0,0,0,1,0,0,0,0,0,0,90,268,78,97,57,346,23
+91,Mystic Horseman,"Half man and half
+horse, this monster
+is known for its
+extreme speed.",Jupiter,Uranus,4,Beast,Earth,1300,1550,68516705,999999,0,0,0,0,0,0,0,0,0,0,0,0,1,91,448,218,247,150,231,34
+92,Rabid Horseman,"A powerful
+and unstoppable
+combination of
+bull and horse.",Jupiter,Pluto,6,Beast-Warrior,Earth,2000,1700,94905343,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,92,507,86,70,115,202,23
+93,Zanki,"Prefers to face
+enemies one-on-one.
+His swiftly drawn
+blade delivers a
+quick and immediate
+finnish.",Uranus,Jupiter,5,Warrior,Earth,1500,1700,30090452,260,0,0,0,0,0,0,0,0,0,0,0,0,0,93,716,169,187,126,192,30
+94,Crawling Dragon,"A weakened dragon
+that can no longer
+fly, but is still a
+formidable force
+to be reckoned with.",Uranus,Sun,5,Dragon,Earth,1600,1400,67494157,200,0,0,0,1,0,0,0,0,0,0,0,0,0,94,107,192,157,196,7,33
+95,Crass Clown,"A performer
+in the Dark Circus,
+this clown drains
+the strength of
+its enemies with
+strange dances.",Venus,Jupiter,4,Fiend,Dark,1350,1400,93889755,140,0,0,0,0,0,0,0,0,0,0,0,0,0,95,106,260,238,202,281,38
+96,Armored Zombie,"A warrior raised
+from the beyond.
+Blindly swings
+a sharp blade with
+devastating force.",Moon,Pluto,3,Zombie,Dark,1500,0,20277860,260,0,0,0,0,0,0,0,0,0,0,0,0,0,96,35,255,207,620,89,36
+97,Dragon Zombie,"A dragon revived by
+sorcery. Its breath
+is highly corrosive.",Moon,Pluto,3,Zombie,Dark,1600,0,66672569,200,0,0,0,1,0,0,0,0,0,0,0,0,0,97,165,215,174,619,97,33
+98,Clown Zombie,"A clown revived by
+the powers of
+darkness.
+Its strange dance
+has sent many 
+monsters to their
+ends.",Moon,Pluto,2,Zombie,Dark,1350,0,92667214,140,0,0,0,0,0,0,0,0,0,0,0,0,0,98,97,302,243,621,92,39
+99,Pumpking the King of Ghosts,"This pumpkin king
+strikes at its
+enemies with its
+long tentacles.",Jupiter,Neptune,6,Zombie,Dark,1800,2000,29155212,500,0,0,0,0,0,0,0,0,0,0,0,0,0,99,501,82,100,60,107,23
+100,Battle Warrior,"A warrior that
+fights with his
+bare hands.",Uranus,Moon,3,Warrior,Earth,700,1000,55550921,40,0,0,0,0,0,0,0,0,0,0,0,0,0,100,49,444,498,375,124,46
+101,Wings of Wicked Flame,"Soaring over
+its enemies on wings
+of crimson fire,
+this monster attacks
+by blasting flames
+from its body.",Mars,Saturn,2,Pyro,Fire,700,600,92944626,30,0,0,0,0,0,0,0,0,0,0,1,0,0,101,697,547,515,532,576,52
+102,Mask of Darkness,"A shadow mask
+created by the hands
+of a dark mage.",Mercury,Moon,2,Fiend,Dark,900,400,28933734,30,0,0,1,0,0,0,0,0,0,0,0,0,0,102,392,494,432,569,307,48
+103,Job-change Mirror,"An indestructible,
+wicked mirror that
+blocks enemy attacks.",Mercury,Mars,3,Fiend,Dark,800,1300,55337339,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,103,314,329,447,252,297,40
+104,Curtain of the Dark Ones,"A curtain woven by
+the hands of a
+sorcerer. It is said
+to enhance the power
+of magic- users.",Mercury,Jupiter,2,Spellcaster,Dark,600,500,22026707,25,0,0,1,0,0,0,0,0,0,0,0,0,0,104,117,564,546,556,40,54
+105,Tomozaurus,"A deceivingly small
+creature that is so
+vicious it attacks
+both friend and foe
+without discretion.",Uranus,Venus,2,Dinosaur,Earth,500,400,46457856,20,0,0,0,0,0,0,0,0,0,0,0,0,0,105,636,587,574,581,410,56
+106,Spirit of the Winds,"A spirit of the wind
+that freely sails
+the skies. Known to
+generate storms when
+it's in a bad mood.",Saturn,Sun,5,Spellcaster,Wind,1700,1400,54615781,230,0,0,0,0,0,0,0,0,0,0,0,0,0,106,580,173,137,195,82,30
+107,Kageningen,"Uses both its
+physical and shadow
+forms to attack,
+making it
+a difficult creature
+to overcome.",Moon,Mars,2,Warrior,Dark,800,600,80600490,30,0,0,0,0,0,0,0,0,0,0,0,0,0,107,317,511,472,514,153,50
+108,Graveyard and the Hand of Invitation,"A final resting
+place that enhances
+the power of the
+doomed and drains
+that of the living.",Moon,Pluto,3,Zombie,Dark,700,900,27094595,35,0,0,0,0,0,0,0,0,0,0,0,0,0,108,254,478,500,416,102,48
+109,Goddess with the Third Eye,"A goddess with an
+all-seeing eye that
+reveals all.",Sun,Venus,4,Fairy,Light,1200,1000,53493204,70,0,0,0,0,0,0,1,0,0,0,0,0,0,109,249,356,303,347,345,42
+110,Hero of the East,"A samurai from the
+Far East armed with
+a razor-sharp sword.",Uranus,Mercury,3,Warrior,Earth,1100,1000,89987208,60,0,0,0,0,0,0,0,0,0,0,0,0,0,110,279,398,343,356,146,44
+111,Doma The Angel of Silence,"This angel rules
+over the doomed
+and administers it
+when necessary.",Mercury,Saturn,5,Fairy,Dark,1600,1400,16972957,200,0,0,1,0,0,0,0,0,0,0,0,0,0,111,157,193,158,197,343,33
+112,That Which Feeds on Life,"A vile monster that
+fuels its power by
+draining the essence
+of life from
+its opponents.",Mercury,Uranus,4,Fiend,Dark,1200,1000,52367652,70,0,0,1,0,0,0,0,0,0,0,0,0,0,112,613,364,309,353,327,42
+113,Dark Gray,"Entirely gray,
+this beast has
+rarely been seen
+by mortal eyes.",Jupiter,Moon,3,Beast,Earth,800,900,9159938,40,0,0,0,0,0,0,0,0,0,0,0,0,1,113,131,463,463,411,211,48
+114,White Magical Hat,"A gentleman thief
+that eludes the law
+despite the fact
+that he sticks out
+like a sore thumb
+with his silk hat
+and white cape.",Sun,Mars,3,Spellcaster,Light,1000,700,15150365,40,0,0,0,0,0,0,0,0,0,0,0,0,0,114,685,445,388,481,86,46
+115,Kamion Wizard,"A magic-user that
+controls chaos
+and wields
+a mighty sickle.",Mercury,Pluto,4,Spellcaster,Dark,1300,1100,41544074,120,0,0,1,0,0,0,0,0,0,0,0,0,0,115,323,314,260,313,54,40
+116,Nightmare Scorpion,"A very toxic
+creature that
+induces nightmares
+and attacks its
+victims with four
+poison- tipped
+stingers.",Uranus,Neptune,3,Insect,Earth,900,800,88643173,40,0,0,0,0,0,0,0,0,0,0,0,0,0,116,464,468,415,453,397,48
+117,Spirit of the Books,"A spirit of the
+books with infinite
+knowledge and
+an endless variety
+of attack strategies.",Saturn,Moon,4,Winged Beast,Wind,1400,1200,14037717,120,0,0,0,0,0,0,0,0,0,0,0,0,0,117,577,278,225,283,266,38
+118,Supporter in the Shadows,"A cute elf that
+assists against
+enemies while
+remaining hidden
+from sight.",Jupiter,Venus,3,Warrior,Earth,1000,1000,41422426,55,0,0,0,0,0,0,0,0,0,0,0,0,0,118,596,423,377,363,179,46
+119,Trial of Nightmares,"Passes judgment on
+enemies that are
+locked in coffins.",Moon,Pluto,4,Fiend,Dark,1300,900,77827521,70,0,0,0,0,0,0,0,0,1,0,0,0,0,119,644,328,269,383,331,40
+120,Dream Clown,"The mysterious dance
+of this creature
+draws its enemies
+into eternal slumber.",Venus,Saturn,3,Warrior,Earth,1200,900,13215230,60,0,0,0,0,0,0,0,0,0,0,0,0,0,120,167,370,313,387,134,42
+121,Sleeping Lion,"Frequently
+found sleeping,
+this monster is
+very dangerous
+when awakened.",Jupiter,Sun,4,Beast,Earth,700,1700,40200834,120,0,0,0,0,0,0,0,0,0,0,0,0,1,121,566,181,491,131,239,30
+122,Yamatano Dragon Scroll,"This dragon is
+conjured from
+a picture scroll
+to attack enemies.
+It has a pretty
+low defense factor.",Saturn,Venus,2,Dragon,Wind,900,300,76704943,25,0,0,0,1,0,0,0,0,0,0,0,0,0,122,711,496,434,590,32,48
+123,Dark Plant,"A vicious flower
+raised from polluted
+soil and fertilized
+by dark forces.",Moon,Jupiter,1,Plant,Dark,300,400,13193642,15,0,0,0,0,0,0,0,0,0,0,0,0,0,123,136,594,596,584,605,58
+124,Ancient Tool,"An engine
+of destruction
+discovered in the
+ruins of an ancient
+civilization.",Moon,Saturn,5,Machine,Dark,1700,1400,49587396,230,0,0,0,0,0,0,0,0,0,0,0,0,0,124,20,171,135,193,449,30
+125,Faith Bird,"A bird with a very
+long tail that
+attacks with a light
+that emanates from
+its entire being.",Sun,Jupiter,4,Winged Beast,Wind,1500,1100,75582395,120,0,0,0,0,0,1,0,0,0,0,0,0,0,125,191,242,200,309,252,36
+126,Orion the Battle King,"A mysterious
+creature known as
+the king of warriors,
+but nobody has lived
+long enough to tell
+how it earned
+its reputation.",Sun,Saturn,5,Fairy,Light,1800,1500,2971090,290,0,0,0,0,0,0,0,0,0,0,0,0,0,126,475,144,111,163,356,28
+127,Ansatsu,"A silent and swift
+warrior specializing
+in sneak attack.",Mercury,Neptune,5,Warrior,Earth,1700,1200,48365709,180,0,0,1,0,0,0,0,0,0,0,0,0,0,127,23,176,138,262,120,30
+128,LaMoon,"A sorcerer who lives
+on the moon and
+attacks opponents
+with the power
+of lunar light.",Sun,Uranus,5,Spellcaster,Light,1200,1700,75850803,180,1,0,0,0,0,1,1,0,0,0,0,0,0,128,350,177,283,129,57,30
+129,Nemuriko,"A child-like
+creature that
+controls a sleep
+spirit to beckon
+enemies into eternal
+slumber.",Mercury,Moon,3,Spellcaster,Dark,800,700,90963488,30,0,0,1,0,0,0,1,0,0,0,0,0,0,129,462,505,468,493,72,50
+130,Weather Control,"This monster is
+capable of
+manipulating the
+weather. This power
+is the reason behind
+the changing climate
+of mountains.",Sun,Pluto,2,Fairy,Light,600,400,37243151,20,0,0,0,0,0,0,0,0,0,1,0,0,0,130,680,571,550,574,363,54
+131,Octoberser,"A strange creature
+with the head
+of a fish and
+the tentacles of
+an octopus that
+attacks its enemies
+with spears.",Neptune,Moon,5,Aqua,Water,1600,1400,74637266,200,0,1,0,0,0,0,0,0,0,0,0,0,0,131,468,196,160,199,539,33
+132,The 13th Grave,"A zombie that
+suddenly appeared
+from plot
+#13 - supposedly
+an empty grave.",Moon,Pluto,3,Zombie,Dark,1200,900,32864,60,0,0,0,0,0,0,0,0,0,0,0,0,0,132,614,377,319,393,113,42
+133,Charubin the Fire Knight,"A warrior protected
+by a shell
+that can even
+deflect the heat
+of burning flames.",Mars,Uranus,3,Pyro,Fire,1100,800,37421579,50,0,0,0,0,0,0,0,0,0,0,1,0,0,133,95,408,351,443,568,44
+134,Mystical Capture Chain,"A mystical chain
+that is believed
+capable of binding
+its enemies and
+preventing their
+attacks.",Sun,Neptune,2,Fairy,Light,700,700,63515678,30,0,0,0,0,0,0,0,0,0,1,0,0,0,134,450,533,504,498,354,52
+135,Fiend's Hand,"Long arms reach out
+from the Swamp
+of Chaos to drag
+in enemy creatures.",Moon,Pluto,2,Zombie,Dark,600,600,52800428,25,0,0,0,0,0,0,0,0,0,0,0,0,0,135,198,561,543,535,98,54
+136,Witty Phantom,"Dressed in a
+night-black tuxedo,
+this creature
+presides over
+the doomed.",Mercury,Mars,4,Fiend,Dark,1400,1300,36304921,140,0,0,1,0,0,0,0,0,0,0,0,0,0,136,700,269,221,239,336,38
+137,Mystery Hand,"Twisting the fabric
+of reality, arms
+stretch out from
+another dimension
+to attack opponents.",Moon,Uranus,2,Fiend,Dark,500,500,62793020,20,0,0,0,0,0,0,0,0,1,0,0,0,0,137,446,578,569,563,314,56
+138,Dragon Statue,"A granite warrior
+with a dragon's soul
+wields a powerful
+sword against
+all enemies.",Uranus,Mars,3,Warrior,Earth,1100,900,9197735,55,0,0,0,1,0,0,0,0,0,0,0,0,0,138,163,402,346,398,132,44
+139,Blue-eyed Silver Zombie,"A creature rumored
+to turn enemies
+into zombies
+with a strange ray
+that emanates
+from its eyes.",Sun,Pluto,3,Zombie,Dark,900,700,35282433,35,0,0,0,0,0,0,0,0,0,0,0,0,0,139,72,475,421,485,90,48
+140,Toad Master,"Thousands of years
+old, this frog
+wizard attacks
+enemies with an
+army of tadpoles.",Neptune,Venus,3,Aqua,Water,1000,1000,62671448,55,0,1,0,0,0,0,0,0,0,0,0,0,0,140,634,424,378,364,550,46
+141,Spiked Snail,"Evolving from the
+powers of darkness,
+this snail has arms
+and legs that allow
+swift attacks
+against its enemies.",Moon,Jupiter,3,Insect,Dark,700,1300,98075147,55,0,0,0,0,0,0,0,0,1,0,0,0,0,141,576,335,497,256,400,40
+142,Flame Manipulator,"Attacks enemies with
+fire-related spells,
+such as the
+""Sea of Flames""
+and the
+""Wall of Fire"".",Mars,Pluto,3,Spellcaster,Fire,900,1000,34460851,50,0,0,0,0,0,0,0,0,0,0,1,0,0,142,209,427,411,367,48,46
+143,Necrolancer the Timelord,"The first in a line
+of golems that
+appears almost
+anywhere from within
+a dimensional ring.",Venus,Uranus,3,Spellcaster,Dark,800,900,61454890,40,0,0,0,0,0,0,0,0,0,0,0,0,0,143,457,467,465,413,71,48
+144,Djinn the Watcher of the Wind,"Controls the air
+currents to create
+violent winds and
+tornadoes to blow
+away its enemies.",Saturn,Mercury,3,Spellcaster,Wind,700,900,97843505,35,0,0,0,0,0,0,0,0,0,0,0,0,0,144,154,476,499,415,43,48
+145,The Bewitching Phantom Thief,"A flashy,
+black-caped thief
+who wields
+a magic cane.",Venus,Pluto,2,Spellcaster,Dark,700,700,24348204,30,0,0,0,0,0,0,0,0,0,0,0,0,0,145,615,534,505,499,84,52
+146,Temple of Skulls,"A weird temple
+of skulls and bones
+that sucks the
+living essence
+of all those who
+dare approach it.",Mercury,Pluto,4,Zombie,Dark,900,1300,732302,70,0,0,1,0,0,0,0,0,0,0,0,0,0,146,609,327,405,251,112,40
+147,Monster Egg,"A warrior hidden
+within an egg that
+attacks enemies by
+flinging eggshells.",Uranus,Jupiter,3,Warrior,Earth,600,900,36121917,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,147,427,489,532,421,161,48
+148,The Shadow Who Controls the Dark,"A living shadow
+that dwells in the
+realm of darkness.
+It paralyzes
+its enemies
+to prevent attacks.",Mercury,Jupiter,3,Fiend,Dark,800,700,63125616,30,0,0,1,0,0,0,0,0,0,0,0,0,0,148,623,508,470,495,330,50
+149,Lord of the Lamp,"A giant that appears
+from a mystic lamp
+and follows
+the orders
+of the lamp's owner.",Mercury,Saturn,4,Fiend,Dark,1400,1200,99510761,120,0,0,1,0,0,0,0,0,0,0,0,0,0,149,369,276,224,282,303,38
+150,Akihiron,"A mysterious
+creature that dwells
+below the sea.",Neptune,Jupiter,5,Aqua,Water,1700,1400,36904469,230,0,1,0,0,0,0,0,0,0,0,0,0,0,150,9,170,134,192,507,30
+151,Rhaimundos of the Red Sword,"A warrior armed
+with the Sword
+of Crimson Flames.
+Uses fire to bind
+the movement
+of its enemies.",Neptune,Mars,4,Warrior,Earth,1200,1300,62403074,100,0,1,0,0,0,0,0,0,0,0,0,0,0,151,522,307,294,242,173,40
+152,The Melting Red Shadow,"A creature that
+melts into the earth,
+melds with an
+opponent's shadow,
+and attacks
+from below.",Moon,Neptune,2,Aqua,Water,500,700,98898173,25,0,1,0,0,0,0,0,0,0,0,0,0,0,152,622,556,566,508,549,52
+153,Dokuroizo the Grim Reaper,"A living spirit that
+preys on the living
+essence of enemies.",Moon,Pluto,3,Zombie,Dark,900,1200,25882881,60,0,0,0,0,0,0,0,0,0,0,0,0,0,153,155,368,406,299,95,42
+154,Fire Reaper,"A creature that
+deals out punishment
+with its
+flaming arrows.",Mars,Sun,2,Zombie,Dark,700,500,53581214,25,0,0,0,0,0,0,0,0,0,0,1,0,0,154,203,551,517,551,99,52
+155,Larvas,"A fast-moving,
+bird-like creature
+that strangles an
+opposing monster
+with its long,
+thin arms.",Jupiter,Mercury,3,Beast,Earth,800,1000,94675535,45,0,0,0,0,0,0,0,0,0,0,0,0,0,155,352,438,455,370,223,46
+156,Hard Armor,"A living suit of
+armor that attacks
+enemies with a
+bone-jarring tackle.",Uranus,Sun,3,Warrior,Earth,300,1200,20060230,30,0,0,0,0,0,0,0,0,0,0,0,0,0,156,273,391,595,306,145,42
+157,Firegrass,"A fire-breathing
+plant found growing
+near volcanoes.",Mars,Moon,2,Plant,Earth,700,600,53293545,30,0,0,0,0,0,0,0,0,0,0,1,0,0,157,204,537,507,524,607,52
+158,Man Eater,"Man-eating plant
+with poison feelers
+for attacking
+enemies.",Jupiter,Uranus,2,Plant,Earth,800,600,93553943,30,0,0,0,0,0,0,0,0,0,0,0,0,0,158,386,514,473,515,612,50
+159,Dig Beak,"Coiling its
+serpent-like body,
+this creature spins
+and attacks with
+its snapping beak.",Jupiter,Pluto,2,Beast,Earth,500,800,29948642,30,0,0,0,0,0,0,0,0,0,0,0,0,0,159,150,522,561,468,213,50
+160,M-warrior #1,"Specializing in
+combination attacks,
+this warrior uses
+magnetism to block
+an enemy's escape.",Uranus,Moon,3,Warrior,Earth,1000,500,56342351,30,0,0,0,0,0,0,0,0,0,0,0,0,0,160,443,449,390,541,165,46
+161,M-warrior #2,"Specializing in
+combination attacks,
+this warrior is
+equipped with a
+tough, magnetically
+coated armor.",Uranus,Venus,3,Warrior,Earth,500,1000,92731455,30,0,0,0,0,0,0,0,0,0,0,0,0,0,161,444,450,560,378,166,46
+162,Tainted Wisdom,"A parasite brain
+that preys
+on the knowledge
+and intelligence
+of its opponents.",Moon,Mercury,3,Fiend,Dark,1250,800,28725004,55,0,0,0,0,0,0,0,0,1,0,0,0,0,162,604,343,278,437,325,41
+163,Lisark,"An unusual creature
+with sapphire eyes
+that creates visions
+to confuse the enemy.",Saturn,Pluto,4,Beast,Earth,1300,1300,55210709,120,0,0,0,0,0,1,0,0,0,0,0,0,0,163,365,303,255,240,225,40
+164,Lord of Zemia,"A vile entity that
+deceives enemies
+into walking a path
+of destruction.",Mercury,Uranus,4,Fiend,Dark,1300,1000,81618817,80,0,0,1,0,0,0,0,0,0,0,0,0,0,164,370,324,267,340,304,40
+165,The Judgement Hand,"The hand of final
+judgment is capable
+of intense attacks
+against the enemy.",Sun,Venus,3,Warrior,Earth,1400,700,28003512,60,0,0,0,0,0,0,0,0,0,0,0,0,0,165,620,295,232,471,183,38
+166,Mysterious Puppeteer,"A puppet master that
+manipulates enemies
+during battle.",Uranus,Mercury,4,Warrior,Earth,1000,1500,54098121,100,0,0,0,0,0,0,0,0,0,0,0,0,0,166,445,245,363,182,167,36
+167,Ancient Jar,"A fragile jar from
+the past containing
+a mysterious
+creature.",Uranus,Neptune,1,Rock,Earth,400,200,81492226,15,0,0,0,0,0,0,0,1,0,0,0,0,0,167,16,599,591,612,577,58
+168,Darkfire Dragon,"Scorching flames
+that wipe out
+enemies in the blink
+of an eye.",Mars,Venus,4,Dragon,Dark,1500,1250,17881964,140,0,0,0,1,0,0,0,0,0,0,1,0,0,168,142,227,190,260,9,36
+169,Dark King of the Abyss,"King of the
+netherworld. It's
+said that he once
+had the power to
+rule over the Dark.",Mercury,Pluto,3,Fiend,Dark,1200,800,53375573,55,0,0,1,0,0,0,0,0,0,0,0,0,0,169,133,381,322,438,284,42
+170,Spirit of the Harp,"A spirit that
+soothes the soul
+with the music of
+its glorious harp.",Sun,Mars,4,Fairy,Light,800,2000,80770678,160,0,0,0,0,0,0,0,0,0,0,0,0,0,170,578,99,444,68,361,23
+171,Big Eye,"This creature is
+covered with
+hypnotic eyes
+for mesmerizing
+its enemies.",Venus,Neptune,4,Fiend,Dark,1200,1000,16768387,70,0,0,0,0,0,0,0,0,0,0,0,0,0,171,61,352,299,343,275,42
+172,Armaill,"A strange warrior
+who manipulates
+three fearsome
+blades with
+both hands and
+its tail.",Mars,Mercury,3,Warrior,Earth,700,1300,53153481,55,0,0,0,0,0,0,0,0,0,0,1,0,0,172,30,332,495,254,121,40
+173,Dark Prisoner,"This creature
+manipulates light
+to eliminate
+all traces of
+its appearance.",Mercury,Neptune,3,Fiend,Dark,600,1000,89558090,35,0,0,1,0,0,0,0,0,0,0,0,0,0,173,137,446,529,376,285,46
+174,Hurricail,"A twister
+that runs rampant
+in the wastelands,
+cutting its enemies
+with blades of wind.",Saturn,Neptune,2,Spellcaster,Wind,900,200,15042735,25,0,0,0,0,0,0,0,0,0,0,0,0,0,174,297,497,435,610,51,48
+175,Ancient Brain,"Exiled from reality,
+this creature is
+adept at fighting
+in the dark.",Mercury,Moon,3,Fiend,Dark,1000,700,42431843,40,1,0,1,0,0,0,0,0,0,0,0,0,0,175,14,443,387,480,272,46
+176,Fire Eye,"A winged eye
+enveloped in flames
+that attacks enemies
+with fire.",Mars,Saturn,2,Pyro,Fire,800,600,88435542,30,0,0,0,0,0,0,0,0,0,0,1,0,0,176,201,509,471,513,570,50
+177,Monsturtle,"A vicious turtle
+with a spiked shell.",Neptune,Mercury,3,Aqua,Water,800,1000,15820147,45,0,1,0,0,0,0,0,0,0,0,0,1,0,177,431,440,457,372,537,46
+178,Claw Reacher,"Stretching arms and
+razor-sharp claws
+make this monster a
+formidable opponent.",Mercury,Mars,3,Fiend,Dark,1000,800,41218256,45,0,0,1,0,0,0,0,0,0,0,0,0,0,178,96,435,384,447,280,46
+179,Phantom Dewan,"A wizard
+that freezes an
+enemy's movement 
+with a single curse.",Mercury,Jupiter,2,Spellcaster,Dark,700,600,77603950,30,0,0,1,0,0,0,0,0,0,0,0,0,0,179,490,544,512,529,73,52
+180,Arlownay,"A maiden
+in the flower
+blossoms spreads
+poisonous pollen
+against opponents.",Jupiter,Neptune,3,Plant,Earth,800,1000,14708569,45,0,0,0,0,0,0,1,0,0,0,0,0,0,180,28,434,454,369,602,46
+181,Dark Shade,"Emits a dazzling
+light from its
+crystal to blind
+its enemies.",Saturn,Mars,3,Fiend,Wind,1000,1000,40196604,55,0,0,0,0,0,0,0,0,0,0,0,0,0,181,139,420,374,360,286,46
+182,Masked Clown,"A dancing warrior
+that makes mincemeat
+out of opponents
+with a sharp scythe.",Mercury,Saturn,2,Warrior,Dark,500,700,77581312,25,0,0,1,0,0,0,0,0,0,0,0,0,0,182,394,554,565,507,159,52
+183,Lucky Trinket,"A thin and reedy
+creature protected
+by sacred power.",Sun,Jupiter,2,Spellcaster,Light,600,800,3985011,30,0,0,0,0,0,0,0,0,0,1,0,0,0,183,371,512,535,465,61,50
+184,Genin,"Uses amazing
+sleight-of-hand
+to fool and destroy
+its enemies.",Venus,Sun,3,Spellcaster,Light,600,900,49370026,30,0,0,0,0,0,0,0,0,0,0,0,0,0,184,235,487,531,420,50,48
+185,Eyearmor,"This warrior
+confuses and
+destroys enemies
+by adopting
+their images.",Uranus,Mars,2,Warrior,Earth,600,500,64511793,25,0,0,0,0,0,0,0,0,0,0,0,0,0,185,187,566,548,558,136,54
+186,Fiend Refrection #2,"A bird-beast
+that summons
+reinforcements
+with a hand mirror.",Venus,Mars,4,Winged Beast,Light,1100,1400,2863439,100,0,0,0,0,0,0,0,0,0,0,0,0,0,186,196,284,334,216,254,38
+187,Gate Deeg,"A creature
+with an abdominal
+portal used for
+summoning monsters
+from the netherworld.",Moon,Mars,3,Beast,Dark,700,800,49258578,30,0,0,0,0,0,0,0,0,1,0,0,0,0,187,230,504,502,462,219,50
+188,Synchar,"An ugly creature
+with two heads and a
+mouth for blasting
+laser beams.",Jupiter,Sun,3,Beast,Earth,800,900,75646173,40,0,0,0,0,0,0,0,0,0,0,0,0,1,188,603,473,466,414,241,48
+189,Fusionist,"A monstrous cat with
+wings and a long,
+striking tail.",Jupiter,Moon,3,Beast,Earth,900,700,1641882,35,1,0,0,0,0,1,0,0,0,0,0,0,1,189,221,477,422,486,217,48
+190,Akakieisu,"A wizard
+whose incantations
+numb the senses of
+opposing monsters.",Mercury,Uranus,3,Spellcaster,Dark,1000,800,38035986,45,0,0,1,0,0,0,0,0,0,0,0,0,0,190,8,432,383,446,33,46
+191,LaLa Li-oon,"Protected by thunder,
+this dangerous cloud
+attacks its enemies
+with acid rain.",Pluto,Moon,2,Thunder,Wind,600,600,9430387,25,0,0,0,0,0,0,0,0,0,0,0,0,0,191,349,562,544,536,498,54
+192,Key Mace,"A small angel
+whose cuteness
+melts the hearts
+of its enemies.",Sun,Saturn,1,Fairy,Light,400,300,1929294,15,0,0,0,0,0,0,1,0,0,1,0,0,0,192,330,596,589,595,351,58
+193,Turtle Tiger,"A tiger encased in a
+protective shell
+that attacks its
+enemies with its
+razor-sharp fangs.",Neptune,Saturn,4,Aqua,Water,1000,1500,37313348,100,0,1,0,0,0,0,0,0,0,0,0,1,0,193,650,247,364,183,553,36
+194,Terra the Terrible,"Know as a dweller
+of the swamps,
+this creature is a
+minion of the Dark
+forces.",Moon,Jupiter,4,Fiend,Dark,1200,1300,63308047,100,0,0,0,0,0,0,0,0,1,0,0,0,0,194,612,308,295,243,326,40
+195,Doron,"An unpredictable
+creature that splits
+into two and attacks
+an enemy from
+opposite directions.",Neptune,Moon,2,Warrior,Earth,900,500,756652,30,0,1,0,0,0,0,0,0,0,0,0,0,0,195,158,492,430,546,131,48
+196,Arma Knight,"An ammonite warrior
+that has protected
+the seas from the
+dawn of time.",Neptune,Venus,4,Aqua,Water,1000,1200,36151751,70,0,1,0,0,0,0,0,0,0,0,0,0,0,196,29,351,368,295,511,42
+197,Mech Mole Zombie,"A creature of the
+night that attacks
+enemies with its 
+rocket-powered arms.",Moon,Saturn,2,Zombie,Dark,500,400,63545455,20,0,0,0,0,0,0,0,0,0,0,0,0,0,197,399,583,572,579,105,56
+198,Happy Lover,"A little angel
+that fires beams
+of happiness
+from the heart jewel
+on its forehead.",Sun,Uranus,2,Fairy,Light,800,500,99030164,30,1,0,0,0,0,1,0,0,0,0,0,0,0,198,272,523,480,548,347,50
+199,Penguin Knight,"A penguin-like
+creature that slides
+on its belly
+to deliver a blow
+with its
+outstretched sword.",Uranus,Mercury,3,Aqua,Water,900,800,36039163,40,0,1,0,0,0,0,0,0,0,0,0,0,0,199,483,470,417,455,541,48
+200,Petit Dragon,"A very small dragon
+known for its
+vicious attacks.",Saturn,Sun,2,Dragon,Wind,600,700,75356564,30,0,0,0,1,0,0,0,0,0,0,0,0,0,200,488,543,540,503,21,52
+201,Frenzied Panda,"A savage beast
+that carries
+a big bamboo stick
+for beating down
+its enemies.",Jupiter,Venus,4,Beast,Earth,1200,1000,98818516,70,0,0,0,0,0,0,0,0,0,0,0,0,1,201,218,355,302,346,216,42
+202,Air Marmot of Nefariousness,"A horned beaver
+with wings that
+throws high-velocity
+acorns from the
+sky with uncanny
+accuracy.",Moon,Uranus,2,Beast,Earth,400,600,75889523,20,0,0,0,0,0,0,0,0,1,0,0,0,1,202,7,570,581,539,207,54
+203,Phantom Ghost,"Malicious spirits
+that walk the world
+of the living,
+unable to find their
+final resting place.",Moon,Pluto,2,Zombie,Dark,600,800,61201220,30,0,0,0,0,0,0,0,0,0,0,0,0,0,203,491,519,537,467,106,50
+204,Mabarrel,"A cannon-like
+monster that rapidly
+fires eyeballs
+at the enemy.",Moon,Neptune,5,Fiend,Dark,1700,1400,98795934,230,0,0,0,0,0,0,0,0,0,0,0,0,0,204,373,172,136,194,305,30
+205,Dorover,"An ugly, melting
+creature that
+breathes out
+poison gas.",Neptune,Sun,3,Aqua,Water,900,800,24194033,40,0,1,0,0,0,0,0,0,0,0,0,0,0,205,159,464,413,451,519,48
+206,Twin Long Rods #1,"This creature swings
+its whip-like arms
+for mid-range
+attacks against
+enemies.",Moon,Mercury,3,Aqua,Water,900,700,60589682,35,0,1,0,0,0,0,0,0,0,0,0,0,0,206,652,481,424,488,555,48
+207,Droll Bird,"With a battle cry
+that curdles
+the blood of
+its opponent,
+this creature
+attacks with its
+massive beak.",Saturn,Moon,2,Winged Beast,Wind,600,500,97973387,25,0,0,0,0,0,0,0,0,0,0,0,0,0,207,168,565,547,557,251,54
+208,Petit Angel,"A quick-moving and
+tiny angel that's
+very difficult
+to hit.",Sun,Pluto,3,Fairy,Light,600,900,38142739,30,1,0,0,0,0,0,0,0,0,1,0,0,0,208,487,490,533,422,357,48
+209,Winged Cleaver,"This creature
+attacks by swinging
+around its
+sickle-like arms.",Jupiter,Mercury,2,Insect,Earth,700,700,39175982,30,0,0,0,0,0,0,0,0,0,0,0,0,0,209,692,535,506,500,401,52
+210,Hinotama Soul,"An intensely hot
+flame creature that
+rams anything that
+stands in its way.",Mars,Uranus,2,Pyro,Fire,600,500,96851799,25,0,0,0,0,0,0,0,0,0,0,1,0,0,210,283,567,549,559,574,54
+211,Kaminarikozou,"This creature stores
+lightning within its
+body to deliver
+electrifying attacks.",Pluto,Venus,2,Thunder,Wind,700,600,15510988,30,0,0,0,0,0,0,0,0,0,0,0,0,0,211,322,540,509,526,497,52
+212,Meotoko,"A huge monster with
+a single eye that
+fires an intence
+beam.",Moon,Mars,2,Beast,Earth,700,600,53832650,30,0,0,0,0,0,0,0,0,1,0,0,0,0,212,410,541,510,527,228,52
+213,Aqua Madoor,"A wizard of the
+waters that conjures
+a liquid wall to
+crush any enemies
+that oppose him.",Neptune,Mercury,4,Spellcaster,Water,1200,2000,85639257,260,0,1,0,0,0,0,0,0,0,0,0,0,0,213,26,94,281,64,37,23
+214,Kagemusha of the Blue Flame,"Serves as a double
+for the ruler of the
+Blue Flame. A master
+swordsman that
+wields a fine blade.",Mars,Sun,2,Warrior,Earth,800,400,15401633,25,0,0,0,0,0,0,0,0,0,0,1,0,0,214,316,524,481,571,152,50
+215,Flame Ghost,"A fiery spirit
+that burns anything
+in its path.",Mars,Pluto,3,Zombie,Dark,1000,800,58528964,45,0,0,0,0,0,0,0,0,0,0,1,0,0,215,208,436,385,448,100,46
+216,Dryad,"A spirit of the
+forest protected by
+the surrounding
+plant life.",Jupiter,Uranus,4,Spellcaster,Earth,1200,1400,84916669,120,0,0,0,0,0,0,1,0,0,0,0,0,0,216,170,272,288,209,44,38
+217,B. Skull Dragon,"A very rare creature
+created from the
+fusion of an
+uncommon beast and
+a vicious dragon.",Moon,Jupiter,9,Dragon,Dark,3200,2500,11901678,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,217,39,5,5,9,2,4
+218,Two-mouth Darkruler,"A dinosaur with two
+crushing jaws.
+Stores electricity
+in its horn and
+releases high
+voltage bolts
+from the mouth
+on its back.",Moon,Saturn,3,Dinosaur,Earth,900,700,57305373,35,0,0,0,0,0,0,0,0,1,0,0,0,0,218,656,482,425,489,413,48
+219,Solitude,"A beast-warrior that
+swings a massive
+scythe that draws on
+the spirit of its
+enemies to deliver
+devastating blows.",Moon,Uranus,3,Beast-Warrior,Earth,1050,1000,84794011,55,0,0,0,0,0,0,0,0,1,0,0,0,0,219,569,418,360,359,205,45
+220,Masked Sorcerer,"A mysterious wizard
+whose face remains
+forever hidden
+behind a strange
+mask.",Mercury,Neptune,4,Spellcaster,Dark,900,1400,10189126,80,0,0,1,0,0,0,0,0,0,0,0,0,0,220,395,289,404,219,67,38
+221,Kumootoko,"A massive,
+intelligent spider
+that traps its
+enemies with webbing.",Jupiter,Pluto,3,Insect,Earth,700,1400,56283725,60,0,0,0,0,0,0,0,0,0,0,0,0,0,221,339,292,492,221,389,38
+222,Midnight Fiend,"A winged creature
+rumored to appear
+at midnight.",Moon,Neptune,2,Fiend,Dark,800,600,83678433,30,0,0,0,0,0,0,0,0,1,0,0,0,0,222,418,517,476,518,311,50
+223,Roaring Ocean Snake,"A massive
+sea serpent that
+creates tidal waves
+to wipe out
+its enemies.",Neptune,Mars,6,Aqua,Water,2100,1800,19066538,550,0,0,0,0,0,0,0,0,0,0,0,0,0,223,525,68,54,95,544,21
+224,Trap Master,"A warrior that
+excels in laying
+traps such as a
+bottomless pit, for
+eternally ensnaring
+opponents.",Mercury,Moon,3,Warrior,Earth,500,1100,46461247,35,0,0,1,0,0,0,0,0,0,0,0,0,0,224,641,417,559,322,185,44
+225,Fiend Sword,"Few have escaped
+the curse of this
+creature. Those that
+have done so have
+gained untold power.",Moon,Mercury,4,Warrior,Dark,1400,800,22855882,70,0,0,0,0,0,0,0,0,0,0,0,0,0,225,197,291,231,433,137,38
+226,Skull Stalker,"Swift and vicious,
+this monster grabs
+its victim with its
+pincers and attacks
+the captive with its
+poison stinger.",Moon,Mars,3,Warrior,Dark,900,800,54844990,40,0,0,0,0,0,0,0,0,0,0,0,0,0,226,563,472,419,457,175,48
+227,Hitodenchak,"A vicious starfish
+that spits acid
+to melt away
+its enemies.",Neptune,Mars,2,Aqua,Water,600,700,46718686,30,0,1,0,0,0,0,0,0,0,0,0,0,0,227,285,538,539,502,530,52
+228,Wood Remains,"A zombie that rose
+from the remains of
+the woodland ruler.",Jupiter,Neptune,3,Zombie,Dark,1000,900,17733394,50,0,0,0,0,0,0,0,0,0,0,0,0,0,228,704,430,381,405,117,46
+229,Hourglass of Life,"A creature
+that allows power
+to be gained
+at the cost of life.",Sun,Neptune,2,Fairy,Light,700,600,8783685,30,1,0,0,0,0,1,0,0,0,1,0,0,0,229,293,539,508,525,350,52
+230,Rare Fish,"An unusual and
+ferocious fish with
+the head of a beast.",Neptune,Jupiter,4,Fish,Water,1500,1200,80516007,140,0,0,0,0,0,0,0,0,0,0,0,0,0,230,512,238,197,276,439,36
+231,Wood Clown,"An unpleasantly
+smiling creature
+that wields a scythe
+to avoid enemy blows.",Mercury,Mars,3,Warrior,Earth,800,1200,17511156,55,0,0,1,0,0,0,0,0,0,0,0,0,0,231,703,388,452,305,191,42
+232,Madjinn Gunn,"A living weapon that
+fires projectiles
+from its mouth.",Moon,Jupiter,2,Fiend,Dark,600,800,43905751,30,0,0,0,0,0,0,0,0,1,0,0,0,0,232,377,513,536,466,306,50
+233,Dark Titan of Terror,"A spirit said to
+dwell in the world
+of dreams.
+Attacks enemies
+in their sleep.",Mercury,Jupiter,4,Fiend,Dark,1300,1100,89494469,120,0,0,1,0,0,0,0,0,0,0,0,0,0,233,140,313,259,312,287,40
+234,Beautiful Headhuntress,"A lovely swordmaster
+with some very
+agile moves.",Mercury,Saturn,4,Warrior,Earth,1600,800,16899564,120,0,0,1,0,0,0,1,0,0,0,0,0,0,234,57,211,172,428,126,33
+235,Wodan the Resident of the Forest,"A warrior that has
+long resided in the
+forest and enjoys
+the protection
+of Mother Nature.",Jupiter,Sun,3,Warrior,Earth,900,1200,42883273,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,235,701,378,408,301,190,42
+236,Guardian of the Labyrinth,"A warrior that
+guards the entrance
+to the netherworld.",Pluto,Mercury,4,Warrior,Earth,1000,1200,89272878,70,0,0,1,0,0,0,0,0,0,0,0,0,0,236,265,357,369,296,144,42
+237,Haniwa,"An earthen doll
+that protects
+the treasure
+in the tombs
+of ancient kings.",Uranus,Jupiter,2,Rock,Earth,500,500,84285623,20,0,0,0,0,0,0,0,0,0,0,0,0,0,237,271,577,568,562,582,56
+238,Yashinoki,"A palm tree with a
+will of its own that
+attacks enemies by
+flinging coconuts.",Jupiter,Moon,2,Plant,Earth,800,600,41061625,30,0,0,0,0,0,0,0,0,0,0,0,0,0,238,714,521,479,521,621,50
+239,Vishwar Randi,"A woman warrior that
+serves the forces
+of darkness.",Mercury,Uranus,3,Warrior,Dark,900,700,78556320,35,0,0,1,0,0,0,1,0,0,0,0,0,0,239,669,483,426,490,187,48
+240,The Drdek,"An eyeball creature
+with legs for
+jumping high and
+delivering finishing
+blows with its sharp
+claws.",Moon,Saturn,3,Fiend,Dark,700,800,8944575,30,0,0,0,0,0,0,0,0,1,0,0,0,0,240,617,506,503,463,329,50
+241,Dark Assailant,"Armed with Psycho
+Sword, this sinister
+cutthroat rules the
+outer land.",Moon,Uranus,4,Zombie,Dark,1200,1200,41949033,120,0,0,0,0,0,0,0,0,0,0,0,0,0,241,127,345,298,289,94,42
+242,Candle of Fate,"An opponent's fate
+is decided
+when the flames
+of each finger
+are extinguished.",Mars,Moon,2,Fiend,Dark,600,600,47695416,25,0,0,0,0,0,0,0,0,0,0,1,0,0,242,88,560,542,534,277,54
+243,Water Element,"A water spirit
+that envelops
+its opponent
+in a thick fog
+to cover its attack.",Neptune,Saturn,3,Aqua,Water,900,700,3732747,35,0,1,0,0,0,0,1,0,0,0,0,0,0,243,675,484,427,491,558,48
+244,Dissolverock,"A monster borne from
+the lava pits.
+Generates intensive
+heat that can melt
+away its enemies.",Mars,Venus,3,Rock,Earth,900,1000,40826495,50,0,0,0,0,0,0,0,0,0,0,1,0,0,244,153,426,410,366,580,46
+245,Meda Bat,"An eyeball fiend
+created by a servant
+of darkness.
+Uses ""Dark Spheres""
+to blow away
+its enemies.",Moon,Neptune,2,Fiend,Dark,800,400,76211194,25,0,0,0,0,0,0,0,0,1,0,0,0,0,245,404,525,482,572,308,50
+246,One Who Hunts Souls,"A creature
+with a sword
+that gains its power
+from the life forces
+of its victims.",Moon,Mercury,4,Beast-Warrior,Earth,1100,1000,3606209,60,0,0,0,0,0,0,0,0,1,0,0,0,0,246,471,400,345,358,201,44
+247,Root Water,"An amphibian capable
+of calling up a
+massive tidal wave
+from the dark seas
+to wipe out enemy
+monsters.",Neptune,Sun,3,Fish,Water,900,800,39004808,40,0,0,0,0,0,0,0,0,0,0,0,0,0,247,530,471,418,456,440,48
+248,Master & Expert,"A fearsome duo
+consisting of a
+beast master and
+its loyal servant.",Jupiter,Venus,4,Beast,Earth,1200,1000,75499502,70,0,0,0,0,0,0,0,0,0,0,0,0,1,248,396,361,307,351,227,42
+249,Water Omotics,"Transforms the water
+overflowing from a
+jar into attacking
+dragons.",Neptune,Moon,4,Aqua,Water,1400,1200,2483611,120,0,1,0,0,0,0,1,0,0,0,0,0,0,249,678,280,226,284,561,38
+250,Hyo,"An ice warrior whose
+slightest touch
+freezes an opponent.",Neptune,Mercury,3,Warrior,Water,800,1200,38982356,55,0,1,0,0,0,0,0,0,0,0,0,0,0,250,298,382,449,302,149,42
+251,Enchanting Mermaid,"A beautiful mermaid
+that lures voyagers
+to a watery grave.",Neptune,Venus,3,Fish,Water,1200,900,75376965,60,0,0,0,0,0,0,1,0,0,0,0,0,0,251,182,371,314,388,432,42
+252,Nekogal #1,"A cat creature that
+looks cute to the
+eye but delivers
+scratching blows
+with its sharp claws.",Jupiter,Mercury,3,Beast,Earth,1100,900,1761063,999999,0,0,0,0,0,0,1,0,0,0,0,0,0,252,460,404,347,399,234,44
+253,Angelwitch,"A creature
+that chose the
+path of sorcery
+to become a witch.",Mercury,Neptune,3,Spellcaster,Dark,800,1000,37160778,45,1,0,1,0,0,1,1,0,0,0,0,0,0,253,22,433,453,368,36,46
+254,Embryonic Beast,"A repulsive monster
+with a gaping belly
+that swallows almost
+anything.",Moon,Mars,2,Fiend,Dark,500,750,64154377,25,0,0,0,0,0,0,0,0,1,0,0,0,0,254,179,530,562,470,289,51
+255,Prevent Rat,"This monster is
+shielded by 
+a hide covered
+in thick hair.",Jupiter,Uranus,4,Beast,Earth,500,2000,549481,100,0,0,0,0,0,0,0,0,0,0,0,0,1,255,495,100,556,69,237,23
+256,Dimensional Warrior,"A monster
+capable of creating
+dimensional rifts
+to trap its enemies.",Venus,Mars,4,Warrior,Earth,1200,1000,37043180,70,0,0,0,0,0,0,0,0,0,0,0,0,0,256,151,353,300,344,130,42
+257,Stone Armadiller,"With a body armored
+by rock-hard fur,
+this monster
+features excellent
+defense capabilities.",Uranus,Sun,3,Rock,Earth,800,1200,63432835,55,0,0,0,0,0,0,0,0,0,0,0,0,0,257,586,386,451,304,594,42
+258,Beastking of the Swamps,"This creature
+changes the ground
+at its feet into
+quicksand to ensnare
+its enemies.",Uranus,Mercury,4,Aqua,Water,1000,1100,99426834,60,0,1,0,0,0,0,0,0,0,0,0,0,0,258,54,395,372,317,513,44
+259,Ancient Sorcerer,"A master fighter
+that uses various
+staffs to render
+enemies unconscious.",Mercury,Moon,4,Spellcaster,Dark,1000,1300,36821538,80,0,0,1,0,0,0,0,0,0,0,0,0,0,259,19,318,365,248,35,40
+260,Lunar Queen Elzaim,"A lovely
+moon goddess that
+can throw up
+a lunar curtain
+to block
+enemy attacks.",Moon,Venus,3,Fairy,Light,750,1100,62210247,45,1,0,0,0,0,0,1,0,0,1,0,0,0,260,372,411,483,321,352,44
+261,Wicked Mirror,"A malevolent mirror
+that hypnotizes
+a beholder and
+renders the victim
+susceptible
+to attacks.",Venus,Jupiter,2,Fiend,Dark,700,600,15150371,30,0,0,0,0,0,0,0,0,0,0,0,0,0,261,687,546,514,531,335,52
+262,The Little Swordsman of Aile,"An elf warrior
+mounted on a huge
+lizard.",Neptune,Mars,3,Warrior,Water,800,1300,25109950,60,0,1,0,0,0,0,0,0,0,0,0,0,0,262,621,330,448,253,184,40
+263,Rock Ogre Grotto #2,"A stone golem
+that turns opponents
+into rocks and
+crushes them to dust.",Uranus,Sun,3,Rock,Earth,700,1400,62193699,60,0,0,0,0,0,0,0,0,0,0,0,0,0,263,527,293,493,222,592,38
+264,Wing Egg Elf,"Hiding within its
+eggshell, this
+creature blocks
+enemy attacks with
+its massive wings.",Sun,Mars,3,Fairy,Light,500,1300,98582704,45,1,0,0,0,1,1,0,0,0,1,0,0,0,264,691,337,558,258,364,40
+265,The Furious Sea King,"Grand King of the
+Seven Seas.
+Able to summon
+massive tidal waves
+to drown the enemy.",Neptune,Jupiter,3,Aqua,Water,800,700,18710707,30,0,1,0,0,0,0,0,0,0,0,0,0,0,265,618,507,469,494,548,50
+266,Princess of Tsurugi,"A queen of swords
+that is virtually
+unequalled in her
+mastery of every
+blade imaginable
+to man.",Saturn,Venus,3,Warrior,Wind,900,700,51371017,35,0,0,0,0,0,0,1,0,0,0,0,0,0,266,496,479,423,487,170,48
+267,Unknown Warrior of Fiend,"The speed of this
+warrior creates
+an intense vacuum
+that can actually
+slice through
+a monster's hide.",Mercury,Mars,3,Warrior,Dark,1000,500,97360116,30,0,0,1,0,0,0,0,0,0,0,0,0,0,267,661,453,393,544,186,46
+268,Sectarian of Secrets,"A sorcerer that
+worships the dark
+forces and can
+summon a massive
+hand to drag away
+opponents into
+the netherworld.",Mercury,Jupiter,2,Spellcaster,Dark,700,500,15507080,25,0,0,1,0,0,0,0,0,0,0,0,0,0,268,544,555,519,553,79,52
+269,Versago the Destroyer,"A lord of
+destruction
+born from the heart
+of darkness,
+this creature
+can summon storms
+to destroy opponents.",Mercury,Saturn,3,Fiend,Dark,1100,900,50259460,55,0,0,1,0,0,0,0,0,0,0,0,0,0,269,665,406,349,401,333,44
+270,Wetha,"A rain spirit that
+can summon typhoons
+to blow away its
+enemies.",Neptune,Saturn,3,Aqua,Water,1000,900,96643568,50,0,1,0,0,0,0,0,0,0,0,0,0,0,270,682,429,380,404,564,46
+271,Megirus Light,"This creature's
+ominous eyes can
+unleash piercing
+rays against its
+enemies.",Mercury,Uranus,3,Fiend,Dark,900,600,23032273,30,0,0,1,0,0,0,0,0,0,0,0,0,0,271,409,488,428,512,309,48
+272,Mavelus,"Related to the
+phoenix, this
+creature dwells in
+the mountains. Its
+fiery breath is
+extremely scorching.",Mars,Mercury,4,Winged Beast,Wind,1300,900,59036972,70,0,0,0,0,0,1,0,0,0,0,1,0,0,272,397,326,268,382,258,40
+273,Ancient Tree of Enlightenment,"Armed with a wealth
+of knowledge, this
+monster is able to
+block just about
+any attack.",Jupiter,Pluto,3,Plant,Earth,600,1500,86421986,60,0,0,0,0,0,0,0,0,0,0,0,0,0,273,21,253,525,186,601,36
+274,Green Phantom King,"This youthful king
+of the forests lives
+in a green world,
+abundant with trees
+and wildlife.",Jupiter,Neptune,3,Plant,Earth,500,1600,22910685,60,0,0,0,0,0,0,0,0,0,0,0,0,0,274,259,214,557,148,608,33
+275,Ground Attacker Bugroth,"A land-based armored
+robot that is said
+to once have marine
+attack capabilities.",Uranus,Moon,4,Machine,Earth,1500,1000,58314394,100,0,0,0,0,0,0,0,0,0,0,0,0,0,275,263,244,202,328,468,36
+276,Ray & Temperature,"The Sun and the
+North Wind join
+hands to deliver
+a devastating
+combination of heat
+and gale-force winds.",Sun,Saturn,3,Fairy,Light,1000,1000,85309439,55,0,0,0,0,0,0,0,0,0,0,0,0,0,276,513,422,376,362,358,46
+277,Gorgon Egg,"A gorgon's egg with
+eyes said to create
+whatever creature
+crosses its view.",Moon,Jupiter,3,Fiend,Dark,300,1300,11793047,35,0,0,0,0,0,0,0,0,1,0,0,0,0,277,252,338,594,259,293,40
+278,Petit Moth,"Nobody has any idea
+what creature may
+spawn from this
+mysterious larva.",Jupiter,Sun,1,Insect,Earth,300,200,58192742,10,0,0,0,0,0,0,0,0,0,0,0,0,0,278,489,616,607,615,399,60
+279,King Fog,"A spectre that
+dwells in a blinding
+curtain of smoke.",Mercury,Neptune,3,Fiend,Dark,1000,900,84686841,50,0,0,1,0,0,0,0,0,0,0,0,0,0,279,333,428,379,403,299,46
+280,Protector of the Throne,"A creature that
+protects the king's
+throne from usurpers.",Uranus,Venus,4,Warrior,Earth,800,1500,10071456,80,0,0,0,0,0,0,1,0,0,0,0,0,0,280,498,251,446,185,171,36
+281,Mystic Clown,"Nothing can stop the
+mad attack of this
+powerful creature.",Mercury,Moon,4,Fiend,Dark,1500,1000,47060154,100,0,0,1,0,0,0,0,0,0,0,0,0,0,281,447,246,203,329,315,36
+282,Mystical Sheep #2,"A monstrous sheep
+with a long tail for
+hypnotizing enemies
+to render them
+powerless.",Venus,Saturn,3,Beast,Earth,800,1000,83464209,45,0,0,0,0,0,0,0,0,0,0,0,0,1,282,455,441,458,373,233,46
+283,Holograh,"A monster machine
+that generates
+images to confuse
+its enemies,
+making them prone
+to attacks.",Sun,Jupiter,3,Machine,Earth,1100,700,10859908,45,0,0,0,0,0,0,0,0,0,0,0,0,0,283,287,413,355,477,470,44
+284,Tao the Chanter,"A magic-user that
+corrodes the yin
+and yang to create
+a twisted power
+to attack enemies.",Venus,Uranus,3,Spellcaster,Earth,1200,900,46247516,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,284,607,376,318,392,83,42
+285,Serpent Marauder,"A snake with a
+single eye that
+blows an icy breath
+to freeze its
+opponents.",Neptune,Sun,2,Reptile,Earth,700,600,82742611,30,0,1,0,0,0,0,0,0,0,0,0,0,0,285,547,545,513,530,423,52
+286,Gatekeeper,"An indestructible
+machine
+built to protect
+key entrances.",Mercury,Mars,5,Machine,Dark,1500,1800,19737320,290,0,0,1,0,0,0,0,0,0,0,0,0,0,286,233,140,183,104,463,28
+287,Ogre of the Black Shadow,"An ogre possessed
+by the powers
+of the dark.
+Few can withstand
+its rapid charge.",Moon,Saturn,4,Beast-Warrior,Earth,1200,1400,45121025,120,0,0,0,0,0,0,0,0,1,0,0,0,0,287,470,277,292,213,200,38
+288,Dark Artist,"A demented artist
+that creates
+objets d'art
+to crush enemies.",Mercury,Jupiter,3,Fiend,Dark,600,1400,72520073,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,288,126,297,527,224,282,38
+289,Change Slime,"A shape-shifting
+slime that is
+capable of adopting
+the form of other
+creatures.",Neptune,Moon,1,Aqua,Water,400,300,18914778,15,0,1,0,0,0,0,0,0,0,0,0,0,0,289,94,593,587,593,517,58
+290,Moon Envoy,"A servant of the
+moon goddess,
+this warrior
+wields a pike
+with a spectacular
+crescent-shaped
+blade.",Moon,Saturn,4,Warrior,Light,1100,1000,45909477,60,0,0,0,0,0,0,0,0,0,0,0,0,0,290,432,399,344,357,163,44
+291,Fireyarou,"A malevolent
+creature
+wrapped in flames
+that attacks enemies
+with intense fire.",Mars,Saturn,4,Pyro,Fire,1300,1000,71407486,80,0,0,0,0,0,0,0,0,0,0,1,0,0,291,206,321,264,337,571,40
+292,Psychic Kappa,"An amphibian with
+extrasensory powers
+for blocking attacks.",Neptune,Venus,2,Aqua,Water,400,1000,7892180,30,0,1,0,0,0,0,0,0,0,0,0,0,0,292,499,454,580,379,543,46
+293,Masaki the Legendary Swordsman,"Legendary
+swordmaster and a
+veteran of over 100
+battles.",Sun,Uranus,4,Warrior,Earth,1100,1100,44287299,70,0,0,0,0,0,0,0,0,0,0,0,0,0,293,391,394,341,316,158,44
+294,Dragoness the Wicked Knight,"A warrior
+equipped with
+equipment fashioned
+from dragon scales.",Saturn,Mercury,3,Warrior,Wind,1200,900,70681994,60,0,0,0,0,0,0,0,0,0,0,0,0,0,294,166,369,312,386,133,42
+295,Bio Plant,"A monstrous creature
+born from a failed
+lab experiment.",Jupiter,Moon,3,Fiend,Dark,600,1300,7670542,50,0,0,0,0,0,0,0,0,0,0,0,0,0,295,64,336,528,257,276,40
+296,One-eyed Shield Dragon,"This dragon wears a
+shield not only for
+its own protection
+but also for ramming
+its enemies.",Saturn,Pluto,3,Dragon,Wind,700,1300,33064647,55,0,0,0,1,0,0,0,0,0,0,0,0,0,296,472,334,496,255,19,40
+297,Cyber Soldier of Darkworld,"An unstoppable
+mechanical soldier
+powered by dark
+forces.",Moon,Uranus,4,Machine,Dark,1400,1200,75559356,120,0,0,0,0,0,0,0,0,0,0,0,0,0,297,122,271,223,281,458,38
+298,Wicked Dragon with the Ersatz Head,"A two-headed dragon
+with a pair of
+vicious jaws for
+crushing its enemies.",Moon,Neptune,3,Dragon,Wind,900,900,2957055,45,0,0,0,1,0,0,0,0,1,0,0,0,0,298,686,458,412,406,29,48
+299,Sonic Maid,"A maiden
+that uses sound
+to her advantage.
+She wields a scythe
+that's shaped
+like a musical note.",Sun,Pluto,3,Warrior,Earth,1200,900,38942059,999999,0,0,0,0,0,0,1,0,0,0,0,0,0,299,570,374,316,390,176,42
+300,Kurama,"A vicious bird that
+attacks from the
+skies with its
+whip-like tail.",Saturn,Neptune,3,Winged Beast,Wind,800,800,85705804,35,0,0,0,0,0,0,0,0,0,0,0,0,0,300,341,502,467,460,257,50
+301,Legendary Sword,"A sword that brings
+out the best in
+warriors. It cannot
+be used by servants
+of the dark.",,,,Equip,,0,0,61854111,800,0,0,0,0,0,0,0,0,0,0,0,0,0,301,359,676,676,676,707,63
+302,Sword of Dark Destruction,"Dark forces
+increase the power
+of Warriors!",,,,Equip,,0,0,37120512,800,0,0,0,0,0,0,0,0,0,0,0,0,0,302,599,707,707,707,719,63
+303,Dark Energy,"Dark forces increase
+the power of Fiends
+and other monsters
+of the Dark!",,,,Equip,,0,0,4614116,800,0,0,0,0,0,0,0,0,0,0,0,0,0,303,130,641,641,641,695,63
+304,Axe of Despair,"Fiends and
+Beast-Warriors can
+constantly use their
+maximum strength!",,,,Equip,,0,0,40619825,800,0,0,0,0,0,0,0,0,0,0,0,0,0,304,36,623,623,623,689,63
+305,Laser Cannon Armor,"Arms Insects with
+a powerful laser!",,,,Equip,,0,0,77007920,800,0,0,0,0,0,0,0,0,0,0,0,0,0,305,356,675,675,675,706,63
+306,Insect Armor with Laser Cannon,"Allows Insects to
+fire an intense
+blast of fire!",,,,Equip,,0,0,3492538,800,0,0,0,0,0,0,0,0,0,0,0,0,0,306,303,670,670,670,703,63
+307,Elf's Light,"Increases the power
+of elves with
+mystical light!",,,,Equip,,0,0,39897277,800,0,0,0,0,0,0,0,0,0,0,0,0,0,307,178,651,651,651,699,63
+308,Beast Fangs,"Increases the power
+of Beasts and other
+fanged monsters!",,,,Equip,,0,0,46009906,800,0,0,0,0,0,0,0,0,0,0,0,0,0,308,53,626,626,626,690,63
+309,Steel Shell,"Boosts the power of
+shelled monsters!
+Said to have no
+effect on those
+without shells.",,,,Equip,,0,0,2370081,800,0,0,0,0,0,0,0,0,0,0,0,0,0,309,585,705,705,705,718,63
+310,Vile Germs,"Vile microbes boost
+the power of Plants
+in the woods!",,,,Equip,,0,0,39774685,800,0,0,0,0,0,0,0,0,0,0,0,0,0,310,666,713,713,713,720,63
+311,Black Pendant,"This pendant grants
+extra power
+to Dark sorcerers!",,,,Equip,,0,0,65169794,800,0,0,0,0,0,0,0,0,0,0,0,0,0,311,67,629,629,629,691,63
+312,Silver Bow and Arrow,"Silver bow and arrow
+enhances the power
+of Fairies.",,,,Equip,,0,0,1557499,800,0,0,0,0,0,0,0,0,0,0,0,0,0,312,554,699,699,699,717,63
+313,Horn of Light,"Increases the power
+of horned creatures!
+Has no effect
+on Dark monsters.",,,,Equip,,0,0,38552107,800,0,0,0,0,0,0,0,0,0,0,0,0,0,313,289,667,667,667,701,63
+314,Horn of the Unicorn,"Increases the power
+of Dark monsters
+with horns!",,,,Equip,,0,0,64047146,800,0,0,0,0,0,0,0,0,0,0,0,0,0,314,290,668,668,668,702,63
+315,Dragon Treasure,"A legendary treasure
+that increases the
+power of dragons.",,,,Equip,,0,0,1435851,800,0,0,0,0,0,0,0,0,0,0,0,0,0,315,164,647,647,647,696,63
+316,Electro-whip,"A whip for
+paralyzing enemies.
+Increases power when
+equipped with
+female creatures.",,,,Equip,,0,0,37820550,800,0,0,0,0,0,0,0,0,0,0,0,0,0,316,176,649,649,649,697,63
+317,Cyber Shield,"Increases the power
+of female monsters
+by changing their
+attitudes.",,,,Equip,,0,0,63224564,800,0,0,0,0,0,0,0,0,0,0,0,0,0,317,120,640,640,640,694,63
+318,Elegant Egotist,"Creates two
+doppelgangers of
+Harpy Lady for
+three-pronged
+attacks!",,,,Equip,,0,0,90219263,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,318,177,650,650,650,698,63
+319,Mystical Moon,"Moonlight increases
+the power of Beasts!",,,,Equip,,0,0,36607978,800,0,0,0,0,0,0,0,0,0,0,0,0,0,319,452,684,684,684,713,63
+320,Stop Defense,"Forces an opponent's
+monster card
+positioned for
+defense into the
+attack position.",,,,Magic,,0,0,63102017,800,0,0,0,0,0,0,0,0,0,0,0,0,0,320,590,706,706,706,648,64
+321,Malevolent Nuzzler,"Diabolic forces act
+to increase the
+power of female and
+Dark monsters!",,,,Equip,,0,0,99597615,800,0,0,0,0,0,0,0,0,0,0,0,0,0,321,384,679,679,679,710,63
+322,Violet Crystal,"Mystic forces from
+the crystal increase
+the power of Zombies.",,,,Equip,,0,0,15052462,800,0,0,0,0,0,0,0,0,0,0,0,0,0,322,668,714,714,714,721,63
+323,Book of Secret Arts,"A magic book for
+increasing the power
+of magic-users.
+It cannot be used
+by bad-hearted
+sorcerers.",,,,Equip,,0,0,91595718,800,0,0,0,0,0,0,0,0,0,0,0,0,0,323,80,630,630,630,692,63
+324,Invigoration,"Increases the power
+of Thunder, Rock,
+and Pyro monsters.",,,,Equip,,0,0,98374133,800,0,0,0,0,0,0,0,0,0,0,0,0,0,324,307,671,671,671,704,63
+325,Machine Conversion Factory,"A manufacturing
+facility that tunes
+up all Machine
+monsters.",,,,Equip,,0,0,25769732,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,325,375,677,677,677,708,63
+326,Raise Body Heat,"Absorbs the sun's
+energy to increase
+the power of
+Dinosaurs!",,,,Equip,,0,0,51267887,800,0,0,0,0,0,0,0,0,0,0,0,0,0,326,511,690,690,690,715,63
+327,Follow Wind,"The winds provide
+support to increase
+the power of Winged
+Beasts and other
+flying monsters!",,,,Equip,,0,0,98252586,800,0,0,0,0,0,0,0,0,0,0,0,0,0,327,214,657,657,657,700,63
+328,Power of Kaishin,"Poseidon's Strength
+is shared to boost
+the power of
+Aqua, Fish, and
+Sea Serpent
+monsters!",,,,Equip,,0,0,77027445,800,0,0,0,0,0,0,0,0,0,0,0,0,0,328,493,687,687,687,714,63
+329,Dragon Capture Jar,"Destroys
+all opponent
+Dragon monsters
+on the playfield!",,,,Magic,,0,0,50045299,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,329,160,646,646,646,628,64
+330,Forest,"Changes the field
+in favor of
+Beast-Warrior,
+Insect, Plant, and
+Beast monsters!",,,,Magic,,0,0,87430998,55,0,0,0,0,0,0,0,0,0,0,0,0,0,330,215,658,658,658,633,64
+331,Wasteland,"Changes the field
+in favor of Zombie,
+Dinosaur and
+Rock monsters!",,,,Magic,,0,0,23424603,55,0,0,0,0,0,0,0,0,0,0,0,0,0,331,674,717,717,717,653,64
+332,Mountain,"Changes the field
+in favor of Dragon,
+Winged Beast, and
+Thunder monsters!",,,,Magic,,0,0,50913601,55,0,0,0,0,0,0,0,0,0,0,0,0,0,332,436,683,683,683,638,64
+333,Sogen,"Changes the field
+to meadow land
+in favor of Warrior
+and Beast-Warrior
+monsters!",,,,Magic,,0,0,86318356,55,0,0,0,0,0,0,0,0,0,0,0,0,0,333,568,700,700,700,643,64
+334,Umi,"Changes the field
+in favor of Aqua
+and Thunder monsters,
+but unfavorable to
+Machine and Pyro
+monsters!",,,,Magic,,0,0,22702055,55,0,0,0,0,0,0,0,0,0,0,0,0,0,334,660,712,712,712,651,64
+335,Yami,"Changes the field
+in favor of
+Magic-User and
+Fiend monsters,
+but unfavorable
+to Fairy monsters!",,,,Magic,,0,0,59197169,55,0,0,0,0,0,0,0,0,0,0,0,0,0,335,712,721,721,721,654,64
+336,Dark Hole,"Sucks up every card
+in play on the field!",,,,Magic,,0,0,53129443,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,336,132,642,642,642,625,64
+337,Raigeki,"Destroys every
+opposing monster
+with a stroke
+of lightning!",,,,Magic,,0,0,12580477,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,337,508,689,689,689,640,64
+338,Mooyan Curry,"A delicious
+beef curry increases
+Life Points by 200!",,,,Magic,,0,0,58074572,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,338,433,682,682,682,637,64
+339,Red Medicine,"A magic potion
+that increases
+Life Points by 500!",,,,Magic,,0,0,38199696,55,0,0,0,0,0,0,0,0,0,0,0,0,0,339,515,691,691,691,641,64
+340,Goblin's Secret Remedy,"A goblin's herb
+that increases
+Life Points by 1000!",,,,Magic,,0,0,11868825,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,340,247,663,663,663,634,64
+341,Soul of the Pure,"A fairy potion
+that increases
+Life Points by 2000!",,,,Magic,,0,0,47852924,35000,0,0,0,0,0,0,0,0,0,0,0,0,0,341,572,701,701,701,644,64
+342,Dian Keto the Cure Master,"A mystical power
+that increases
+Life Points by 5000!",,,,Magic,,0,0,84257639,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,342,148,645,645,645,627,64
+343,Sparks,"A shower of sparks
+inflicts 50 points
+of damage
+to your opponent's
+Life Points!!",,,,Magic,,0,0,76103675,10,0,0,0,0,0,0,0,0,0,0,0,0,0,343,573,702,702,702,645,64
+344,Hinotama,"A fireball
+inflicts 100 points
+of damage
+to your opponent's
+Life Points!!",,,,Magic,,0,0,46130346,55,0,0,0,0,0,0,0,0,0,0,0,0,0,344,282,666,666,666,636,64
+345,Final Flame,"Flames
+inflict 200 points
+of damage
+to your opponent's
+Life Points!!",,,,Magic,,0,0,73134081,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,345,200,656,656,656,632,64
+346,Ookazi,"Flames
+inflict 500 points
+of damage
+to your opponent's
+Life Points!",,,,Magic,,0,0,19523799,35000,0,0,0,0,0,0,0,0,0,0,0,0,0,346,474,686,686,686,639,64
+347,Tremendous Fire,"An inferno
+inflicts 1000 points
+of damage
+to your opponent's
+Life Points!",,,,Magic,,0,0,46918794,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,347,642,709,709,709,650,64
+348,Swords of Revealing Light,"Enemy monsters
+are revealed and
+your opponent
+cannot attack
+for three turns.",,,,Magic,,0,0,72302403,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,348,600,708,708,708,649,64
+349,Spellbinding Circle,"A curse reduces the
+power of all enemy
+monsters!",,,,Magic,,0,0,18807108,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,349,574,703,703,703,646,64
+350,Dark-piercing Light,"A dazzling light
+reveals all monsters
+on the playing field.",,,,Magic,,0,0,45895206,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,350,143,644,644,644,626,64
+351,Yaranzo,"A monster that
+attacks anybody
+who attempts
+to open its lid.",Moon,Mercury,4,Zombie,Dark,1300,1500,71280811,160,0,0,0,0,0,0,0,0,0,0,0,0,0,351,713,226,248,176,118,36
+352,Kanan the Swordmistress,"A lady swordsman
+that floats like a
+butterfly and stings
+like a bee.",Uranus,Neptune,4,Warrior,Earth,1400,1400,12829151,160,0,0,0,0,0,0,1,0,0,0,0,0,0,352,324,259,218,201,154,38
+353,Takriminos,"A finned creature
+distantly related
+to sea Dragons.",Neptune,Mercury,4,Sea Serpent,Water,1500,1200,44073668,140,0,0,0,1,0,0,0,0,0,0,0,0,0,353,605,239,198,277,448,36
+354,Stuffed Animal,"A deceptively cute
+stuffed animal that
+bites.",Moon,Mars,3,Warrior,Earth,1200,900,71068263,60,0,0,0,0,0,0,0,0,0,0,0,0,0,354,591,375,317,391,177,42
+355,Megasonic Eye,"A cryptic doomsday
+machine that comes
+from the edge of
+the universe.",Moon,Jupiter,5,Machine,Dark,1500,1800,7562372,290,0,0,0,0,0,0,0,0,0,0,0,0,0,355,407,143,184,105,480,28
+356,Super War-lion,"A very vicious lion
+with sharp and
+long claws.",Jupiter,Venus,7,Beast,Earth,2300,2100,,,0,0,0,0,0,0,0,0,0,0,0,0,0,356,595,43,35,43,240,17
+357,Yamadron,"A three-headed,
+fire-breathing
+monster.",Mars,Uranus,5,Dragon,Fire,1600,1800,70345785,320,0,0,0,1,0,0,0,0,0,0,1,0,0,357,709,135,152,102,31,28
+358,Seiyaryu,"A sacred dragon
+that burns away
+wickedness with its
+mystical flames.",Sun,Neptune,7,Dragon,Light,2500,2300,6740720,1700,0,0,0,1,0,0,0,0,0,0,0,0,0,358,545,27,23,27,23,13
+359,Three-legged Zombies,"Bony and Tubby,
+a friendly pair
+of skeletons.",Moon,Pluto,3,Zombie,Dark,1100,800,33734439,50,0,0,0,0,0,0,0,0,0,0,0,0,0,359,630,410,353,445,116,44
+360,Zera The Mant,"A huge, brutal
+monster that attacks
+with razor-sharp
+claws.",Moon,Saturn,8,Fiend,Dark,2800,2300,,,0,0,0,0,0,0,0,0,0,0,0,0,0,360,719,15,12,26,338,8
+361,Flying Penguin,"A rare penguin that
+flies with the wings
+on its head.",Neptune,Jupiter,4,Aqua,Water,1200,1000,5628232,70,0,1,0,0,0,0,0,0,0,0,0,0,0,361,213,354,301,345,523,42
+362,Millennium Shield,"A Millennium Item
+candidate
+that is said
+to block any
+powerful attack.",Uranus,Mars,5,Warrior,Earth,0,3000,32012841,200,0,0,0,0,0,0,0,0,0,0,0,0,0,362,421,11,620,6,160,5
+363,Fairy's Gift,"Flies around
+spreading happiness
+to all.",Jupiter,Mercury,4,Spellcaster,Light,1400,1000,68401546,120,0,0,0,0,0,0,1,0,0,0,0,0,0,363,190,286,229,332,47,38
+364,Black Luster Soldier,"A powerful warrior
+with the same
+capabilities as the
+legendary Blue-eyes
+White Dragon.",Moon,Uranus,8,Warrior,Dark,3000,2500,,,0,0,0,0,0,0,0,0,0,0,0,0,0,364,66,6,6,10,127,5
+365,Fiend's Mirror,"An arcane glass
+that draws
+its enemies into
+the mirror world.",Venus,Pluto,6,Fiend,Dark,2100,1800,,,0,0,0,0,0,0,0,0,0,0,0,0,0,365,199,65,51,92,291,21
+366,Labyrinth Wall,"Walls appear
+on the field to form
+a labyrinth with
+no exit.",Uranus,Jupiter,5,Rock,Earth,0,3000,67284908,200,0,0,0,0,0,0,0,0,0,0,0,0,0,366,347,10,619,5,583,5
+367,Jirai Gumo,"A monster spider
+that dwells
+under the earth.",Jupiter,Uranus,4,Insect,Earth,2200,100,94773007,80,0,0,0,0,0,0,0,0,0,0,0,0,0,367,313,59,48,618,384,19
+368,Shadow Ghoul,"A dangerous zombie
+that crawls
+in the dark.",Moon,Pluto,5,Zombie,Dark,1600,1300,30778711,180,0,0,0,0,0,0,0,0,0,0,0,0,0,368,549,200,162,232,108,33
+369,Wall Shadow,"An unusually fast
+monster that sweeps
+across walls to
+attack its enemies.",Moon,Neptune,7,Warrior,Dark,1600,3000,63162310,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,369,670,9,149,4,188,5
+370,Labyrinth Tank,"A tank that races
+around a labyrinth
+hunting down
+its enemies.",Moon,Mercury,7,Machine,Dark,2400,2400,99551425,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,370,346,34,28,20,472,15
+371,Sanga of the Thunder,"A golem that uses
+lightning attacks
+similar to the
+Labyrinth Brothers.",Pluto,Mars,7,Thunder,Light,2600,2200,25955164,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,371,540,20,17,30,501,11
+372,Kazejin,"A golem that
+controls the winds
+like the Labyrinth
+Brothers.",Saturn,Mars,7,Spellcaster,Wind,2400,2200,62340868,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,372,329,36,29,31,55,15
+373,Suijin,"A golem that uses
+water attacks like
+the Labyrinth
+Brothers.",Neptune,Saturn,7,Aqua,Water,2500,2400,98434877,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,373,593,26,22,19,547,13
+374,Gate Guardian,"Sanga, Kazejin, and
+Suijin join to
+form a single,
+powerful monster.",Moon,Mars,11,Warrior,Dark,3750,3400,,,0,0,0,0,0,0,0,0,0,0,0,0,0,374,231,2,2,2,141,2
+375,Dungeon Worm,"Hidden under
+the floors of
+a labyrinth,
+it swallows any
+who pass above.",Uranus,Moon,5,Insect,Earth,1800,1500,51228280,290,0,0,0,0,0,0,0,0,0,0,0,0,0,375,171,137,106,158,373,28
+376,Monster Tamer,"A master of monsters
+that exercises
+control over several
+creatures.",Jupiter,Pluto,5,Warrior,Earth,1800,1600,97612389,320,0,0,0,0,0,0,0,0,0,0,0,0,0,376,429,132,104,138,162,28
+377,Ryu-kishin Powered,"Ryu-kishin enhanced
+by the powers of
+darkness. Very sharp
+talons make it
+a worthy opponent.",Moon,Jupiter,4,Fiend,Dark,1600,1200,24611934,160,0,0,0,0,0,0,0,0,0,0,0,0,0,377,535,206,168,267,321,33
+378,Swordstalker,"A monster formed by
+the vengeful souls
+of those who passed
+away in battle.",Moon,Saturn,6,Warrior,Dark,2000,1600,50005633,400,0,0,0,0,0,0,0,0,0,0,0,0,0,378,602,88,72,134,182,23
+379,La Jinn the Mystical Genie,"A genie of the lamp
+that's at the beck
+and call of its
+master.",Mercury,Saturn,4,Fiend,Dark,1800,1000,97590747,160,0,0,1,0,0,0,0,0,0,0,0,0,0,379,345,155,118,323,302,28
+380,Blue-eyes Ultimate Dragon,"The ultimate dragon
+formed by the fusion
+of three Blue-eyes
+White Dragons.",Sun,Venus,12,Dragon,Light,4500,3800,,,0,0,0,0,0,0,0,0,0,0,0,0,0,380,73,1,1,1,5,1
+381,Toon Alligator,"An alligator monster
+straight from
+the cartoons.",Neptune,Mars,4,Reptile,Water,800,1600,59383041,120,0,1,0,0,0,0,0,0,0,0,0,0,0,381,638,213,445,147,425,33
+382,Rude Kaiser,"With an axe in each
+hand, this monster
+delivers heavy
+damage.",Uranus,Sun,5,Beast-Warrior,Earth,1800,1600,26378150,320,0,0,0,0,0,0,0,0,0,0,0,0,0,382,533,133,105,139,203,28
+383,Parrot Dragon,"A dragon from the
+cartoons that's more
+dangerous than it
+appears to be.",Saturn,Sun,5,Dragon,Wind,2000,1300,62762898,290,0,0,0,1,0,0,0,0,0,0,0,0,0,383,479,93,75,226,20,23
+384,Dark Rabbit,"A cartoon rabbit
+that quickly leaps
+all over the place,
+making it a
+difficult target.",Moon,Uranus,4,Beast,Dark,1100,1500,99261403,120,0,0,0,0,0,0,0,0,1,0,0,0,0,384,138,241,333,181,212,36
+385,Bickuribox,"A jack-in-the-box
+that excels
+in surprise attacks.",Moon,Neptune,7,Fiend,Dark,2300,2000,25655502,900,0,0,0,0,0,0,0,0,0,0,0,0,0,385,60,44,36,52,274,17
+386,Harpie's Pet Dragon,"A favorite pet for
+harpies, but a very
+dangerous dragon.",Saturn,Moon,7,Dragon,Wind,2000,2500,52040216,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,386,277,31,60,17,12,13
+387,Mystic Lamp,"A lamp
+used by wizards
+to mix potions.",Mercury,Uranus,1,Spellcaster,Dark,400,300,98049915,15,0,0,1,0,0,0,0,0,0,0,0,0,0,387,449,598,590,596,69,58
+388,Pendulum Machine,"A horrible torture
+machine with a large
+pendulum blade.",Mercury,Neptune,6,Machine,Dark,1750,2000,24433920,1000,0,0,1,0,0,0,0,0,0,0,0,0,0,388,482,84,123,61,485,23
+389,Giltia the D. Knight,"Armed with a
+soul-searing spear,
+this creature favors
+magic attacks.",Sun,Mars,5,Warrior,Light,1850,1500,51828629,290,0,0,0,0,0,0,0,0,0,0,0,0,0,389,245,125,94,157,142,27
+390,Launcher Spider,"A spider machine
+that launches
+explosive rockets
+against its enemies.",Mars,Pluto,7,Machine,Fire,2200,2500,87322377,999999,0,0,0,0,0,0,0,0,0,0,1,0,0,390,354,28,41,15,473,13
+391,Zoa,"A monster
+whose full potential
+can be achieved
+when transformed
+into its metal form.",Moon,Mercury,7,Fiend,Dark,2600,1900,24311372,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,391,720,22,19,74,339,11
+392,Metalzoa,"A metallic Zoa
+capable of
+intensive attacks.",Moon,Mars,8,Machine,Dark,3000,2300,50705071,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,392,415,8,8,25,483,5
+393,Zone Eater,"A sea creature that
+swallows enemies and
+slowly digests them.",Neptune,Sun,1,Aqua,Water,250,200,86100785,10,0,1,0,0,0,0,0,0,0,0,0,0,0,393,722,621,613,617,567,61
+394,Steel Scorpion,"An iron-tailed
+monster equipped
+with very sharp
+scissors.",Jupiter,Neptune,1,Machine,Earth,250,300,13599884,10,0,0,0,0,0,0,0,0,0,0,0,0,0,394,584,611,611,601,490,60
+395,Dancing Elf,"An elf that dances
+across the sky with
+wings of razor-sharp
+blades.",Jupiter,Sun,1,Fairy,Wind,300,200,59983499,10,1,0,0,0,1,0,1,0,0,1,0,0,0,395,125,612,605,613,341,60
+396,Ocubeam,"Frightening in
+appearance, this
+creature uses its
+large eyes and ears
+to keep track
+of any movement.",Saturn,Venus,5,Fairy,Light,1550,1650,86088138,260,1,0,0,0,0,0,0,0,0,0,0,0,0,396,469,184,177,132,355,31
+397,Leghul,"Not a very powerful
+monster despite its
+large fangs and
+spikes.",Jupiter,Moon,1,Insect,Earth,300,350,12472242,15,0,0,0,0,0,0,0,0,0,0,0,0,0,397,360,603,600,588,393,59
+398,Ooguchi,"A monstrous bullfrog
+with poison spikes.",Neptune,Moon,1,Aqua,Water,300,250,58861941,10,0,1,0,0,0,0,0,0,0,0,0,0,0,398,473,609,603,607,540,60
+399,Swordsman from a Foreign Land,"An eastern warrior
+armed with a cursed
+sword.",Uranus,Venus,1,Warrior,Earth,250,250,85255550,10,0,0,0,0,0,0,0,0,0,0,0,0,0,399,601,620,612,609,181,61
+400,Emperor of the Land and Sea,"A fire-breathing
+reptilian monster.",Neptune,Venus,5,Reptile,Water,1800,1500,11250655,290,0,1,0,0,0,0,0,0,0,0,0,0,0,400,180,138,107,159,419,28
+401,Ushi Oni,"A bull monster
+resurrected by
+the dark arts
+that appears
+from inside a jar.",Jupiter,Venus,6,Fiend,Dark,2150,1950,48649353,700,0,0,0,0,0,0,0,0,0,0,0,0,0,401,663,60,49,71,332,20
+402,Monster Eye,"A servant that
+maintains a close
+watch on anything
+and everything.
+It throws up
+a smokescreen
+when discovered.",Moon,Jupiter,1,Fiend,Dark,250,350,84133008,15,0,0,0,0,0,0,0,0,1,0,0,0,0,402,428,605,609,589,312,59
+403,Leogun,"Huge monster
+with a lion's mane
+similar to the
+""King of Beasts"".",Uranus,Mercury,5,Beast,Earth,1750,1550,10538007,290,0,0,0,0,0,0,0,0,0,0,0,0,1,403,362,161,126,149,224,29
+404,Tatsunootoshigo,"A fast-moving sea
+monster that has the
+bodies of a horse
+and a fish.",Neptune,Mercury,5,Beast,Earth,1350,1600,47922711,180,0,1,0,0,0,0,0,0,0,0,0,0,0,404,608,197,237,144,242,33
+405,Saber Slasher,"A rampaging machine
+that wields
+a massive sword.",Moon,Saturn,5,Machine,Dark,1450,1500,73911410,180,0,0,0,0,0,0,0,0,0,0,0,0,0,405,536,222,209,174,487,36
+406,Yaiba Robo,"A machine
+with several blades
+hidden within
+its square body.",Moon,Uranus,4,Machine,Dark,1000,1300,10315429,80,0,0,0,0,0,0,0,0,0,0,0,0,0,406,708,325,367,250,491,40
+407,Machine King,"Armored with super
+alloy, this robot
+attacks with blasts
+of fire launched
+from both arms.",Mars,Sun,6,Machine,Earth,2200,2000,46700124,800,0,0,0,0,0,0,0,0,0,0,1,0,0,407,376,51,44,55,475,19
+408,Giant Mech-soldier,"This monster swings
+an earth-shaking axe
+that can eliminate
+enemies with
+a single blow.",Moon,Neptune,6,Machine,Earth,1750,1900,72299832,400,0,0,0,0,0,0,0,0,0,0,0,0,0,408,238,108,124,78,464,26
+409,Metal Dragon,"A golden,
+fire-breathing
+dragon that burns
+any opponent
+in its path.",Mars,Moon,6,Machine,Wind,1850,1700,9293977,350,0,0,0,1,0,0,0,0,0,0,1,0,0,409,411,123,92,121,481,27
+410,Mechanical Spider,"A spider-shaped,
+mechanized monster
+with sickles at
+the end of its legs.",Jupiter,Mercury,2,Machine,Earth,400,500,45688586,20,0,0,0,0,0,0,0,0,0,0,0,0,0,410,402,584,582,566,478,56
+411,Bat,"A mechanized bat
+that attacks
+by dropping
+explosion orbs.",Moon,Mercury,1,Machine,Wind,300,350,72076281,15,0,0,0,0,0,0,0,0,0,0,0,0,0,411,46,601,599,587,450,59
+412,Giga-tech Wolf,"A wolf made entirely
+of iron. Its steel
+jaws can bite
+through anything.",Jupiter,Uranus,4,Machine,Earth,1200,1400,8471389,120,0,0,0,0,0,0,0,0,0,0,0,0,0,412,244,274,290,211,466,38
+413,Cyber Soldier,"Round-shaped
+soldiers that roll
+around and act as
+guardians to the
+Machine King.",Moon,Mars,5,Machine,Dark,1500,1700,44865098,260,0,0,0,0,0,0,0,0,0,0,0,0,0,413,121,167,186,125,457,30
+414,Shovel Crusher,"Armed with
+a pair of shovels,
+this creature is
+a walking engine
+of destruction.",Uranus,Neptune,3,Machine,Earth,900,1200,71950093,60,0,0,0,0,0,0,0,0,0,0,0,0,0,414,553,373,407,300,488,42
+415,Mechanicalchacer,"A hunter that
+relentlessly pursues
+its target by order
+of the Machine King.",Moon,Jupiter,4,Machine,Dark,1850,800,7359741,120,0,0,0,0,0,0,0,0,0,0,0,0,0,415,403,127,96,425,479,27
+416,Blocker,"Each separate part
+of this creature is
+an individual weapon
+capable of
+devastating attacks.",Moon,Saturn,4,Machine,Dark,850,1800,34743446,120,0,0,0,0,0,0,0,0,0,0,0,0,0,416,71,157,436,110,452,28
+417,Blast Juggler,"A walking time
+device that loves
+to blow enemies
+away.",Mars,Venus,3,Machine,Fire,800,900,70138455,40,0,0,0,0,0,0,0,0,0,0,1,0,0,417,70,461,461,409,451,48
+418,Golgoil,"A massive iron golem
+that appears from
+a dimensional rift.",Venus,Neptune,4,Machine,Earth,900,1600,7526150,100,0,0,0,0,0,0,0,0,0,0,0,0,0,418,251,210,403,146,467,33
+419,Giganto,"This creature swings
+around a huge spiked
+ball to destroy its
+enemies.",Moon,Uranus,5,Machine,Dark,1700,1800,33621868,350,0,0,0,0,0,0,0,0,0,0,0,0,0,419,243,129,131,99,465,28
+420,Cyber-Stein,"Created in a
+basement lab, this
+infernal machine
+launches rockets
+from within its
+mouth.",Moon,Neptune,2,Machine,Dark,700,500,69015963,25,0,0,0,0,0,0,0,0,0,0,0,0,0,420,123,550,516,550,459,52
+421,Cyber Commander,"A strike force
+equipped with
+rader detectors
+and sensors.",Moon,Mercury,2,Machine,Dark,750,700,6400512,30,0,0,0,0,0,0,0,0,0,0,0,0,0,421,118,526,485,496,455,51
+422,Jinzo #7,"Created in an
+underground lab,
+this artificial
+being occasionally
+goes berserk.",Moon,Mars,2,Machine,Dark,500,400,32809211,20,0,0,0,0,0,0,0,0,0,0,0,0,0,422,312,581,570,577,471,56
+423,Dice Armadillo,"An armadillo-like
+creature that forms
+a die whenever it
+rolls up its body.",Jupiter,Pluto,5,Machine,Earth,1650,1800,69893315,320,0,0,0,0,0,0,0,0,0,0,0,0,0,423,149,130,142,100,461,28
+424,Sky Dragon,"A bird-like dragon
+with four bladed
+wings.",Saturn,Uranus,6,Dragon,Wind,1900,1800,95288024,1000,0,0,0,1,0,0,0,0,0,0,0,0,0,424,565,107,82,98,25,26
+425,Thunder Dragon,"A dragon that
+summons thunder and
+lightning to attack
+its opponents.",Pluto,Jupiter,5,Thunder,Light,1600,1500,31786629,230,0,0,0,1,0,0,0,0,0,0,0,0,0,425,631,191,156,173,503,33
+426,Stone D.,"With a body
+consisting entirely
+of rocks, 
+this dragon
+flings boulders
+at its enemies.",Uranus,Mars,7,Rock,Earth,2000,2300,68171737,900,0,0,0,1,0,0,0,0,0,0,0,0,0,426,587,46,62,28,595,17
+427,Kaiser Dragon,"A very proud and
+powerful dragon
+emperor.",Sun,Jupiter,7,Dragon,Light,2300,2000,94566432,900,0,0,0,1,0,0,0,0,0,0,0,0,0,427,319,45,37,53,13,17
+428,Magician of Faith,"Despite its weak
+strength, this
+creature is capable
+of casting spells
+to eliminate
+darkness.",Sun,Saturn,1,Spellcaster,Light,300,400,31560081,999999,0,0,0,0,0,0,1,0,0,1,0,0,0,428,381,597,597,585,63,58
+429,Goddess of Whim,"A shy goddess that
+seems to spend the
+majority of her
+time sleeping.",Sun,Uranus,3,Fairy,Light,950,700,67959180,999999,0,0,0,0,0,0,1,0,0,0,0,0,0,429,248,457,400,483,344,47
+430,Water Magician,"This creature
+surrounds opponents
+with water and
+envelops them in a
+sweeping attack.",Neptune,Mercury,4,Aqua,Water,1400,1000,93343894,120,0,1,0,0,0,0,1,0,0,0,0,0,0,430,677,287,230,333,560,38
+431,Ice Water,"A very aggressive
+mermaid with spikes
+for attacking
+enemies.",Neptune,Moon,3,Aqua,Water,1150,900,20848593,55,0,1,0,0,0,0,1,0,0,0,0,0,0,431,300,392,331,396,532,43
+432,Waterdragon Fairy,"A fairy that
+wanders the seas.
+Rumored to have
+the capabilities
+for summoning sea
+dragons.",Neptune,Venus,3,Aqua,Water,1100,700,66836598,45,0,1,0,0,0,0,1,0,0,0,0,0,0,432,679,415,357,479,562,44
+433,Ancient Elf,"This elf is rumored
+to have lived for
+thousands of years.
+He leads an army of
+spirits against his
+enemies.",Sun,Pluto,4,Spellcaster,Light,1450,1200,93221206,120,0,0,0,0,1,0,1,0,0,0,0,0,0,433,15,256,210,279,34,37
+434,Beautiful Beast Trainer,"A rare female
+magic-user armed
+with a vicious whip.",Jupiter,Neptune,5,Warrior,Earth,1750,1500,29616941,260,0,0,0,0,0,0,1,0,0,0,0,0,0,434,56,162,127,167,125,29
+435,Water Girl,"A beautiful creature
+that flings icy
+arrows.",Neptune,Venus,4,Aqua,Water,1250,1000,55014050,70,0,1,0,0,0,0,1,0,0,0,0,0,0,435,676,340,275,342,559,41
+436,White Dolphin,"A white, horned
+dolphin that attacks
+by calling up
+tidal waves.",Neptune,Jupiter,2,Fish,Water,500,400,92409659,20,0,0,0,0,0,0,0,0,0,0,0,0,0,436,684,588,575,582,442,56
+437,Deepsea Shark,"A violent shark that
+attacks anything
+in the sea.",Neptune,Mars,5,Fish,Water,1900,1600,28593363,350,0,0,0,0,0,0,0,0,0,0,0,0,0,437,145,117,87,135,431,26
+438,Metal Fish,"A steel fish
+armed with a sharp
+dorsal fin.",Neptune,Saturn,5,Machine,Water,1600,1900,55998462,350,0,1,0,0,0,0,0,0,0,0,0,0,0,438,412,118,150,83,482,26
+439,Bottom Dweller,"A beautiful swimmer
+with a very nasty
+temperament.",Neptune,Sun,5,Fish,Water,1650,1700,81386177,290,0,1,0,0,0,0,0,0,0,0,0,0,0,439,81,164,143,123,429,30
+440,7 Colored Fish,"A rare rainbow fish
+that is almost
+impossible to catch.",Neptune,Sun,4,Fish,Water,1800,800,23771716,120,0,1,0,0,0,0,0,0,0,0,0,0,0,440,2,158,120,426,427,28
+441,Mech Bass,"This creature
+carries a plasma
+cannon on its back.",Neptune,Venus,5,Machine,Water,1800,1500,50176820,290,0,1,0,0,0,0,0,0,0,0,0,0,0,441,398,142,110,162,476,28
+442,Aqua Dragon,"A dragon that dwells
+in the sea. It is
+capable of spitting
+high-pressure blasts
+of water.",Neptune,Moon,6,Sea Serpent,Water,2250,1900,86164529,700,0,0,0,1,0,0,0,0,0,0,0,0,0,442,25,48,39,75,444,18
+443,Sea King Dragon,"The king of the seas,
+this creature is
+protected by a solid
+shell and spits
+poisonous bubbles at
+its enemies.",Neptune,Mercury,6,Sea Serpent,Water,2000,1700,23659124,1000,0,0,0,1,0,0,0,0,0,0,0,0,0,443,543,87,71,116,446,23
+444,Turu-Purun,"A strange, one-eyed
+monster armed with
+a dangerous spear.",Neptune,Jupiter,2,Aqua,Water,450,500,59053232,20,0,1,0,0,0,0,0,0,0,0,0,0,0,444,651,580,579,565,554,56
+445,Guardian of the Sea,"A merman warrior
+that attacks anyone
+who dares to
+pollute the sea.",Neptune,Mars,4,Aqua,Water,1300,1000,85448931,80,0,1,0,0,0,0,0,0,0,0,0,0,0,445,266,322,265,338,528,40
+446,Aqua Snake,"A creature that
+drowns its opponents
+by mesmerizing them
+with the ball on
+the end of its tail.",Neptune,Saturn,3,Aqua,Water,1050,900,12436646,50,0,1,0,0,0,0,0,0,0,0,0,0,0,446,27,419,361,402,510,45
+447,Giant Red Seasnake,"A sea serpent
+that bites anything
+that passes nearby.",Neptune,Sun,4,Aqua,Water,1800,800,58831685,120,0,1,0,0,0,0,0,0,0,0,0,0,0,447,239,159,121,427,525,28
+448,Spike Seadra,"Using the spikes
+sprouting from its
+body, this creature
+stabs its opponents
+and floods them
+with electricity.",Pluto,Mercury,5,Sea Serpent,Water,1600,1300,85326399,180,0,0,0,1,0,0,0,0,0,0,0,0,0,448,575,201,163,233,447,33
+449,"30,000-Year White Turtle","A massive and
+well-protected
+giant turtle
+that has lived
+over 30000 years.",Neptune,Moon,5,Aqua,Water,1250,2100,11714098,290,0,1,0,0,0,0,0,0,0,0,0,1,0,449,1,73,272,46,506,21
+450,Kappa Avenger,"An amphibian sworn
+to avenge the death
+of its brothers.",Neptune,Venus,3,Aqua,Water,1200,900,48109103,60,0,1,0,0,0,0,0,0,0,0,0,0,0,450,326,372,315,389,535,42
+451,Kanikabuto,"A crab monster with
+two massive scissors
+for cutting up
+enemies.",Neptune,Saturn,3,Aqua,Water,650,900,84103702,30,0,1,0,0,0,0,0,0,0,0,0,0,0,451,325,486,521,419,534,48
+452,Zarigun,"A newly evolved
+crayfish with sharp
+scissors for
+clipping the enemy.",Neptune,Mercury,2,Aqua,Water,600,700,10598400,30,0,1,0,0,0,0,0,0,0,0,0,0,0,452,717,548,541,504,566,52
+453,Millennium Golem,"A golem
+that has protected
+treasure for nearly
+a millennium.",Uranus,Jupiter,6,Rock,Earth,2000,2200,47986555,800,0,0,0,0,0,0,0,0,0,0,0,0,0,453,420,52,63,32,584,19
+454,Destroyer Golem,"A golem with a
+massive right hand
+for crushing its
+victims.",Uranus,Sun,4,Rock,Earth,1500,1000,73481154,100,0,0,0,0,0,0,0,0,0,0,0,0,0,454,146,243,201,327,579,36
+455,Barrel Rock,"A monster that
+charges into enemies
+firing a pair of
+cannons mounted on
+its shoulders.",Uranus,Moon,4,Rock,Earth,1000,1300,10476868,80,0,0,0,0,0,0,0,0,0,0,0,0,0,455,44,319,366,249,578,40
+456,Minomushi Warrior,"A rock warrior
+that wields
+a very heavy sword
+carved from stone.",Uranus,Venus,4,Rock,Earth,1300,1200,46864967,100,0,0,0,0,0,0,0,0,0,0,0,0,0,456,424,306,257,288,585,40
+457,Stone Ghost,"A creature that
+erupts with anger,
+resulting in a
+crushing rain of
+boulders.",Uranus,Mercury,4,Rock,Earth,1200,1000,72269672,70,0,0,0,0,0,0,0,0,0,0,0,0,0,457,588,363,308,352,596,42
+458,Kaminari Attack,"A monster that
+judges wrong-doers
+and punishes them
+appropriately.",Pluto,Venus,5,Thunder,Wind,1900,1400,9653271,290,0,0,0,0,0,0,0,0,0,0,0,0,0,458,321,121,90,189,496,26
+459,Tripwire Beast,"This creature
+attacks enemies
+with electromagnetic
+waves.",Pluto,Saturn,4,Thunder,Earth,1200,1300,45042329,100,0,0,0,0,0,0,0,0,0,0,0,0,0,459,646,310,297,245,504,40
+460,Bolt Escargot,"This creature spits
+a gooey substance
+that robs enemies of
+mobility and then
+stuns them with
+electric shocks.",Pluto,Jupiter,5,Thunder,Water,1400,1500,12146024,180,0,0,0,0,0,0,0,0,0,0,0,0,0,460,76,223,217,175,492,36
+461,Bolt Penguin,"A monster
+with a pair of
+electric whips
+instead of arms.",Pluto,Moon,3,Thunder,Water,1100,800,48531733,50,0,0,0,0,0,0,0,0,0,0,0,0,0,461,77,407,350,442,493,44
+462,The Immortal of Thunder,"A creature that
+attacks enemies
+with thunderbolts.",Pluto,Sun,4,Thunder,Light,1500,1300,84926738,160,0,0,0,0,0,0,0,0,0,0,0,0,0,462,619,225,189,236,502,36
+463,Electric Snake,"A serpent with a
+tail for storing
+electricity.",Pluto,Mars,3,Thunder,Light,800,900,11324436,40,0,0,0,0,0,0,0,0,0,0,0,0,0,463,175,466,464,412,495,48
+464,Wing Eagle,"A hunter of the
+skies that has never
+missed a target.",Saturn,Mercury,5,Winged Beast,Wind,1800,1500,47319141,290,0,0,0,0,0,1,0,0,0,0,0,0,0,464,690,148,114,166,269,28
+465,Punished Eagle,"A judge of the skies
+that delivers
+a sentence with
+its punishing
+silver-white claws.",Saturn,Pluto,6,Winged Beast,Wind,2100,1800,74703140,550,0,0,0,0,0,1,0,0,0,0,0,0,0,465,502,67,53,94,262,21
+466,Skull Red Bird,"This monster
+swoops down
+and attacks with
+a rain of knives
+stored in its wings.",Saturn,Sun,4,Winged Beast,Wind,1550,1200,10202894,140,0,0,0,0,0,1,0,0,0,0,0,0,0,466,561,219,180,269,264,34
+467,Crimson Sunbird,"A monster burning
+with crimson flames
+and capable of
+delivering a rain of
+sparks by flapping
+its wings.",Mars,Mercury,6,Winged Beast,Fire,2300,1800,46696593,700,0,0,0,0,0,0,0,0,0,0,0,0,0,467,110,47,38,87,249,17
+468,Queen Bird,"A creature that
+attacks its enemies
+with its large beak.",Saturn,Moon,5,Winged Beast,Wind,1200,2000,73081602,260,0,0,0,0,0,1,0,0,0,0,0,0,0,468,504,95,282,65,263,23
+469,Armed Ninja,"A blue ninja
+that attacks
+with a large sickle
+and spiked feet.",Neptune,Mars,1,Warrior,Earth,300,300,9076207,15,0,1,0,0,0,0,0,0,0,0,0,0,0,469,31,606,601,599,122,60
+470,Magical Ghost,"This creature casts
+a spell of terror
+and confusion just
+before attacking
+its enemies.",Moon,Pluto,4,Zombie,Dark,1300,1400,46474915,140,0,0,0,0,0,0,0,0,0,0,0,0,0,470,378,267,253,207,104,38
+471,Soul Hunter,"This clown feeds
+the life force of
+its enemies to
+a monstrous lizard.",Moon,Jupiter,6,Fiend,Dark,2200,1800,72869010,800,0,0,0,0,0,0,0,0,0,0,0,0,0,471,571,55,46,90,323,19
+472,Air Eater,"A monster that
+suffocates its
+enemy by feeding
+on the surrounding
+air supply.",Moon,Saturn,6,Fiend,Wind,2100,1600,8353769,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,472,6,71,57,133,271,21
+473,Vermillion Sparrow,"A fiery warrior
+creature that
+unleashes intense
+heat from its body.",Mars,Venus,5,Pyro,Fire,1900,1500,35752363,320,0,0,0,0,0,0,0,0,0,0,1,0,0,473,664,120,89,156,575,26
+474,Sea Kamen,"A cruel monster that
+slices up enemies
+with its sharp claws.",Neptune,Sun,4,Aqua,Water,1100,1300,71746462,120,0,1,0,0,0,0,0,0,0,0,0,0,0,474,542,315,336,247,545,40
+475,Sinister Serpent,"A flying poison
+snake that is
+not very good
+at maneuvering
+on the ground.",Neptune,Jupiter,1,Reptile,Water,300,250,8131171,10,0,1,0,0,0,0,0,0,0,0,0,0,0,475,556,610,604,608,424,60
+476,Ganigumo,"A spider armed with
+scissors to attack
+anything that
+it traps in its web.",Jupiter,Sun,2,Insect,Earth,600,800,34536276,30,0,0,0,0,0,0,0,0,0,0,0,0,0,476,225,510,534,464,375,50
+477,Alinsection,"A stag beetle
+monster with
+saw-toothed horn
+and arms.",Jupiter,Moon,3,Insect,Earth,950,700,70924884,35,0,0,0,0,0,0,0,0,0,0,0,0,0,477,10,456,399,482,367,47
+478,Insect Soldiers of the Sky,"Insect soldiers that
+attack in swarms.",Saturn,Neptune,3,Insect,Wind,1000,800,7019529,45,0,0,0,0,0,0,0,0,0,0,0,0,0,478,304,437,386,449,382,46
+479,Cockroach Knight,"A cockroach warrior
+that hides in small
+spaces and emerges
+to attack enemies.",Jupiter,Venus,3,Insect,Earth,800,900,33413638,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,479,98,462,462,410,371,48
+480,Kuwagata a,"A violent stag
+beetle with a 
+razor-like cutter.",Jupiter,Mercury,4,Insect,Earth,1250,1000,60802233,70,0,0,0,0,0,0,0,0,0,0,0,0,0,480,343,339,274,341,390,41
+481,Burglar,"A clever mouse
+with a sharpened
+left claw.",Jupiter,Uranus,3,Beast,Earth,850,800,6297941,35,0,0,0,0,0,0,0,0,0,0,0,0,1,481,87,498,439,458,210,49
+482,Pragtical,"A very dangerous
+monster with spikes
+on its head and tail.",Uranus,Neptune,5,Dinosaur,Earth,1900,1500,33691040,320,0,0,0,0,0,0,0,0,0,0,0,0,0,482,494,119,88,155,408,26
+483,Garvas,"A malevolent
+creature that
+resembles a
+winged lion.",Jupiter,Pluto,6,Beast,Earth,2000,1700,69780745,1000,0,0,0,0,0,0,0,0,0,0,0,0,1,483,229,85,69,114,218,23
+484,Ameba,"A monster
+that envelops
+an enemy and
+slowly digests it.",Neptune,Moon,1,Aqua,Water,300,350,95174353,15,0,1,0,0,0,0,0,0,0,0,0,0,0,484,12,600,598,586,508,59
+485,Korogashi,"This creature rolls
+massive objects
+to crush its enemies.",Jupiter,Neptune,2,Insect,Earth,550,400,32569498,20,0,0,0,0,0,0,0,0,0,0,0,0,0,485,336,575,554,575,388,55
+486,Boo Koo,"A book wizard
+with page after page
+of potent spells.",Sun,Jupiter,2,Spellcaster,Dark,650,500,68963107,25,0,0,0,0,0,0,0,0,0,1,0,0,0,486,79,558,523,554,38,53
+487,Flower Wolf,"A beast
+covered in flowers
+from head to toe.",Jupiter,Sun,5,Beast,Earth,1800,1400,95952802,260,0,0,0,0,0,0,0,0,0,0,0,0,1,487,212,150,116,191,215,28
+488,Rainbow Flower,"A flower creature
+with rainbow-colored
+blossoms that lure
+an enemy into its
+waiting jaws.",Jupiter,Moon,2,Plant,Earth,400,500,21347810,20,0,0,0,0,0,0,0,0,0,0,0,0,0,488,509,585,583,567,616,56
+489,Barrel Lily,"A dangerous flower
+that fires pollen
+projectiles.",Jupiter,Venus,3,Plant,Earth,1100,600,67841515,40,0,0,0,0,0,0,0,0,0,0,0,0,0,489,43,416,358,510,603,44
+490,Needle Ball,"A ball covered in
+sharp needles.
+Usually rains down
+on enemies in a
+group.",Moon,Uranus,2,Fiend,Dark,750,700,94230224,30,0,0,0,0,0,0,0,0,1,0,0,0,0,490,458,527,486,497,317,51
+491,Peacock,"A beautiful peacock-
+like creature that
+fires its feathers
+at opponents.",Jupiter,Mercury,5,Winged Beast,Wind,1700,1500,20624263,260,0,0,0,0,0,1,0,0,0,0,0,0,0,491,481,168,133,169,261,30
+492,Hoshiningen,"Trailed by a
+beautiful tail, this
+shooting star
+inflicts damage when
+it hits an enemy.",Sun,Neptune,2,Fairy,Light,500,700,67629977,25,0,0,0,0,0,0,0,0,0,1,0,0,0,492,291,553,564,506,348,52
+493,Maha Vailo,"A wizard dressed in
+blue who is usually
+found meditating.",Sun,Venus,5,Spellcaster,Light,1550,1400,93013676,180,0,0,0,0,0,0,0,0,0,0,0,0,0,493,382,216,178,200,64,34
+494,Rainbow Marine Mermaid,"An unusual mermaid
+that appears
+whenever a rainbow
+bridges the sky.",Neptune,Venus,5,Fish,Water,1550,1700,29402771,260,0,0,0,0,0,0,1,0,0,0,0,0,0,494,510,166,176,124,438,30
+495,Musician King,"A fantastic guitar
+player that attacks
+enemies with
+ultrasonic emissions.",Sun,Mars,5,Spellcaster,Light,1750,1500,56907389,260,0,0,0,0,0,0,0,0,0,0,0,0,0,495,442,163,128,168,68,29
+496,Wilmee,"A ferocious rabbit
+with sharp claws.",Jupiter,Uranus,4,Beast,Earth,1000,1200,92391084,70,0,0,0,0,0,0,0,0,0,0,0,0,0,496,689,365,371,298,246,42
+497,Yado Karu,"A hermit crab with
+the head of a dragon.",Neptune,Mercury,4,Aqua,Water,900,1700,29380133,120,0,1,0,0,0,0,0,0,0,0,0,0,0,497,707,180,402,130,565,30
+498,Morinphen,"A strange fiend
+with long arms and
+razor-sharp talons.",Moon,Neptune,5,Fiend,Dark,1550,1300,55784832,160,0,0,0,0,0,0,0,0,0,0,0,0,0,498,434,217,179,234,313,34
+499,Kattapillar,"Attacks by blowing
+webs at its enemies.
+Nobody knows
+what the final form
+of this insect
+might be.",Jupiter,Neptune,1,Insect,Earth,250,300,81179446,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,499,328,607,610,600,386,60
+500,Dragon Seeker,"A fearsome monster
+sent from the
+netherworld
+to destroy dragons.",Moon,Mercury,6,Fiend,Dark,2000,2100,28563545,700,0,0,0,0,0,0,0,0,0,0,0,0,0,500,162,62,64,44,288,21
+501,Man-eater Bug,"A creature that
+slices and dices
+with its scissors
+and feeds off its
+victims.",Jupiter,Pluto,2,Insect,Earth,450,600,54652250,20,0,0,0,0,0,0,0,0,0,0,0,0,0,501,387,569,577,538,394,54
+502,D. Human,"Gifted with the
+power of dragons,
+this warrior wields
+a sword created
+from a dragon's fang.",Uranus,Mars,4,Warrior,Earth,1300,1100,81057959,120,0,0,0,0,0,0,0,0,0,0,0,0,0,502,124,312,258,311,129,40
+503,Turtle Raccoon,"A fox-like creature
+with a protective
+shell.",Jupiter,Sun,3,Aqua,Water,700,900,17441953,35,0,1,0,0,0,0,0,0,0,0,0,1,0,503,649,480,501,417,552,48
+504,Fungi of the Musk,"A monster that leaks
+acid from its pores
+to melt anything
+that touches its
+skin.",Jupiter,Moon,1,Fiend,Dark,400,300,53830602,15,0,0,0,0,0,0,0,0,0,0,0,0,0,504,220,595,588,594,292,58
+505,Prisman,"A clear crystal
+that focuses light
+to create a powerful
+laser beam.",Uranus,Jupiter,3,Rock,Light,800,1000,80234301,45,0,0,0,0,0,0,0,0,0,0,0,0,0,505,497,442,459,374,590,46
+506,Gale Dogra,"A huge moth that
+generates a
+whirlwind containing
+poison dust.",Jupiter,Venus,2,Insect,Earth,650,600,16229315,25,0,0,0,0,0,0,0,0,0,0,0,0,0,506,224,557,522,533,374,53
+507,Crazy Fish,"A flying fish
+with a sharp head
+for piercing targets.",Neptune,Jupiter,4,Fish,Water,1600,1200,53713014,160,0,1,0,0,0,0,0,0,0,0,0,0,0,507,109,204,166,265,430,33
+508,Cyber Saurus,"A mechanical
+dinosaur equipped
+with a beam cannon.",Uranus,Sun,5,Machine,Earth,1800,1400,89112729,260,0,0,0,0,0,0,0,0,0,0,0,0,0,508,119,149,115,190,456,28
+509,Bracchio-raidus,"A colossal dinosaur
+that stomps
+on anything
+that wanders
+into its path.",Uranus,Moon,6,Dinosaur,Water,2200,2000,16507828,800,0,0,0,0,0,0,0,0,0,0,0,0,0,509,83,50,43,54,403,19
+510,Laughing Flower,"A laughing flower
+whose chuckles can
+drive an enemy mad.",Jupiter,Mercury,2,Plant,Earth,900,500,42591472,30,0,0,0,0,0,0,0,0,0,0,0,0,0,510,353,493,431,547,610,48
+511,Bean Soldier,"A plant warrior
+that attacks
+with a combination
+of sword-swings and
+pea projectiles.",Jupiter,Uranus,4,Plant,Earth,1400,1300,84990171,140,0,0,0,0,0,0,0,0,0,0,0,0,0,511,51,262,219,237,604,38
+512,Cannon Soldier,"A highly destructive
+machine armed with a
+powerful cannon.",Moon,Mars,4,Machine,Dark,1400,1300,11384280,140,0,0,0,0,0,0,0,0,0,0,0,0,0,512,89,263,220,238,454,38
+513,Guardian of the Throne Room,"A sentry robot armed
+with homing rockets
+for guarding throne
+rooms from intruders.",Sun,Saturn,5,Machine,Light,1650,1600,47879985,260,0,0,0,0,0,0,0,0,0,0,0,0,0,513,267,182,144,141,469,31
+514,Brave Scizzar,"A creature capable
+of manipulating
+several scissors
+with definite
+results.",Moon,Jupiter,4,Machine,Dark,1300,1000,74277583,80,0,0,0,0,0,0,0,0,0,0,0,0,0,514,84,320,263,336,453,40
+515,The Statue of Easter Island,"A massive stone idol
+from Easter Island
+that fires laser
+rings from its mouth.",Uranus,Venus,4,Rock,Earth,1100,1400,10262698,100,0,0,0,0,0,0,0,0,0,0,0,0,0,515,625,285,335,217,598,38
+516,Muka Muka,"A monster that
+angers an opponent
+to the point that
+the enemy goes
+berserk.",Uranus,Mercury,2,Rock,Earth,600,300,46657337,20,0,0,0,0,0,0,0,0,0,0,0,0,0,516,438,572,551,591,587,54
+517,Sand Stone,"Appears from
+underground and
+attacks with long,
+snake-like tentacles.",Uranus,Mars,5,Rock,Earth,1300,1600,73051941,180,0,0,0,0,0,0,0,0,0,0,0,0,0,517,539,199,246,145,593,33
+518,Boulder Tortoise,"A stone turtle with
+a very high defense
+factor.",Uranus,Neptune,6,Aqua,Earth,1450,2200,9540040,400,0,1,0,0,0,0,0,0,0,0,0,1,0,518,82,57,208,34,515,19
+519,Fire Kraken,"A fiery squid that
+can maintain its
+flames underwater.",Mars,Saturn,5,Aqua,Fire,1600,1500,46534755,230,0,1,0,0,0,0,0,0,0,0,1,0,0,519,202,188,153,170,522,33
+520,Turtle Bird,"A rare flying turtle
+that inhabits
+the sea.",Saturn,Mars,6,Aqua,Water,1900,1700,72929454,400,0,0,0,0,0,0,0,0,0,0,0,1,0,520,647,113,85,119,551,26
+521,Skullbird,"The breath from this
+bird robs creatures
+of their life force.",Saturn,Venus,6,Winged Beast,Wind,1900,1700,8327462,400,0,0,0,0,0,0,0,0,0,0,0,0,0,521,564,112,84,118,265,26
+522,Monstrous Bird,"A huge bird
+known for its sharp
+dive attacks.",Saturn,Mercury,6,Winged Beast,Wind,2000,1900,35712107,550,0,0,0,0,0,1,0,0,0,0,0,0,0,522,430,75,65,76,259,23
+523,The Bistro Butcher,"Defeated enemies
+serve as ingredients
+for this gourmet
+monster.",Moon,Saturn,4,Fiend,Dark,1800,1000,71107816,160,0,0,0,0,0,0,0,0,0,0,0,0,0,523,616,156,119,324,328,28
+524,Star Boy,"An extraterrestrial
+life form that loves
+living in water.",Neptune,Mars,2,Aqua,Water,550,500,8201910,20,0,1,0,0,0,0,0,0,0,0,0,0,0,524,582,573,552,560,546,55
+525,Spirit of the Mountain,"Music from this
+creature's flute
+can drain 
+an enemy's willpower.",Uranus,Jupiter,5,Spellcaster,Earth,1300,1800,34690519,230,0,0,0,0,0,0,0,0,0,0,0,0,0,525,579,154,245,109,81,28
+526,Neck Hunter,"Armed with a huge
+sickle, this monster
+can fire beams
+from its large eyes.",Moon,Uranus,6,Fiend,Dark,1750,1900,70084224,400,0,0,0,0,0,0,0,0,0,0,0,0,0,526,456,109,125,79,316,26
+527,Milus Radiant,"Often mistaken
+as a cute pet,
+this creature is a
+very dangerous beast.",Jupiter,Neptune,1,Beast,Earth,300,250,7489323,10,0,0,0,0,0,0,0,0,0,0,0,0,1,527,422,608,602,606,229,60
+528,Togex,"A very fast monster
+that rolls up and
+rams its enemies.",Uranus,Sun,5,Beast,Earth,1600,1800,33878931,320,0,0,0,0,0,0,0,0,0,0,0,0,1,528,635,134,151,101,244,28
+529,Flame Cerebrus,"A flaming beast
+that is lethal
+to the touch.",Mars,Pluto,6,Pyro,Fire,2100,1800,60862676,550,0,0,0,0,0,0,0,0,0,0,0,0,0,529,207,66,52,93,572,21
+530,Eldeen,"Uses a wand to cast
+various spells
+against an enemy.",Mercury,Moon,3,Spellcaster,Light,950,1000,6367785,50,0,0,1,0,0,0,1,0,0,0,0,0,0,530,173,425,397,365,45,46
+531,Mystical Sand,"Turns enemies to
+stone and crushes
+them to dust.",Mercury,Saturn,6,Rock,Earth,2100,1700,32751480,500,0,0,0,0,0,0,0,0,0,0,0,0,0,531,453,70,56,113,588,21
+532,Gemini Elf,"Elf twins
+that attack an enemy
+from opposite sides.",Sun,Uranus,4,Spellcaster,Earth,1900,900,69140098,160,0,0,0,0,1,0,1,0,0,0,0,0,0,532,234,122,91,380,49,26
+533,Kwagar Hercules,"An insect monster
+with the jaws of
+a stag beetle and
+the horn of a beetle.",Jupiter,Sun,6,Insect,Earth,1900,1700,95144193,400,0,0,0,0,0,0,0,0,0,0,0,0,0,533,344,110,83,117,391,26
+534,Minar,"A monster with four
+highly dexterous
+arms for executing
+separate attacks.",Moon,Neptune,3,Insect,Earth,850,750,32539892,35,0,0,0,0,0,0,0,0,1,0,0,0,0,534,423,500,441,469,395,49
+535,Kamakiriman,"A man-shaped mantis
+with two razor-sharp
+scythes.",Jupiter,Moon,4,Insect,Earth,1150,1400,68928540,100,0,0,0,0,0,0,0,0,0,0,0,0,0,535,320,282,329,215,385,38
+536,Mechaleon,"A chameleon-like
+monster that can
+hide anywhere
+by changing colors.",Neptune,Saturn,2,Reptile,Water,800,600,94412545,30,0,1,0,0,0,0,0,0,0,0,0,0,0,536,400,516,475,517,422,50
+537,Mega Thunderball,"Rolls along the
+ground releasing
+bolts of electricity
+to attack its
+enemies.",Pluto,Mercury,2,Thunder,Wind,750,600,21817254,30,0,0,0,0,0,0,0,0,0,0,0,0,0,537,405,528,487,522,499,51
+538,Niwatori,"Swallows enemies
+whole and uses
+their essence
+as energy.",Jupiter,Venus,3,Winged Beast,Earth,900,800,7805359,40,0,0,0,0,0,0,0,0,0,0,0,0,0,538,465,469,416,454,260,48
+539,Corroding Shark,"A zombie shark that
+wanders the ocean
+depths, cursing any
+that dare cross its
+path.",Moon,Pluto,3,Zombie,Dark,1100,700,34290067,45,0,0,0,0,0,0,0,0,0,0,0,0,0,539,102,412,354,476,93,44
+540,Skelengel,"A phantom fairy that
+fires countless
+arrows at anything
+that harbors an urge
+to attack.",Sun,Pluto,2,Fairy,Light,900,400,60694662,30,1,0,0,0,0,0,0,0,0,0,0,0,0,540,557,495,433,570,360,48
+541,Hane-Hane,"This creature blocks
+enemy movement with
+gale-force winds
+and attacks with
+a massive battle axe.",Saturn,Pluto,2,Beast,Earth,450,500,7089711,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,541,270,579,578,564,222,56
+542,Misairuzame,"A rocket-launching
+fish protected
+by thorny spikes.",Neptune,Sun,5,Fish,Water,1400,1600,33178416,200,0,0,0,0,0,0,0,0,0,0,0,0,0,542,425,195,216,143,437,33
+543,Tongyo,"This creature is
+powered by the life
+force of the fishes
+it captures with
+its long tongue.",Neptune,Moon,4,Fish,Water,1350,800,69572024,60,0,0,0,0,0,0,0,0,0,0,0,0,0,543,637,301,242,434,441,39
+544,Dharma Cannon,"A highly accurate
+mechanical monster
+covered with large-
+caliber cannons.",Moon,Mercury,2,Machine,Dark,900,500,96967123,30,0,0,0,0,0,0,0,0,0,0,0,0,0,544,147,491,429,545,460,48
+545,Skelgon,"A skeletal zombie
+dragon that is
+capable of flying
+across the skies.",Moon,Pluto,6,Zombie,Dark,1700,1900,32355828,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,545,558,111,129,80,110,26
+546,Wow Warrior,"A massive beast
+of a fish with
+arms, legs, and 
+razor-sharp teeth.",Neptune,Mars,4,Fish,Water,1250,900,69750536,60,0,0,0,0,0,0,0,0,0,0,0,0,0,546,705,341,276,384,443,41
+547,Griggle,"This monster spins
+about its enemy
+launching blinding
+leaves and painful
+seeds.",Jupiter,Mercury,1,Plant,Earth,350,300,95744531,15,0,0,0,0,0,0,0,0,0,0,0,0,0,547,262,602,592,597,609,59
+548,Bone Mouse,"A zombie rat
+that hunts felines.",Moon,Pluto,1,Zombie,Dark,400,300,21239280,15,0,0,0,0,0,0,0,0,0,0,0,0,0,548,78,592,586,592,91,58
+549,Frog The Jam,"A slime creature
+with a frog's head
+that croaks as it
+attacks.",Neptune,Jupiter,2,Aqua,Water,700,500,68638985,25,0,1,0,0,0,0,0,0,0,0,0,0,0,549,219,552,518,552,524,52
+550,Behegon,"A strange sea
+serpent with a
+massive mouth lined
+with huge fangs.",Neptune,Saturn,4,Aqua,Water,1350,1000,94022093,80,0,1,0,0,0,0,0,0,0,0,0,0,0,550,59,299,240,334,514,39
+551,Dark Elf,"A wicked elf
+that just loves
+to engage in battle.",Mercury,Jupiter,4,Spellcaster,Dark,2000,800,21417692,160,0,0,0,0,0,0,1,0,0,0,0,0,0,551,129,97,76,424,41,23
+552,Winged Dragon #2,"Creates powerful
+tornadoes with
+its huge wings.",Saturn,Neptune,4,Winged Beast,Wind,1200,1000,57405307,70,0,0,0,0,0,0,0,0,0,0,0,0,0,552,694,366,310,354,270,42
+553,Mushroom Man #2,"A fully grown
+Mushroom Man with
+an increased
+attack factor.",Jupiter,Uranus,3,Warrior,Earth,1250,800,93900406,55,0,0,0,0,0,0,0,0,0,0,0,0,0,553,441,342,277,436,164,41
+554,Lava Battleguard,"This brother of
+Swamp Battleguard
+may not be powerful,
+but is pretty good
+on defense.",Mercury,Mars,5,Warrior,Earth,1550,1800,20394040,999999,0,0,1,0,0,0,0,0,0,0,0,0,0,554,355,136,175,103,157,28
+555,Tyhone #2,"A crimson dragon
+that spits fireballs
+at its enemies.",Mars,Uranus,6,Dragon,Fire,1700,1900,56789759,999999,0,0,0,1,0,0,0,0,0,0,1,0,0,555,658,114,130,81,28,26
+556,The Wandering Doomed,"A monster that
+aimlessly wanders
+in search of enemies.",Moon,Pluto,2,Zombie,Dark,800,600,93788854,30,0,0,0,0,0,0,0,0,0,0,0,0,0,556,627,520,478,520,115,50
+557,Steel Ogre Grotto #1,"A steel idol
+worshipped in the
+Land of Machines.",Moon,Mars,5,Machine,Earth,1400,1800,29172562,260,0,0,0,0,0,0,0,0,0,0,0,0,0,557,583,152,214,108,489,28
+558,Pot the Trick,"A not very reliable
+sorcerer's servant.",Moon,Jupiter,2,Rock,Earth,400,400,55567161,20,0,0,0,0,0,0,0,1,0,0,0,0,0,558,492,591,585,583,589,58
+559,Oscillo Hero,"A strange warrior
+from another
+dimension.",Venus,Sun,3,Warrior,Earth,1250,700,82065276,50,0,0,0,0,0,0,0,0,0,0,0,0,0,559,476,344,279,474,168,41
+560,Invader from Another Dimension,"A creature that came
+from another galaxy.",Venus,Mars,4,Fiend,Dark,950,1400,28450915,80,0,0,0,0,0,0,0,0,0,0,0,0,0,560,305,288,395,218,296,38
+561,Lesser Dragon,"A low-class, minor
+dragon incapable
+of breathing fire.",Moon,Saturn,4,Dragon,Wind,1200,1000,55444629,70,0,0,0,1,0,0,0,0,1,0,0,0,0,561,363,360,306,350,15,42
+562,Needle Worm,"A larva
+with steel spikes
+to attack the unwary.",Jupiter,Pluto,2,Insect,Earth,750,600,81843628,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,562,459,529,488,523,396,51
+563,Wretched Ghost of the Attic,"A harmless creature
+usually found
+in the attic
+of any home.",Mercury,Uranus,2,Fiend,Dark,550,400,17238333,20,0,0,1,0,0,0,0,0,0,0,0,0,0,563,706,576,555,576,337,55
+564,Great Mammoth of Goldfine,"A very unusual
+skeletal zombie
+elephant with
+glowing gold bones.",Moon,Pluto,6,Zombie,Dark,2200,1800,54622031,800,0,0,0,0,0,0,0,0,0,0,0,0,0,564,256,54,45,89,103,19
+565,Man-eating Black Shark,"A black shark
+that can detect
+almost any scent
+in the water.",Neptune,Sun,5,Fish,Water,2100,1300,80727036,320,0,0,0,0,0,0,0,0,0,0,0,0,0,565,388,72,58,225,435,21
+566,Yormungarde,"A very long snake
+that often appears
+in legends and myths.",Neptune,Moon,3,Reptile,Earth,1200,900,17115745,60,0,1,0,0,0,0,0,0,0,0,0,0,0,566,715,379,320,394,426,42
+567,Darkworld Thorns,"A thorny plant found
+in the darklands
+that wraps itself
+around any unwary
+traveler.",Moon,Jupiter,3,Plant,Earth,1200,900,43500484,60,0,0,0,0,0,0,0,0,0,0,0,0,0,567,144,367,311,385,606,42
+568,Anthrosaurus,"Man-like dinosaur
+lacking in strength,
+but with a high I.Q.",Uranus,Moon,3,Dinosaur,Earth,1000,850,89904598,45,0,0,0,0,0,0,0,0,0,0,0,0,0,568,24,431,382,423,402,46
+569,Drooling Lizard,"A blood-sucking
+snake in human form
+that attacks any
+living being that
+passes nearby.",Neptune,Venus,3,Reptile,Earth,900,800,16353197,40,0,1,0,0,0,0,0,0,0,0,0,0,0,569,169,465,414,452,418,48
+570,Trakadon,"A tiger-striped
+dragon that is often
+seen racing across
+the wasteland with
+tremendous speed.",Uranus,Venus,3,Dinosaur,Earth,1300,800,42348802,60,0,0,0,0,0,0,0,0,0,0,0,0,0,570,640,331,270,435,411,40
+571,B. Dragon Jungle King,"A jet-black dragon
+that inhabits the
+jungles and feeds
+on trees.",Jupiter,Neptune,6,Dragon,Earth,2100,1800,89832901,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,571,38,64,50,91,1,21
+572,Empress Judge,"Empress of the
+Golden Kingdom. None
+may refuse her will.",Uranus,Venus,6,Warrior,Earth,2100,1700,15237615,500,0,0,0,0,0,0,0,0,0,0,0,0,0,572,181,69,55,112,135,21
+573,Little D,"A very ferocious
+monster spawned
+from a T-Rex.",Uranus,Mercury,3,Dinosaur,Earth,1100,700,42625254,45,0,0,0,0,0,0,0,0,0,0,0,0,0,573,367,414,356,478,405,44
+574,Witch of the Black Forest,"This forest-dwelling
+witch can see all
+with the eye
+on her forehead.",Mercury,Pluto,4,Spellcaster,Dark,1100,1200,78010363,80,0,0,1,0,0,0,1,0,0,0,0,0,0,574,698,349,340,293,87,42
+575,Ancient One of the Deep Forest,"A white goat that
+has inhabited the
+forest for ages.
+The creature is
+actually an elder
+of the woods.",Jupiter,Sun,6,Beast,Earth,1800,1900,14015067,1000,0,0,0,0,0,0,0,0,0,0,0,0,1,575,18,106,101,77,208,26
+576,Giant Scorpion of the Tundra,"A rare scarlet
+scorpion that can be
+found in the tundra
+-- not in the desert.",Jupiter,Moon,3,Insect,Earth,1100,1000,41403766,60,0,0,0,0,0,0,0,0,0,0,0,0,0,576,240,397,342,355,377,44
+577,Crow Goblin,"A very wise,
+long-nosed goblin
+with supernatural
+powers.",Saturn,Mars,5,Winged Beast,Wind,1850,1600,77998771,320,0,0,0,0,0,0,0,0,0,0,0,0,0,577,111,124,93,136,250,27
+578,Leo Wizard,"A wizard with a
+black cape that is
+actually a talking
+lion disguised
+as a man.",Mercury,Neptune,5,Spellcaster,Earth,1350,1200,4392470,100,0,0,1,0,0,0,0,0,0,0,0,0,0,578,361,298,239,286,60,39
+579,Abyss Flower,"A rare flower
+that blooms in a
+pitch-dark abyss.",Jupiter,Venus,2,Plant,Earth,750,400,40387124,25,0,0,0,0,0,0,0,0,0,0,0,0,0,579,3,532,490,573,600,51
+580,Patrol Robo,"A cutting-edge robot
+that eliminates
+intruders upon
+detection.",Moon,Uranus,3,Machine,Earth,1100,900,76775123,55,0,0,0,0,0,0,0,0,0,0,0,0,0,580,480,405,348,400,484,44
+581,Takuhee,"This bird is
+a precursor
+to disaster!!",Saturn,Sun,4,Winged Beast,Wind,1450,1000,3170832,120,0,0,0,0,0,1,0,0,0,0,0,0,0,581,606,258,212,331,267,37
+582,Dark Witch,"A popular creature
+in mythology that
+delivers judgement
+with a sharp spear.",Sun,Neptune,5,Fairy,Light,1800,1700,35565537,350,1,0,0,0,0,0,1,0,0,0,0,0,0,582,141,128,102,122,342,28
+583,Weather Report,"This creature is
+known to predict the
+weather with very
+little accuracy.",Neptune,Mercury,4,Aqua,Water,950,1500,72053645,120,0,1,0,0,0,0,0,0,0,0,0,0,0,583,681,248,394,184,563,36
+584,Binding Chain,"This creature
+corners its enemies
+and seals away
+their power.",Sun,Venus,3,Fairy,Light,1000,1100,8058240,60,0,0,0,0,0,0,0,0,0,0,0,0,0,584,63,396,373,318,340,44
+585,Mechanical Snail,"A mechanically
+enhanced snail that
+is no faster than
+it used to be.",Moon,Neptune,3,Machine,Dark,800,1000,34442949,45,0,0,0,0,0,0,0,0,0,0,0,0,0,585,401,439,456,371,477,46
+586,Greenkappa,"A creature that
+transforms into the
+image of its enemy
+and copies every
+offensive move.",Moon,Mercury,3,Warrior,Dark,650,900,61831093,30,0,0,0,0,0,0,0,0,0,0,0,0,0,586,260,485,520,418,143,48
+587,Mon Larvas,"A highly evolved
+Larvas that is even
+more powerful than
+before.",Jupiter,Mercury,4,Beast,Earth,1300,1400,7225792,140,0,0,0,0,0,0,0,0,0,0,0,0,0,587,426,268,254,208,230,38
+588,Living Vase,"A living vase that
+blinds enemies with
+pollen and attacks
+with its sharp teeth.",Jupiter,Uranus,3,Plant,Earth,900,1100,34320307,55,0,0,0,0,0,0,0,0,0,0,0,0,0,588,368,403,409,320,611,44
+589,Tentacle Plant,"Attacks a nearby
+opponent by reaching
+out with its blue
+vines.",Jupiter,Pluto,2,Plant,Water,500,600,60715406,25,0,0,0,0,0,0,0,0,0,0,0,0,0,589,611,568,567,537,619,54
+590,Beaked Snake,"Wraps its coils
+around opponents and
+pecks them with its
+huge beak.",Neptune,Jupiter,3,Reptile,Earth,800,900,6103114,40,0,1,0,0,0,0,0,0,0,0,0,0,0,590,50,460,460,408,417,48
+591,Morphing Jar,"A large jar
+that attacks
+nearby enemies
+by unleashing
+the monster
+it contains inside.",Uranus,Neptune,2,Rock,Earth,700,600,33508719,30,0,0,0,0,0,0,0,1,0,0,0,0,0,591,435,542,511,528,586,52
+592,Muse-A,"A fairy of the arts
+and an excellent
+harp player.",Sun,Mars,3,Fairy,Light,850,900,69992868,40,0,0,0,0,0,0,1,0,0,0,0,0,0,592,439,459,438,407,353,48
+593,Giant Turtle Who Feeds on Flames,"A monster turtle
+with a crimson shell.
+It feeds on fire.",Neptune,Mars,5,Aqua,Water,1400,1800,96981563,260,0,1,0,0,0,0,0,0,0,0,0,1,0,593,242,151,213,107,526,28
+594,Rose Spectre of Dunn,"A red rose possessed
+by a vile spirit
+that feeds on
+the life force
+of others to
+provide the flower
+with nourishment.",Moon,Jupiter,6,Plant,Dark,2000,1800,32485271,500,0,0,0,0,0,0,1,0,0,0,0,0,0,594,531,83,68,97,617,23
+595,Fiend Refrection #1,"Drags enemies into
+a mirror world.",Venus,Jupiter,4,Winged Beast,Wind,1300,1400,68870276,140,0,0,0,0,0,0,0,0,0,0,0,0,0,595,195,265,251,205,253,38
+596,Ghoul with an Appetite,"A monster that can
+eat all it wants but
+is never fulfilled.",Moon,Pluto,4,Zombie,Dark,1600,1200,95265975,160,0,0,0,0,0,0,0,0,0,0,0,0,0,596,236,205,167,266,101,33
+597,Pale Beast,"With skin tinged
+a bluish white, this
+strange creature is
+a fearsome sight
+to behold.",Jupiter,Neptune,4,Beast,Earth,1500,1200,21263083,140,0,0,0,0,0,0,0,0,0,0,0,0,1,597,478,237,196,275,236,36
+598,Little Chimera,"A monster created
+from an experimental
+attempt to graft
+wings on beasts.",Saturn,Moon,2,Beast,Fire,600,550,68658728,25,0,0,0,0,0,0,0,0,0,0,0,0,1,598,366,563,545,540,226,54
+599,Violent Rain,"A monster capable of
+bringing on sudden
+rain showers.",Neptune,Mercury,4,Aqua,Water,1550,800,94042337,80,0,1,0,0,0,0,0,0,0,0,0,0,0,599,667,220,181,430,557,34
+600,Key Mace #2,"Seals away the good
+in a soul to create
+a wicked being.",Mercury,Moon,4,Fiend,Dark,1050,1200,20541432,70,0,0,1,0,0,0,1,0,0,0,0,0,0,600,331,350,359,294,298,42
+601,Tenderness,"A cute fairy
+dedicated
+to bringing
+about eternal love.",Sun,Jupiter,3,Fairy,Light,700,1400,57935140,60,1,0,0,0,0,0,0,0,0,1,0,0,0,601,610,294,494,223,362,38
+602,Penguin Soldier,"A low-class penguin
+soldier that attacks
+in a group.",Neptune,Mars,2,Aqua,Water,750,500,93920745,25,0,1,0,0,0,0,0,0,0,0,0,0,0,602,484,531,489,549,542,51
+603,Fairy Dragon,"A beautiful
+and powerful
+dragon fairy.",Sun,Saturn,4,Dragon,Wind,1100,1200,20315854,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,603,188,346,337,290,10,42
+604,Obese Marmot of Nefariousness,"An ill-mannered
+field mouse that
+chews on anything.",Moon,Mars,3,Beast,Earth,750,800,56713552,30,0,0,0,0,0,0,0,0,1,0,0,0,1,604,467,503,484,461,235,50
+605,Liquid Beast,"A liquid life form
+that moves freely
+in water.",Neptune,Saturn,3,Aqua,Water,950,800,93108297,40,0,1,0,0,0,0,0,0,0,0,0,0,0,605,364,455,398,450,536,47
+606,Twin Long Rods #2,"An undersea creature
+that attacks with
+two whip-like tails.",Neptune,Sun,3,Aqua,Water,850,700,29692206,30,0,1,0,0,0,0,0,0,0,0,0,0,0,606,653,501,442,492,556,49
+607,Great Bill,"A monster with a
+massive maw that
+allows it to swallow
+an enemy whole.",Jupiter,Sun,4,Beast,Earth,1250,1300,55691901,100,0,0,0,0,0,0,0,0,0,0,0,0,0,607,255,304,273,241,220,40
+608,Shining Friendship,"The peacemaker
+among monsters.",Sun,Uranus,4,Fairy,Light,1300,1100,82085619,120,1,0,0,0,0,0,0,0,0,0,0,0,0,608,552,316,261,314,359,40
+609,Bladefly,"A monster fly
+that swoops down
+with sharp
+sword-like arms
+extended out front.",Jupiter,Moon,2,Insect,Wind,600,700,28470714,30,0,0,0,0,0,0,0,0,0,0,0,0,0,609,69,536,538,501,370,52
+610,Electric Lizard,"A lizard
+that discharges
+electricity stored
+in its body.",Pluto,Sun,3,Thunder,Earth,850,800,55875323,35,0,0,0,0,0,0,0,0,0,0,0,0,0,610,174,499,440,459,494,49
+611,Hiro's Shadow Scout,"A servant of fiends
+used primarily for
+scouting an area.",Moon,Saturn,2,Fiend,Dark,650,500,81863068,25,0,0,0,0,0,0,0,0,1,0,0,0,0,611,284,559,524,555,294,53
+612,Lady of Faith,"Soothes the souls of
+others by chanting
+a mysterious spell.",Sun,Pluto,3,Spellcaster,Light,1100,800,17358176,50,0,0,0,0,0,0,1,0,0,0,0,0,0,612,348,409,352,444,56,44
+613,Twin-headed Thunder Dragon,"A two-headed Thunder
+Dragon capable of
+powerful electric
+attacks.",Pluto,Moon,7,Thunder,Light,2800,2100,54752875,1900,0,0,0,0,0,0,0,0,0,0,0,0,0,613,654,16,13,39,505,8
+614,Hunter Spider,"A hunter that uses
+its spider web to
+entrap its enemies.",Jupiter,Venus,5,Insect,Earth,1600,1400,80141480,200,0,0,0,0,0,0,0,0,0,0,0,0,0,614,296,194,159,198,381,33
+615,Armored Starfish,"A bluish starfish
+with a solid hide
+capable of fending
+off attacks.",Neptune,Moon,4,Aqua,Water,850,1400,17535588,70,0,1,0,0,0,0,0,0,0,0,0,0,0,615,34,290,437,220,512,38
+616,Hourglass of Courage,"A fairy that
+controls the
+feelings of others,
+instilling them
+with bravery.",Sun,Neptune,4,Fairy,Light,1100,1200,43530283,80,1,0,0,0,0,0,0,0,0,0,0,0,0,616,292,347,338,291,349,42
+617,Marine Beast,"A sea creature
+with sharp teeth
+that won't release
+a victim once
+they're locked on.",Neptune,Mercury,5,Fish,Water,1700,1600,29929832,290,0,1,0,0,0,0,0,0,0,0,0,0,0,617,390,165,132,140,436,30
+618,Warrior of Tradition,"A lady warrior
+drenched in the 
+essence from
+a thousand
+battlefields.",Mercury,Mars,6,Warrior,Earth,1900,1700,56413937,400,0,0,1,0,0,0,1,0,0,0,0,0,0,618,673,115,86,120,189,26
+619,Rock Spirit,"A clay idol
+representing a rock
+spirit. The creature
+has significant
+attack and defense
+factors.",Uranus,Mars,5,Spellcaster,Earth,1650,1900,82818645,350,0,0,0,0,0,0,0,0,0,0,0,0,0,619,528,116,141,82,76,26
+620,Snakeyashi,"A creature made up
+of several snakes
+that attack
+separately in battle.",Jupiter,Mercury,4,Plant,Earth,1000,1200,29802344,70,0,0,0,0,0,0,0,0,0,0,0,0,0,620,567,362,370,297,618,42
+621,Succubus Knight,"A vile
+warrior wizard
+adept at casting
+doom-dealing spells.",Mercury,Jupiter,5,Warrior,Dark,1650,1300,55291359,180,0,0,1,0,0,0,1,0,0,0,0,0,0,621,592,186,147,230,178,31
+622,Ill Witch,"Controls air
+currents and
+can generate
+a sudden gust
+of wind to blow
+away an opponent.",Sun,Venus,5,Spellcaster,Light,1600,1500,81686058,230,0,0,0,0,0,0,1,0,0,0,0,0,0,622,301,189,154,171,52,33
+623,The Thing That Hides in the Mud,"The appearance
+of this creature
+is preceded by the
+ground melting under
+an opponent's feet.",Uranus,Jupiter,4,Rock,Earth,1200,1300,18180762,100,0,0,0,0,0,0,0,0,0,0,0,0,0,623,626,309,296,244,599,40
+624,High Tide Gyojin,"An amphibian warrior
+that can easily
+navigate beneath
+the waters.",Neptune,Mercury,5,Aqua,Water,1650,1300,54579801,180,0,1,0,0,0,0,0,0,0,0,0,0,0,624,281,185,146,229,529,31
+625,Fairy of the Fountain,"A fairy dedicated to
+protecting fountains
+from pollution.",Neptune,Venus,4,Aqua,Water,1600,1100,81563416,140,0,1,0,0,0,0,1,0,0,0,0,0,0,625,189,208,170,308,520,33
+626,Amazon of the Seas,"A mermaid sentry
+serving the Sea King
+and his kingdom.",Neptune,Mars,4,Fish,Water,1300,1400,17968114,140,0,0,0,0,0,0,1,0,0,0,0,0,0,626,11,261,249,203,428,38
+627,Nekogal #2,"This fast creature
+can easily elude
+enemy attacks and
+counter them with
+its vicious claws.",Jupiter,Uranus,6,Beast-Warrior,Earth,1900,2000,43352213,550,0,0,0,0,0,0,1,0,0,0,0,0,0,627,461,76,80,56,199,23
+628,Witch's Apprentice,"An inexperienced
+witch who just
+started learning
+the mystic arts.",Mercury,Saturn,2,Spellcaster,Dark,550,500,80741828,999999,1,0,1,0,0,0,1,0,0,0,0,0,0,628,699,574,553,561,88,55
+629,Armored Rat,"A rat
+that is protected
+by armor-like fur.",Jupiter,Pluto,3,Beast,Earth,950,1100,16246527,55,0,0,0,0,0,0,0,0,0,0,0,0,1,629,33,401,396,319,209,44
+630,Ancient Lizard Warrior,"A powerful,
+prehistoric
+lizard warrior.",Neptune,Saturn,4,Reptile,Earth,1400,1100,43230671,100,0,1,0,0,0,0,0,0,0,0,0,0,0,630,17,283,228,310,415,38
+631,Maiden of the Moonlight,"A lunar sorcerer
+that uses mystical
+spells to induce
+hallucinations.",Moon,Venus,4,Spellcaster,Light,1500,1300,79629370,160,1,0,0,0,0,0,1,0,0,0,0,0,0,631,383,224,188,235,65,36
+632,Stone Ogre Grotto,"A rock giant
+consisting of
+massive boulders.",Uranus,Sun,5,Rock,Earth,1600,1500,15023985,230,0,0,0,0,0,0,0,0,0,0,0,0,0,632,589,190,155,172,597,33
+633,Winged Egg of New Life,"A messenger of
+newborn life.",Sun,Mars,5,Fairy,Light,1400,1700,42418084,230,1,0,0,0,0,0,0,0,0,0,0,0,0,633,695,174,215,127,365,30
+634,Night Lizard,"A green-scaled
+lizard warrior
+dedicated to 
+protecting the sea.",Neptune,Jupiter,4,Aqua,Water,1150,1300,78402798,120,0,1,0,0,0,0,0,0,0,0,0,0,0,634,463,311,330,246,538,40
+635,Queen's Double,"Not very useful
+double of a queen.",Uranus,Moon,1,Warrior,Earth,350,300,5901497,15,0,0,0,0,0,0,1,0,0,0,0,0,0,635,506,604,593,598,172,59
+636,Blue-winged Crown,"A bird that glows
+with blue flames and
+has a head of hair
+shaped like a crown.",Saturn,Venus,4,Winged Beast,Wind,1600,1200,41396436,160,0,0,0,0,0,1,0,0,0,0,0,0,0,636,75,202,164,263,248,33
+637,Trent,"A protector
+of the forest,
+this massive tree
+continues to grow.",Jupiter,Sun,5,Plant,Earth,1500,1800,78780140,290,0,0,0,0,0,0,0,0,0,0,0,0,0,637,643,147,185,106,620,28
+638,Queen of Autumn Leaves,"Queen of the
+Tree Spirit
+who is embraced
+by brilliant
+autumn leaves.",Jupiter,Moon,5,Plant,Earth,1800,1500,4179849,290,0,0,0,0,0,0,1,0,0,0,0,0,0,638,505,145,112,164,615,28
+639,Amphibious Bugroth,"A Bugroth unit
+modified for
+underwater warfare.",Neptune,Sun,5,Aqua,Water,1850,1300,40173854,230,0,0,0,0,0,0,0,0,0,0,0,0,0,639,13,126,95,227,509,27
+640,Acid Crawler,"A gigantic
+caterpillar that
+spits acid capable
+of melting
+almost anything.",Jupiter,Venus,3,Insect,Earth,900,700,77568553,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,640,4,474,420,484,366,48
+641,Invader of the Throne,"A scheming queen
+who covets
+the king's throne
+during his absence.",Uranus,Venus,5,Warrior,Earth,1350,1700,3056267,200,0,0,0,0,0,0,1,0,0,0,0,0,0,641,306,175,236,128,150,30
+642,Mystical Sheep #1,"A black-haired sheep
+that is capable
+of sorcery.",Venus,Saturn,3,Beast,Earth,1150,900,30451366,55,0,0,0,0,0,0,0,0,0,0,0,0,1,642,454,393,332,397,232,43
+643,Disk Magician,"A creature that
+hides in a saucer
+and appears only to
+attack enemies.",Moon,Uranus,4,Machine,Dark,1350,1000,76446915,80,0,0,0,0,0,0,0,0,0,0,0,0,0,643,152,300,241,335,462,39
+644,Flame Viper,"A very swift,
+fire-breathing viper.",Mars,Pluto,2,Pyro,Earth,400,450,2830619,20,0,0,0,0,0,0,0,0,0,0,1,0,0,644,211,590,584,568,573,57
+645,Royal Guard,"Mechanical soldier
+with a mind
+of its own.
+Originally created
+to protect members
+of the royal family.",Uranus,Mercury,6,Machine,Earth,1900,2200,39239728,700,0,0,0,0,0,0,0,0,0,0,0,0,0,645,532,53,79,33,486,19
+646,Gruesome Goo,"Looks like any other
+slime,
+but definitely
+much more powerful!",Neptune,Moon,3,Aqua,Water,1300,700,65623423,55,0,1,0,0,0,0,0,0,0,0,0,0,0,646,264,333,271,473,527,40
+647,Hyosube,"This amphibian
+creature boasts
+a high attack factor,
+but not much of one
+for defense.",Neptune,Venus,4,Aqua,Water,1500,900,2118022,120,0,1,0,0,0,0,0,0,0,0,0,0,0,647,299,249,204,381,531,36
+648,Machine Attacker,"A machine designed
+to blitz its enemies.",Moon,Neptune,5,Machine,Earth,1600,1300,38116136,180,0,0,0,0,0,0,0,0,0,0,0,0,0,648,374,198,161,231,474,33
+649,Hibikime,"Confuses enemy
+monsters with noise
+that is harsh
+to the ears.",Mercury,Uranus,4,Warrior,Earth,1450,1000,64501875,120,0,0,1,0,0,0,1,0,0,0,0,0,0,649,280,257,211,330,147,37
+650,Whiptail Crow,"Attacks from the
+skies with
+a whip-like tail.",Moon,Mercury,5,Fiend,Dark,1650,1600,91996584,260,0,0,0,0,0,0,0,0,0,0,0,0,0,650,683,183,145,142,334,31
+651,Kunai with Chain,"A boomerang
+featuring the
+effects of two
+cards: the Legendary
+Sword and the Sword
+of Dark Destruction.",,,,Equip,,0,0,37390589,800,0,0,0,0,0,0,0,0,0,0,0,0,0,651,340,674,674,674,705,63
+652,Magical Labyrinth,"A card for boosting
+the power of the
+Labyrinth Wall.",,,,Equip,,0,0,64389297,10,0,0,0,0,0,0,0,0,0,0,0,0,0,652,379,678,678,678,709,63
+653,Warrior Elimination,"Destroys all
+opponent Warrior
+cards played
+on the field.",,,,Magic,,0,0,90873992,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,653,672,716,716,716,652,64
+654,Salamandra,"Increases the
+strength of those
+who control the
+power of Salamandra.",,,,Equip,,0,0,32268901,800,0,0,0,0,0,0,0,0,0,0,0,0,0,654,538,697,697,697,716,63
+655,Cursebreaker,"Cancels the magic
+over all 
+level-reduced
+monsters and sets
+them at level 0.",,,,Magic,,0,0,69666645,10,0,0,0,0,0,0,0,0,0,0,0,0,0,655,116,639,639,639,624,64
+656,Eternal Rest,"Eliminates all
+Zombie creatures.",,,,Magic,,0,0,95051344,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,656,185,654,654,654,631,64
+657,Megamorph,"A card that
+increases the power
+of any selected
+monster by 2 levels.",,,,Equip,,0,0,22046459,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,657,406,680,680,680,711,63
+658,Metalmorph,"A card that changes
+any selected monster
+to a Machine monster.",,,,Equip,,0,0,68540058,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,658,414,681,681,681,712,63
+659,Winged Trumpeter,"A horn that
+increases the power
+of Fairy creatures.",,,,Equip,,0,0,94939166,800,0,0,0,0,0,0,0,0,0,0,0,0,0,659,696,719,719,719,722,63
+660,Stain Storm,"Acid rain destroys
+an opponent's
+Machine monsters.",,,,Magic,,0,0,21323861,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,660,581,704,704,704,647,64
+661,Crush Card,"Opponent monsters
+in play with attack
+factors of 1500 or
+more are eliminated.",,,,Magic,,0,0,57728570,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,661,112,636,636,636,623,64
+662,Eradicating Aerosol,"An insecticide for
+wiping out an
+opponent's Insect
+monsters that are
+currently in play.",,,,Magic,,0,0,94716515,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,662,183,652,652,652,629,64
+663,Breath of Light,"A magic wind that
+reduces to rubble an
+opponent's Rock
+monsters that are
+currently in play.",,,,Magic,,0,0,20101223,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,663,85,631,631,631,622,64
+664,Eternal Draught,"A blast of heat
+dries up
+and eliminates
+an opponent's Fish
+monsters that are
+currently in play.",,,,Magic,,0,0,56606928,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,664,184,653,653,653,630,64
+665,Curse of Millennium Shield,"Sacrifices the
+monster with the
+highest defense 
+rating and summons
+Shield.",,,,Ritual,,0,0,83094937,10,0,0,0,0,0,0,0,0,0,0,0,0,0,665,114,637,637,637,670,65
+666,Yamadron Ritual,"Sacrifices
+Beast-Warrior,
+Dragon,
+and Pyro monsters
+to summon Yamadron.",,,,Ritual,,0,0,29089635,10,0,0,0,0,0,0,0,0,0,0,0,0,0,666,710,720,720,720,687,65
+667,Gate Guardian Ritual,"Sacrifices Kazejin,
+Suijin, and Sanga of
+the Thunder to
+summon Gate Guardian.",,,,Ritual,,0,0,56483330,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,667,232,661,661,661,675,65
+668,Bright Castle,"A glaring light that
+increases the power
+of all monsters.",,,,Equip,,0,0,82878489,800,0,0,0,0,0,0,0,0,0,0,0,0,0,668,86,632,632,632,693,63
+669,Shadow Spell,"Decreases an
+opponent's in-play
+monsters by two
+levels.",,,,Magic,,0,0,29267084,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,669,551,698,698,698,642,64
+670,Black Luster Ritual,"Ceremony conducted
+to summon
+Black Luster Soldier.
+Sacrifice required.",,,,Ritual,,0,0,55761792,100,0,0,0,0,0,0,0,0,0,0,0,0,0,670,65,628,628,628,666,65
+671,Zera Ritual,"Ceremony conducted
+to summon Zera.
+Sacrifice required.",,,,Ritual,,0,0,81756897,100,0,0,0,0,0,0,0,0,0,0,0,0,0,671,718,722,722,722,688,65
+672,Harpie's Feather Duster,"Destroys all
+opponent Magic cards
+that are in play.",,,,Magic,,0,0,18144506,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,672,276,665,665,665,635,64
+673,War-lion Ritual,"Ceremony conducted
+to summon War Lion.
+Sacrifice required.",,,,Ritual,,0,0,54539105,100,0,0,0,0,0,0,0,0,0,0,0,0,0,673,671,715,715,715,686,65
+674,Beastry Mirror Ritual,"Ceremony conducted
+to summon
+Fiend's Mirror.
+Sacrifice required.",,,,Ritual,,0,0,81933259,100,0,0,0,0,0,0,0,0,0,0,0,0,0,674,55,627,627,627,665,65
+675,Ultimate Dragon,"Sacrifice three
+Blue-eyes to summon
+Ultimate Dragon.",,,,Ritual,,0,0,17928958,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,675,659,711,711,711,685,65
+676,Commencement Dance,"Sacrifice Dancer and
+Warrior to summon
+Performance of Sword.",,,,Ritual,,0,0,43417563,50,0,0,0,0,0,0,0,0,0,0,0,0,0,676,100,633,633,633,667,65
+677,Hamburger Recipe,"A card with
+the ingredients
+for making a
+delicious hamburger.",,,,Ritual,,0,0,80811661,50,0,0,0,0,0,0,0,0,0,0,0,0,0,677,269,664,664,664,676,65
+678,Revival of Sennen Genjin,"Sacrifice
+Beast-Warrior and
+Golem to summon
+Sengenjin.",,,,Ritual,,0,0,16206366,100,0,0,0,0,0,0,0,0,0,0,0,0,0,678,519,694,694,694,681,65
+679,Novox's Prayer,"Sacrifice Warrior
+and Scythe Wielder
+to summon
+Skull Guardian.",,,,Ritual,,0,0,43694075,50,0,0,0,0,0,0,0,0,0,0,0,0,0,679,466,685,685,685,678,65
+680,Curse of Tri-Horned Dragon,"Sacrifice a horned
+monster to summon
+Tri-Horned Dragon.",,,,Ritual,,0,0,79699070,50,0,0,0,0,0,0,0,0,0,0,0,0,0,680,115,638,638,638,671,65
+681,House of Adhesive Tape,"Monsters
+with Attack Factors
+of 500 or lower
+are eliminated
+from the play field.",,,,Trap,,0,0,15083728,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,681,294,669,669,669,661,62
+682,Eatgaboon,"Monsters
+with Attack Factors
+of 1000 or lower
+are eliminated
+from the play field.",,,,Trap,,0,0,42578427,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,682,172,648,648,648,658,62
+683,Bear Trap,"When an opposing
+monster's Attack
+Factor is
+1500 or lower,
+it is eliminated
+from the play field.",,,,Trap,,0,0,78977532,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,683,52,625,625,625,657,62
+684,Invisible Wire,"When an opposing
+monster's Attack
+Factor is
+2000 or lower,
+it is eliminated
+from the play field.",,,,Trap,,0,0,15361130,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,684,308,672,672,672,662,62
+685,Acid Trap Hole,"When an opposing
+monster's Attack
+Factor is
+3000 or lower,
+it is eliminated
+from the play field.",,,,Trap,,0,0,41356845,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,685,5,622,622,622,655,62
+686,Widespread Ruin,"When an opponent's
+monster attacks,
+it is blown to
+smithereens and
+eliminated from
+the play field.",,,,Trap,,0,0,77754944,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,686,688,718,718,718,664,62
+687,Goblin Fan,"Reflects the damage
+of direct attack
+cards like 
+Fire Sparks and
+Inferno back
+to your opponent.",,,,Trap,,0,0,4149689,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,687,246,662,662,662,660,62
+688,Bad Reaction to Simochi,"A card that reverses
+the effects of
+recovery cards and
+transforms the
+points to damage.",,,,Trap,,0,0,40633297,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,688,41,624,624,624,656,62
+689,Reverse Trap,"A card that reverses
+the effects of
+power-up cards
+and transforms 
+the effects
+to power reduction.",,,,Trap,,0,0,77622396,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,689,518,693,693,693,663,62
+690,Fake Trap,"A trap card
+for tricking
+your opponent.
+Nothing happens
+when it is attacked.",,,,Trap,,0,0,3027001,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,690,192,655,655,655,659,62
+691,Revived of Serpent Night Dragon,"Select a specific
+monster for
+sacrifice and summon
+Serpent Night Dragon.",,,,Ritual,,0,0,39411600,50,0,0,0,0,0,0,0,0,0,0,0,0,0,691,521,696,696,696,683,65
+692,Turtle Oath,"Sacrifice crab and
+turtle to summon
+Crab Turtle.",,,,Ritual,,0,0,76806714,100,0,0,0,0,0,0,0,0,0,0,0,0,0,692,648,710,710,710,684,65
+693,Contruct of Mask,"Sacrifice a masked
+one to summon a new
+mask.",,,,Ritual,,0,0,2304453,100,0,0,0,0,0,0,0,0,0,0,0,0,0,693,101,634,634,634,668,65
+694,Resurrection of Chakra,"Sacrifice 3 Fiend
+monsters to conduct
+the ritual for the
+Resurrection of
+Chakra.",,,,Ritual,,0,0,39399168,100,0,0,0,0,0,0,0,0,0,0,0,0,0,694,517,692,692,692,680,65
+695,Puppet Ritual,"Sacrifice Puppeteer
+and Machine monsters
+to summon the Puppet.",,,,Ritual,,0,0,5783166,50,0,0,0,0,0,0,0,0,0,0,0,0,0,695,503,688,688,688,679,65
+696,Javelin Beetle Pact,"Sacrifice the stag
+beetle and beetle
+to summon
+Javelin Beetle.",,,,Ritual,,0,0,41182875,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,696,310,673,673,673,677,65
+697,Garma Sword Oath,"Sacrifice the
+Ashura's Arm
+and Sword-wielder
+to summon.",,,,Ritual,,0,0,78577570,50,0,0,0,0,0,0,0,0,0,0,0,0,0,697,227,660,660,660,674,65
+698,Cosmo Queen's Prayer,"Sacrifice a normal
+Queen to summon
+Cosmo Queen.",,,,Ritual,,0,0,4561679,50,0,0,0,0,0,0,0,0,0,0,0,0,0,698,104,635,635,635,669,65
+699,Revival of Skeleton Rider,"Sacrifice Temple and
+Cockroach to summon
+Dokurorider.",,,,Ritual,,0,0,31066283,10,0,0,0,0,0,0,0,0,0,0,0,0,0,699,520,695,695,695,682,65
+700,Fortress Whale's Oath,"Sacrifice Horn and
+Machine Fish to
+summon Sea Fortress.",,,,Ritual,,0,0,77454922,10,0,0,0,0,0,0,0,0,0,0,0,0,0,700,217,659,659,659,673,65
+701,Performance of Sword,"A warrior dancer
+with fancy dance
+steps.",Sun,Saturn,6,Warrior,Earth,1950,1850,,,0,0,0,0,0,0,0,0,0,0,0,0,0,701,486,102,78,85,169,24
+702,Hungry Burger,"Attracts hungry
+enemies with tasty
+aromas and eats them
+when they get close
+enough.",Moon,Mars,6,Warrior,Dark,2000,1850,,,0,0,0,0,0,0,0,0,0,0,0,0,0,702,295,77,66,84,148,23
+703,Sengenjin,"A headstrong,
+primitive man
+equipped with 
+a Millennium Item.",Jupiter,Mercury,8,Beast-Warrior,Earth,2750,2500,,,0,0,0,0,0,0,0,0,0,0,0,0,0,703,546,17,14,12,204,9
+704,Skull Guardian,"A guardian of the
+law that doesn't
+forgive cheating.
+Attacks enemies with
+its sword-like arms.",Sun,Jupiter,7,Warrior,Light,2050,2500,,,0,0,0,0,0,0,0,0,0,0,0,0,0,704,559,30,59,16,174,13
+705,Tri-horned Dragon,"A wicked dragon
+with three horns
+protruding from
+its head.",Moon,Jupiter,8,Dragon,Dark,2850,2350,,,0,0,0,0,0,0,0,0,0,0,0,0,0,705,645,13,10,22,27,7
+706,Serpent Night Dragon,"A dragon created
+from the soul
+of a wicked knight.",Mercury,Pluto,7,Dragon,Dark,2350,2400,,,0,0,0,1,0,0,0,0,0,0,0,0,0,706,548,35,32,21,24,15
+707,Skull Knight,"A monk
+who has conducted
+several rituals
+in the netherworld,
+and who is capable
+of using both
+weapons and magic.",Mercury,Neptune,7,Spellcaster,Dark,2650,2250,2504891,999999,0,0,0,0,0,0,0,0,0,0,0,0,0,707,560,18,15,29,80,10
+708,Cosmo Queen,"A queen who rules
+over all the stars
+in the universe.",Venus,Uranus,8,Spellcaster,Dark,2900,2450,,,0,0,0,0,0,0,0,0,0,0,0,0,0,708,103,12,9,18,39,6
+709,Chakra,"A twisting shape
+that attacks with
+tentacle-like arms.",Mercury,Moon,7,Fiend,Dark,2450,2000,,,0,0,0,0,0,0,0,0,0,0,0,0,0,709,93,33,27,49,279,14
+710,Crab Turtle,"A creature with a
+turtle shell and
+crab scissors to
+provide high attack
+and defense factors.",Neptune,Jupiter,8,Aqua,Water,2550,2500,,,0,0,0,0,0,0,0,0,0,0,0,0,0,710,105,23,20,14,518,12
+711,Mikazukinoyaiba,"A dragon warrior
+armed with a
+crescent-shaped
+sword. Rumored to be
+from the moon.",Sun,Uranus,7,Dragon,Dark,2200,2350,38277918,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,711,419,39,42,23,18,16
+712,Meteor Dragon,"A dragon that
+arrived on earth
+by means of a comet
+that fell from
+the far reaches
+of space.",Uranus,Neptune,6,Dragon,Earth,1800,2000,64271667,999999,0,0,0,1,0,0,0,0,0,0,0,0,0,712,417,81,99,59,17,23
+713,Meteor B. Dragon,"With the burning
+hide of a meteorite,
+this creature
+vaporizes all that
+it touches.",Mars,Sun,8,Dragon,Fire,3500,2000,,,0,0,0,0,0,0,0,0,0,0,0,0,0,713,416,4,4,48,16,3
+714,Firewing Pegasus,"A heavenly stallion
+that flies
+across the skies
+on scarlet wings.",Mars,Moon,6,Beast,Fire,2250,1800,27054370,999999,0,0,0,0,0,0,0,0,0,0,1,0,0,714,205,49,40,88,214,18
+715,Psycho-Puppet,"A mysterious doll
+with a strange dance
+that robs the power
+of opposing monsters.",Moon,Saturn,7,Fiend,Dark,2000,2350,,,0,0,0,0,0,0,0,0,0,0,0,0,0,715,500,41,61,24,318,16
+716,Garma Sword,"A skilled warrior
+that wields six
+swords against
+opposing monsters.",Moon,Uranus,7,Warrior,Dark,2550,2150,,,0,0,0,0,0,0,0,0,0,0,0,0,0,716,226,25,21,36,140,12
+717,Javelin Beetle,"A creature with
+lethal scissors that
+cut through almost
+anything.",Jupiter,Uranus,8,Insect,Earth,2450,2550,,,0,0,0,0,0,0,0,0,0,0,0,0,0,717,309,24,26,8,383,12
+718,Fortress Whale,"A sea monster with
+a cannon mounted on
+its back to blow
+its enemies out
+of the water.",Neptune,Saturn,7,Fish,Water,2350,2150,,,0,0,0,0,0,0,0,0,0,0,0,0,0,718,216,40,33,37,433,16
+719,Dokurorider,"A lonely rider that
+races across the
+wasteland, raising
+thick clouds of dust.",Uranus,Mars,6,Zombie,Dark,1900,1850,,,0,0,0,0,0,0,0,0,0,0,0,0,0,719,156,105,81,86,96,26
+720,Mask of Shine & Dark,"A creature that
+twists the fabric of
+light and darkness
+to generate images
+to confuse opponents.",Venus,Pluto,6,Spellcaster,Dark,2000,1800,,,0,0,0,0,0,0,0,0,0,0,0,0,0,720,393,79,67,96,66,23
+721,Dark Magic Ritual,"Ceremony
+for summoning
+the Magician of
+Black Chaos.
+Sacrifice required.",,,,Ritual,,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,721,134,643,643,643,672,65
+722,Magician of Black Chaos,"The ultimate
+magic-user,
+who wields the power
+of chaos borne from
+the fusion of
+Dark and Light.",Mercury,Mars,8,Spellcaster,Dark,2800,2600,,,0,0,0,0,0,0,0,0,0,0,0,0,0,722,380,14,11,7,62,8

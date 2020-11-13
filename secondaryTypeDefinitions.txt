@@ -1,0 +1,145 @@
+[Sheepian] + Mystical Sheep #2 = Mystical Sheep #1 (1150/900)
+
+[FiendOrGS1Moon] + Mystical Sheep #2 
+                          = Mystical Sheep #1 (1150/900)
+                              < Nekogal #2 (1900/2000)
+                                Flame Cerebrus (2100/1800)
+                                Giga-tech Wolf (1200/1400)
+                                Tiger Axe (1300/1100)
+                                Flower Wolf (1800/1400)
+
+Sheepians are monsters with strictly less than 1150 attack points that
+- have primary type Fiend and are not Candle of Fate or Key Mace #2;
+- have first guardian star Moon and primary type Aqua, Beast,
+Beast-Warrior, Dinosaur, Dragon, Insect, Rock or Zombie or
+- are Blue-eyed Silver Zombie.
+-----------------------------------------------------------------
+[Thronian] + Protector of the Throne = Invader of the Throne (1350/1700)
+
+[FiendOrGS1MoonNotMoonEnvoy] + Protector of the Throne 
+                                  = Invader of the Throne (1350/1700)
+                                      < Charubin the Fire Knight (1100/800)
+                                        Dragon Statue (1100/900)
+                                        Zombie Warrior (1200/900)
+                                        D. Human (1300/1100)
+                                        Cyber Soldier (1500/1700)
+                                        Armored Zombie (1500/0)
+                                        Queen of Autumn Leaves (1800/1500)
+                                        Dark Witch (1800/1700)
+                                        Nekogal #2 (1900/2000)
+                                        Mystical Sand (2100/1700)
+
+Thronians are monsters with strictly less than 1350 attack points that
+- have primary type Fiend and are not Candle of Fate;
+- have first guardian star Moon and primary type Aqua, Beast, Beast-Warrior,
+Dinosaur, Insect or Warrior and are not Air Marmot of Nefariousness, Obese 
+Marmot of Nefariousness or Moon Envoy or
+- are Mammoth Graveyard.
+-----------------------------------------------------------------
+[Dragon] + [Koumorian]    = Koumori Dragon (1500/1200)
+                              < Dragoness the Wicked Knight (1200/900),
+                                D. Human (1300/1100),
+                                Tiger Axe (1300/1100)
+
+[Dragon] + ([GS1MoonNotFairy] u {Kuriboh, Mammoth Graveyard})
+                          = Koumori Dragon (1500/1200)
+                              < Dragon Statue (1100/900),
+                                Dragoness the Wicked Knight (1200/900),
+                                D. Human (1300/1100),
+                                Tiger Axe (1300/1100),
+                                Bean Soldier (1400/1300),
+                                Cyber Soldier (1500/1700),
+                                Dragon Zombie (1600/0),
+                                Spike Seadra  (1600/1300),
+                                Sword Arm of Dragon (1750/2030),
+                                Metal Dragon  (1850/1700),
+                                Stone D. (2000/2300),
+                                B. Dragon Jungle King (2100/1800)
+
+Koumorians are monsters with strictly less than 1500 attack points that
+- have first guardian star Moon and primary type Beast, Beast-Warrior, Dinosaur,
+Dragon, Fiend or Insect or
+- are Kuriboh or Mammoth Graveyard.
+-----------------------------------------------------------------
+[Bugrothian] + Ground Attacker Bugroth
+                          = Amphibious Bugroth (1850/1300 Neptune/Sun)
+
+[AquaOrGS1Neptune] + Ground Attacker Bugroth
+                          = Amphibious Bugroth (1850/1300 Neptune/Sun)
+                              < Metal Fish (1600/1900),
+                                Metal Dragon (1850/1700)
+
+Bugrothians are monsters with strictly less than 1850 attack points that have primary
+type Aqua or first guardian star Neptune and that are not Fish with strictly
+less than 1600 attack points nor Sea Serpents.
+-----------------------------------------------------------------
+[MercuryMagicUser] + [Dragon]
+                          = Blackland Fire Dragon (1500/800)
+                              < Dragon Zombie (1600/0),
+                                Dragon Statue (1100/900),
+                                Dragoness the Wicked Knight (1200/900),
+                                D. Human (1300/1100),
+                                Sword Arm of Dragon (1750/2030)
+[MercuryMagicUser] + [Elf]   = Dark Elf (2000/800)
+
+[MercurySpellcaster] + [Jar] = Ushi Oni (2150/1950)
+                              < Mystical Sand (2100/1700)     
+[MercurySpellcaster] + [Machine]
+                          = Disk Magician (1350/1000)
+[MercurySpellcaster] + Ryu-kishin 
+                          = Ryu-kishin Powered (1600/1200)
+
+MercuryMagicUsers are
+- monsters that have Mercury as their first guardian star with attack strictly
+less than 2000, except Mammoth Graveyard, Kuriboh, Dark Chimera and
+Man-eating Plant
+- Guardian of the Labyrinth
+- optionally, monsters with Mercury as their first guardian star and attack
+greater than or equal to 2000 can be included, namely Chakra, Dark Elf
+Dark Magician, Gaia the Fierce Knight, Magician of Black Chaos,
+Mystical Sand, Serpent Night Dragon and Skull Knight
+
+MercurySpellcasters are monsters with Mercury as their first guardian star that have primary
+type Spellcaster and strictly less than 2150 attack points. Optionally,
+spellcasters with first guardian star Mercury and attack level greater than
+or equal to 2150 may be included, namely Dark Elf, Dark Magician,
+Kamion Wizard, Leo Wizard, Magician of Black Chaos and Skull Knight.
+Note that dark spellcasters are spellcasters that are also dark magic users, if
+we include Dark Elf as a dark magic user.
+
+All MercurySpellcasters can be equipped with Black Pendant, except Nemuriko
+There are 17 MercuryMagicUsers that can't be equipped with Black Pendant
+There are 77 cards that can be equipped with Black Pendant that aren't MercuryMagicUsers and a significant number of them have low attack
+-------------------------------------------------------------------------------------
+Materials that don't fuse with Machine Conversion Factory to yield Harpie's Feather Duster:
+
+**Bear Trap** (trap)
+Magical Labyrinth (equip)
+Eatgaboon (trap)
+House of Adhesive Tape (trap)
+Invisible Wire (trap)
+
+(traps or magical Labyrinth or harpie lady or harpie lady sisters) + {harpie lady, harpie lady sisters} = Harpie's Feather Duster
+
+invisible wire + flying penguin = duster
+
+bear trap + [FeatherFromBear] = duster
+machine conv factory + [FeatherFromMachine] = duster
+[FeatherFromHarpie] + {harpie lady, harpie lady sisters} = duster
+
+
+if something + bear trap = duster
+then something + machine conv factory = duster
+------------------------------------------------------------------------
+MystElfians are
+- monsters that have Sun as their first guardian star and strictly less
+than 800 attack points
+- Lunar Queen Elzaim
+------------------------------------------------------------------------
+MusKingians are monsters that fuse with Hibikime to become Musician King.
+Equivalently, these are monsters that have strictly less than 1750 attack points
+that
+- are non-Elves with first guardian star Sun and primary type Fairy, Spellcaster
+or Warrior that are not Ray & Temperature or
+- are Faith Bird, Guardian of the Throne Room, Lunar Queen Elzaim or Moon Envoy
+Note: don't forget about the two exact fusions that yield Musician King!

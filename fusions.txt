@@ -1,0 +1,437 @@
+General fusions and their conflicts:
+[AngelWinged] + [Egg]     = Winged Egg of New Life (1400/1700)
+                              < Mystical Elf (800/2000),
+                                Tiger Axe (1300/1100),
+                                Celtic Guardian (1400/1200),
+                                Dark Witch (1800/1700),
+                                Dark Elf (2000/800)
+[UsableBeast] + [Female]  = Nekogal #2 (1900/2000 Jupiter/Uranus)
+[UsableBeast] + [Machine] = Giga-tech Wolf (1200/1400 Jupiter/Uranus)
+                              < Flame Cerebrus (2100/1800)
+                          = Dice Armadillo (1650/1800 Jupiter/Pluto)
+                              < Flame Cerebrus (2100/1800)
+[UsableBeast] + [Plant]   = Flower Wolf (1800/1400 Jupiter/Sun)
+                              < Nekogal #2 (1900/2000),
+                                Flame Cerebrus (2100/1800)
+[UsableBeast] + [Pyro]    = Flame Cerebrus (2100/1800 Mars/Pluto)
+[UsableBeast] + [Warrior] = Tiger Axe (1300/1100 Jupiter/Neptune)
+                              < Nekogal #2 (1900/2000),
+                                Flame Cerebrus (2100/1800),
+                                
+
+[Aqua] + [Dragon]         = Spike Seadra (1600/1300 Pluto/Mercury)
+                          = Kairyu-shin (1800/1500 Neptune/Mars)
+                              < Flame Swordsman (1800/1600)
+[Turtle] + [Dragon]       = Sea King Dragon (2000/1700 Neptune/Mercury)
+                              < Spike Seadra (1600/1300),
+                                Kairyu-shin (1800/1500)
+[Aqua] + {Kappa Avenger, Psychic Kappa}
+                          = Hyosube (1500/900 Neptune/Venus)
+[Aqua] + [Thunder]        = Bolt Escargot (1400/1500 Pluto/Jupiter)
+
+[Beast] + [Fish]          = Tatsunootoshigo (1350/1600)
+                              < Nekogal #2 (1900/2000)
+                          = Rare Fish (1500/1200)
+                          = Marine Beast (1700/1600)
+                              < Nekogal #2 (1900/2000)
+[Beast] + Larvas          = Mon Larvas (1300/1400)
+[Beast] + [AngelWinged]   = Garvas (2000/1700 Jupiter/Pluto)
+                              < Mystical Sheep #1 (1150/900),
+                                Mon Larvas (1300/1400),
+                                Winged Egg of New Life (1400/1700),
+                                Dark Witch (1800/1700),
+                                Nekogal #2 (1900/2000)
+                                
+[Beast] + [Thunder]       = Tripwire Beast (1200/1300)
+[Beast] + [Turtle]        = Turtle Tiger (1000/1500)
+[Beast] + [Zombie]        = Shadow Specter (500/200)
+
+[MercuryMagicUser] + [Dragon]
+                          = Blackland Fire Dragon (1500/800)
+                              < Dragon Zombie (1600/0),
+                                Dragon Statue (1100/900),
+                                Dragoness the Wicked Knight (1200/900),
+                                D. Human (1300/1100),
+                                Sword Arm of Dragon (1750/2030)
+[MercuryMagicUser] + [Elf]   = Dark Elf (2000/800 Mercury/Jupiter)
+
+[MercurySpellcaster] + [Jar] = Ushi Oni (2150/1950 Jupiter/Venus)
+                              < Mystical Sand (2100/1700)     
+[MercurySpellcaster] + [Machine]
+                          = Disk Magician (1350/1000)
+[MercurySpellcaster] + Ryu-kishin 
+                          = Ryu-kishin Powered (1600/1200)
+
+[Dinosaur] + [Machine]    = Cyber Saurus (1800/1400 Uranus/Sun)
+
+[Dragon] + Harpie Lady    = Harpie's Pet Dragon (2000/2500 Saturn/Moon)
+
+[Dragon] + [Koumorian]    = Koumori Dragon (1500/1200)
+                              < Dragoness the Wicked Knight (1200/900),
+                                D. Human (1300/1100),
+                                Tiger Axe (1300/1100)
+
+[Dragon] + [Machine]      = Metal Dragon (1850/1700 Mars/Moon)
+                              < Cyber Soldier (1500/1700),
+                                Cyber Saurus (1800/1400),
+                                Flame Swordsman (1800/1600)
+[Dragon] + [Plant]        = B. Dragon Jungle King (2100/1800 Jupiter/Neptune)
+                              < Bean Soldier (1400/1300),
+                                Flame Swordsman (1800/1600),
+                                Pumpking the King of Ghosts (1800/2000)
+[Dragon] + [Rock]         = Stone D. (2000/2300 Uranus/Mars)
+                             < Flame Swordsman (1800/1600)
+[Dragon] + [Thunder]      = Thunder Dragon (1600/1500 Pluto/Jupiter)
+                          = Twin-headed Thunder Dragon (2800/2100 Pluto/Moon)
+                              < Skelgon (1700/1900),
+                                Sword Arm of Dragon (1750/2030)
+[Dragon] + Time Wizard
+                          = Thousand Dragon (2400/2000 Mars/Mercury)
+[Dragon] + [Warrior]      = Dragon Statue (1100/900)
+                          = Dragoness the Wicked Knight (1200/900)
+                              < Flame Swordsman (1800/1600)
+                          = D. Human (1300/1100)
+                          = Sword Arm of Dragon (1750/2030 Uranus/Moon)
+                              < Skelgon (1700/1900),
+                                Flame Swordsman (1800/1600),
+                                Dark Elf (2000/800)
+[Dragon] + [Zombie]       = Dragon Zombie (1600/0 Moon/Pluto)
+                          = Skelgon (1700/1900 Moon/Pluto)
+                          = Curse of Dragon (2000/1500 Saturn/Pluto)
+                              < Sword Arm of Dragon (1750/2030),
+                                Twin-headed Thunder Dragon (2800/2100)
+
+[Elf] + [MystElfian]      = Mystical Elf (800/2000 Sun/Jupiter)
+
+[Elf] + [Warrior]         = Celtic Guardian (1400/1200)
+                              < Dark Elf (2000/800)
+
+[Fairy] + [Female]        = Dark Witch (1800/1700 Sun/Neptune)
+                              < Mystical Elf (800/2000),
+                                Celtic Guardian (1400/1200),
+                                Musician King (1750/1500),
+                                Queen of Autumn Leaves (1800/1500),
+                                Dark Elf (2000/800)
+
+[FeatherFromBear] + Bear Trap
+                          = Harpie's Feather Duster
+[FeatherFromMachine] + Machine Conversion Factory
+                          = Harpie's Feather Duster
+[FeatherFromHarpie] + {Harpie Lady, Harpie Lady Sisters}
+                          = Harpie's Feather Duster
+
+[Bugrothian] + Ground Attacker Bugroth
+                          = Amphibious Bugroth (1850/1300 Neptune/Sun)
+
+[MusKingian] + {Hibikime, Sonic Maid}
+                          = Musician King (1750/1500 Sun/Mars)
+
+[Female] + [Fish]         = Ice Water (1150/900)
+                              < Wow Warrior (1250/900),
+                                Tatsunootoshigo (1350/1600)   
+                          = Enchanting Mermaid (1200/900)
+                          = Amazon of the Seas (1300/1400)
+                              < Wow Warrior (1250/900),
+                                Tatsunootoshigo (1350/1600),
+                                Dark Witch (1800/1700),
+                                Queen of Autumn Leaves (1800/1500)
+
+[Female] + [Plant]        = Queen of Autumn Leaves (1800/1500 Jupiter/Moon)
+
+[Female] + [Rock]         = Mystical Sand (2100/1700 Mercury/Saturn)
+                              < Charubin the Fire Knight (1100/800),
+                                Flame Swordsman (1800/1600),
+                                B. Dragon Jungle King (2100/1800)
+
+[Fiend] + Arlownay        = Rose Spectre of Dunn (2000/1800)
+                              < Queen of Autumn Leaves (1800/1500)
+
+[Fiend] + Fungi of the Musk
+                          = Darkworld Thorns (1200/900)
+
+[Fiend] + Job-change Mirror
+                          = Summoned Skull (2500/1200 Moon/Pluto)
+                              < Darkworld Thorns (1200/900)
+
+[Fiend] + Psychic Kappa   = Kappa Avenger (1200/900)
+
+[Sheepian] + Mystical Sheep #2 = Mystical Sheep #1 (1150/900)
+
+[Thronian] + Protector of the Throne = Invader of the Throne (1350/1700)
+
+[Fish] + [Machine]        = Misairuzame (1400/1600)
+                          = Metal Fish (1600/1900 Neptune/Saturn)
+
+[Fish] + [Rainbow]        = 7 Colored Fish (1800/800 Neptune/Sun)
+                              < Queen of Autumn Leaves (1800/1500),
+                                Dark Witch (1800/1700)
+
+[Fish] + [Warrior]        = Wow Warrior (1250/900)
+
+[Fish] + [Zombie]         = Corroding Shark (1100/700)
+
+[Insect] + Kuwagata a     = Kwagar Hercules (1900/1700 Jupiter/Sun)
+
+[Insect] + [Warrior]      = Cockroach Knight (800/900)
+
+[Machine] + [Warrior]     = Cyber Soldier (1500/1700 Moon/Mars)
+                              < Charubin the Fire Knight (1100/800),
+                                Flame Swordsman (1800/1600)
+
+[Plant] + [Pyro]          = Firegrass (700/600)
+
+[Plant] + [Reptile]       = Snakeyashi (1000/1200)
+
+[Plant] + [Warrior]       = Bean Soldier (1400/1300)
+                              < Charubin the Fire Knight (1100/800),
+                                Flame Swordsman (1800/1600),
+                                Queen of Autumn Leaves (1800/1500)
+
+[Plant] + [Zombie]        = Wood Remains (1000/900)
+                          = Pumpking the King of Ghosts (1800/2000 Jup/Nep)
+
+[Pyro] + Fiend Kraken     = Fire Kraken (1600/1500)
+                              < Spike Seadra (1600/1300)
+
+[Pyro] + [Rock]           = Dissolverock (900/1000)
+                              < Stone Ghost (1200/1000),
+                                Minomushi Warrior (1300/1200)
+
+[Pyro] + [Turtle]         = Giant Turtle Who Feeds on Flames (1400/1800)
+                              < 30,000-Year White Turtle (1250/2100),
+                                Boulder Tortoise (1450/2200),
+                                Turtle Bird (1900/1700)
+
+[Pyro] + [Warrior]        = Charubin the Fire Knight (1100/800)
+                              < Zombie Warrior (1200/900),
+                                Queen of Autumn Leaves (1800/1500)
+                          = Flame Swordsman (1800/1600 Mars/Sun)
+                              < Zombie Warrior (1200/900),
+                                Armored Zombie (1500/0),
+                                Dragon Zombie (1600/0),
+                                Queen of Autumn Leaves (1800/1500)
+                          = Vermillion Sparrow (1900/1500 Mars/Venus)
+
+[Pyro] + [Winged Beast]   = Mavelus (1300/900)
+                          = Crimson Sunbird (2300/1800 Mars/Mercury)
+                              < Flame Swordsman (1800/1600),
+                                Vermillion Sparrow (1900/1500),
+                                Queen of Autumn Leaves (1800/1500),
+                                Harpie's Pet Dragon (2000/2500),
+                                Mystical Sand (2100/1700)
+
+[Pyro] + [Zombie]         = Fire Reaper (700/500)
+                          = Flame Ghost (1000/800)
+                              < Wood Remains (1000/900),
+                                Zombie Warrior (1200/900),
+                                Stone Ghost (1200/1000),
+                                Magical Ghost (1300/1400),
+                                The Snake Hair (1500/1200)
+
+[Reptile] + {Clown Zombie, Crass Clown}
+                          = Soul Hunter (2200/1800 Moon/Jupiter)
+[Reptile] + [Thunder]     = Electric Lizard (850/800)
+
+[Rock] + [Turtle]         = Boulder Tortoise (1450/2200)
+[Rock] + [Warrior]        = Minomushi Warrior (1300/1200)
+                              < Charubin the Fire Knight (1100/800),
+                                Flame Swordsman (1800/1600),
+                                Stone D. (2000/2300),
+                                Mystical Sand (2100/1700)
+                                
+[Rock] + [Zombie]         = Stone Ghost (1200/1000)
+
+[Spellcaster] + Mystic Lamp
+                          = Lord of the Lamp (1400/1200)
+                              < Dark Elf (2000/800)
+
+[Spellcaster] + Spike Seadra
+                          = Kaminari Attack (1900/1400 Pluto/Venus)
+                              < Thousand Dragon (2400/2000)
+[Spellcaster] + [Thunder] = The Immortal of Thunder (1500/1300 Pluto/Sun)
+                          = Kaminari Attack (1900/1400)
+                              < Thousand Dragon (2400/2000)
+
+[Spellcaster] + [Turtle]  = 30,000-Year White Turtle (1250/2100)
+
+[Spellcaster] + [Zombie]  = Magical Ghost (1300/1400)
+                               < Dark Elf (2000/800)
+
+[Turtle] + [Winged Beast] = Turtle Bird (1900/1700 Saturn/Mars)
+
+[Warrior] + The Judgement Hand
+                          = Judge Man (2200/1700 Sun/Saturn)
+                              < Sword Arm of Dragon (1750/2030),
+                                Musician King (1750/1500),
+                                Flame Swordsman (1800/1600),
+                                Vermillion Sparrow (1900/1500)
+[Warrior] + [Zombie]      = Zombie Warrior (1200/900)
+                              < Dragon Zombie (1600/0)
+                          = Armored Zombie (1500/0 Moon/Pluto)
+                              < Dragon Zombie (1600/0),
+                                Dark Elf (2000/800)
+
+[Winged Beast] + Boo Koo  = Spirit of the Books (1400/1200)
+[Winged Beast] + [Mirror] = Fiend Refrection #1 (1300/1400)      
+[Winged Beast] + Ryu-kishin
+                          = Whiptail Crow (1650/1600 Moon/Mercury)
+[Winged Beast] + The Judgement Hand
+                          = Punished Eagle (2100/1800 Saturn/Pluto)
+                              < Flame Swordsman (1800/1600)
+
+[Zombie] + Graveyard and the Hand of Invitation
+                          = The Snake Hair (1500/1200 Moon/Saturn)  
+[Zombie] + Mammoth Graveyard 
+                          = Great Mammoth of Goldfine (2200/1800 Moon/Pluto)
+-------------------------------------------------------------------------------
+Exact fusions:
+Dark Hole                + Stain Storm              = Acid Trap Hole
+Magician of Faith        + Metalmorph               = Ancient Elf
+Zanki                    + Warrior Elimination      = Armored Zombie
+Bear Trap                + Tiger Axe                = Axe of Despair
+Red-eyes B. Dragon       + Summoned Skull           = B. Skull Dragon
+Battle Ox                + Dragon Statue            = Baby Dragon
+Dragon Piper             + Orion the Battle King    = Baby Dragon
+Monster Egg              + The Wicked Worm Beast    = Baby Dragon
+Mooyan Curry             + Mooyan Curry             = Bad Reaction to Simochi
+Key Mace                 + Shadow Specter           = Battle Warrior
+Beast Fangs              + Megamorph                = Bear Trap
+Final Flame              + Ooguchi                  = Beast Fangs
+Dark Energy              + Elegant Egotist          = Beastry Mirror Ritual
+Cyber Shield             + Monster Tamer            = Beautiful Beast Trainer
+House of Adhesive Tape   + Monster Eye              = Big Eye
+Dark Energy              + Dark-piercing Light      = Black Luster Ritual
+Dark Energy              +Machine Conversion Factory= Black Pendant
+Boo Koo                  + Dark-piercing Light      = Book of Secret Arts
+Bad Reaction to Simochi  + Goblin Fan               = Breath of Light
+Follow Wind              + Wasteland                = Breath of Light
+Castle of Dark Illusions + Dark-piercing Light      = Bright Castle
+Crass Clown              + Final Flame              = Clown Zombie
+Akihiron                 + Giant Soldier of Stone   = Cocoon of Evolution
+Ansatsu                  + LaMoon                   = Cocoon of Evolution
+Darkfire Dragon          + Tiger Axe                = Cocoon of Evolution
+Koumori Dragon           + Summoned Skull           = Cocoon of Evolution
+Cyber Shield             + Winged Trumpeter         = Commencement Dance
+Elf's Light              + Malevolent Nuzzler       = Contruct of Mask
+Cyber Shield             + Malevolent Nuzzler       = Cosmo Queen's Prayer
+Metalmorph               + Vile Germs               = Crush Card
+Metalmorph               + Metalmorph               = Curse of Millennium Shield
+Elegant Egotist          + Horn of Light            = Curse of Tri-Horned Dragon
+Elegant Egotist          + Horn of the Unicorn      = Curse of Tri-Horned Dragon
+Elegant Egotist          + Key Mace                 = Cursebreaker
+Yami                     + Yami                     = Dark Energy
+Acid Trap Hole           + Dark Energy              = Dark Hole
+Widespread Ruin          + Zone Eater               = Darkfire Dragon
+Soul of the Pure         + Soul of the Pure         = Dian Keto the Cure Master
+Dragon Treasure          + Mooyan Curry             = Dragon Capture Jar
+Crawling Dragon          + Dragon Capture Jar       = Dragon Zombie
+Twin Long Rods #2        + Graveyard and the Hand of Invitation = Dragon Zombie
+Labyrinth Wall           + Zone Eater               = Dungeon Worm
+Beast Fangs              + Beast Fangs              = Eatgaboon
+Beautiful Beast Trainer  + Warrior Elimination      = Electro-whip
+Monster Tamer            + Warrior Elimination      = Electro-whip
+Electro-whip             + Job-change Mirror        = Elegant Egotist
+Electro-whip             + Wicked Mirror            = Elegant Egotist
+Electro-whip             + Fiend's Mirror           = Elegant Egotist
+Ancient Elf              + House of Adhesive Tape   = Elf's Light
+Follow Wind              + Goblin's Secret Remedy   = Eradicating Aerosol
+Goblin's Secret Remedy   +Machine Conversion Factory= Eradicating Aerosol
+Dark Hole                + Umi                      = Eternal Draught
+Mystical Moon            + Umi                      = Eternal Draught
+Tremendous Fire          + Umi                      = Eternal Draught
+Elf's Light              + Silver Bow and Arrow     = Eternal Rest
+Cursebreaker             + Spellbinding Circle      = Fake Trap
+Reverse Trap             + Widespread Ruin          = Fake Trap
+Hinotama                 + Hinotama                 = Final Flame
+Megamorph                + Vile Germs               = Forest
+Machine Conversion Factory+ Umi                     = Fortress Whale's Oath
+Curse of Dragon          + Gaia the Fierce Knight   = Gaia the Dragon Champion
+Elegant Egotist          + Legendary Sword          = Garma Sword Oath
+Magical Labyrinth        + Metalmorph               = Gate Guardian Ritual
+Breath of Light          + Follow Wind              = Goblin Fan
+Red Medicine             + Red Medicine             = Goblin's Secret Remedy
+Book of Secret Arts      + Mooyan Curry             = Hamburger Recipe
+Elegant Egotist          + Harpie Lady              = Harpie Lady Sisters
+Flying Penguin           + Invisible Wire           = Harpie's Feather Duster
+Sparks                   + Sparks                   = Hinotama
+Raise Body Heat          + Reverse Trap             = Horn of the Unicorn
+Eradicating Aerosol      + Magical Labyrinth        = House of Adhesive Tape
+Machine Conversion Factory+Hinotama             = Insect Armor with Laser Cannon
+Elegant Egotist          + Raigeki                  = Invigoration
+Black Pendant            + Yami                     = Invisible Wire
+Forest                   + Power of Kaishin         = Javelin Beetle Pact
+Darkfire Dragon          + Reverse Trap             = Kairyu-shin
+Final Flame              + Waterdragon Fairy        = Kairyu-shin
+Armed Ninja              + Sinister Serpent         = Korogashi
+Legendary Sword          + Sword of Dark Destruction= Kunai with Chain
+Machine Conversion Factory+ Violet Crystal          = Laser Cannon Armor
+Jirai Gumo               + Metalmorph               = Launcher Spider
+Flame Swordsman          + Umi                      = Legendary Sword
+House of Adhesive Tape   + Metalmorph               = Machine Conversion Factory
+Dian Keto the Cure Master+ Dian Keto the Cure Master= Megamorph
+Electro-whip             + Metal Guardian           = Metalmorph
+Machine Conversion Factory+ Metal Guardian          = Metalmorph
+Baby Dragon              + Metalmorph               = Metal Dragon
+Tongyo                   + Metalmorph               = Metal Fish
+Metalmorph               + Zoa                      = Metalzoa
+Meteor Dragon            + Red-eyes B. Dragon       = Meteor B. Dragon
+Celtic Guardian          + Sonic Maid               = Musician King
+Ancient Elf              + Sonic Maid               = Musician King
+Blue-eyed Silver Zombie  + Mystical Sheep #2        = Mystical Sheep #1 
+Beautiful Beast Trainer  + Mooyan Curry             = Monster Tamer
+Eternal Rest             + Kunai with Chain         = Novox's Prayer
+Final Flame              + Final Flame              = Ookazi
+Breath of Light          + Umi                      = Power of Kaishin
+Metalmorph               + Stain Storm              = Puppet Ritual
+Battle Ox                + Mystic Horseman          = Rabid Horseman
+Electro-whip             + Metalmorph               = Raigeki
+Mooyan Curry             + Sparks                   = Raise Body Heat
+Koumori Dragon           + Saggi the Dark Clown     = Reaper of the Cards
+B. Dragon Jungle King    + Tyhone #2                = Red-eyes B. Dragon
+Blackland Fire Dragon    + Tyhone #2                = Red-eyes B. Dragon
+Darkfire Dragon          + Tyhone #2                = Red-eyes B. Dragon
+Malevolent Nuzzler       + Malevolent Nuzzler       = Resurrection of Chakra
+Cursebreaker             + Megamorph                = Reverse Trap
+Fake Trap                + Megamorph                = Reverse Trap
+Curse of Millennium Shield+ Puppet Ritual           = Revival of Sennen Genjin
+Elegant Egotist          + Mystical Moon            = Revival of Sennen Genjin
+Machine Conversion Factory+ Wasteland               = Revival of Skeleton Rider
+Dark Energy              + Dragon Treasure     = Revived of Serpent Night Dragon
+Legendary Sword          + Sparks                   = Salamandra
+Kuriboh                  + Skull Servant            = Shadow Specter
+Spellbinding Circle      + Spellbinding Circle      = Shadow Spell
+Goblin's Secret Remedy   + Goblin's Secret Remedy   = Soul of the Pure
+Winged Trumpeter         + Winged Trumpeter         = Soul of the Pure
+Acid Trap Hole           + Follow Wind              = Stain Storm
+Electro-whip             + Umi                      = Stain Storm
+Final Flame              + Monsturtle               = Steel Shell
+Millennium Shield        + Reverse Trap             = Stop Defense
+Time Wizard              + Embryonic Beast          = Summoned Skull
+Armored Zombie           + Eternal Rest             = Sword of Dark Destruction
+Dark-piercing Light      + Shadow Spell             = Swords of Revealing Light
+Ancient Brain            + Invisible Wire           = Tainted Wisdom
+Clown Zombie             + Kojikocy                 = The 13th Grave
+Dream Clown              + Mysterious Puppeteer     = The 13th Grave
+Ancient Jar              + Mystery Hand             = The Wicked Worm Beast
+Ancient Jar              + Fiend Sword              = Tiger Axe
+Petit Dragon             + Serpent Marauder         = Trakadon
+Ookazi                   + Ookazi                   = Tremendous Fire
+Fake Trap                + Steel Shell              = Turtle Oath
+Power of Kaishin         + Umi                      = Turtle Oath
+Dragon Treasure          + Megamorph                = Ultimate Dragon
+Crush Card               + Forest                   = Vile Germs
+Elegant Egotist          + Kuriboh                  = Vile Germs
+Breath of Light          + Prisman                  = Violet Crystal
+Beast Fangs              + Elegant Egotist          = War-lion Ritual
+Forest                   + Ookazi                   = Wasteland
+Aqua Snake               + Waterdragon Fairy        = Water Magician
+Dragon Capture Jar       + Tremendous Fire          = Widespread Ruin
+Machine Conversion Factory+ Silver Bow and Arrow    = Winged Trumpeter
+Armored Zombie           + Wood Clown               = Witty Phantom
+Djinn the Watcher of the Wind+ Wolf                 = Witty Phantom
+Gyakutenno Megami        + Weather Control          = Witty Phantom
+Oscillo Hero #2          + Spirit of the Harp       = Witty Phantom
+Elegant Egotist          + Wicked Dragon with the Ersatz Head= Yamadron
+Dragon Treasure          + Elegant Egotist          = Yamadron Ritual
+Dark Energy              + Malevolent Nuzzler       = Zera Ritual
+-------------------------------------------------------------------------------

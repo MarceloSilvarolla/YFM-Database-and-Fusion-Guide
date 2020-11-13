@@ -1,0 +1,27 @@
+Agora:
+- Tentar decorar fusões e jogar o jogo para ver se o guia está sendo útil e que melhoras posso fazer
+- Ver se o Attribute (Dark, Light, Fire, Earth, etc.) pode ser usado para determinar o tipo secundário de monstros. Obs.: só para ver o Attribute da carta apertando triângulo 
+- Verificar relação entre tipos secundários e vantagens/desvantagens de terreno
+- Ver se é possível uma fusão criar, p. ex., um Pyro sem que um dos ingredientes seja Pyro. Mesma pergunta para cada outro referenced set of cards.
+
+Ideias:
+- fazer mod de YFM ou app que ensina fusões:
+  - lista fusões possíveis agora Ex.: 1 + 2 = Mystical Sand, 2 + 5 + 3 = Twin-headed Thunder Dragon
+  - lista fusões possíveis no futuro. Ex.: 2 + 5 + Warrior = Vermillion Sparrow
+  - mostra tipos secundários
+
+Depois:
+- Para cada fusão A + B, dizer se o resultado é A e se o resultado é B.
+- Produzir visualização com ataques nas arestas (arestas = fusões, vértices = tipos de carta)
+- Considerar possibilidade de simplificar
+T_1 + T_2 = result
+            < conflict
+          = result2
+            < conflict2
+para
+T_1 + T_2 = result
+          = result2
+            < conflict, conflict2
+onde os conflitos se aplicam a todos os resultados.
+- testar planaridade do grafo de fusões: se for planar, desenhar. Caso contrário, arrumar outro jeito de desenhar
+- CSV from DBs, a folder containing generated CSVs, perhaps to be pivoted in Google Sheets or Excel, thus programmatically creating tables for farming like this one, from Grig: https://docs.google.com/spreadsheets/d/1tl6e0bi20es_9yRJgqdcxp7owjZ1MPF1y5gjCWRehIA/edit?usp=sharing.
