@@ -1,4 +1,5 @@
 The database YFM.db
+- can be found in the releases section;
 - is the main database that includes everything from FmDatabase.db and FmDatabaseWithGS.db from GenericMadScientist's "RNG Manipulation Script" files (https://www.dropbox.com/s/6dzr5hhokx4e86m/RNG%20Manipulation%20Script.zip?dl=0&file_subpath=%2FRNG+Manipulation+Script);
 - is created by running "Create main tables and views"/generateAndConcatenateSQLFiles.bat, attaching the two aforementioned databases to a new database in DB Browser for SQLite (https://sqlitebrowser.org/) and opening and running createAllTablesAndViews.sql within DB Browser
 
