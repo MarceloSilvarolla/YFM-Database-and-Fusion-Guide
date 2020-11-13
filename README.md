@@ -1,9 +1,12 @@
-The database YFM.db
-- can be found in the releases section;
+The **card database YFM.db**
+- can be found in the **releases section** to the right of this page;
 - is the main database that includes everything from FmDatabase.db and FmDatabaseWithGS.db from GenericMadScientist's "RNG Manipulation Script" files (https://www.dropbox.com/s/6dzr5hhokx4e86m/RNG%20Manipulation%20Script.zip?dl=0&file_subpath=%2FRNG+Manipulation+Script);
-- is created by running "Create main tables and views"/generateAndConcatenateSQLFiles.bat, attaching the two aforementioned databases to a new database in DB Browser for SQLite (https://sqlitebrowser.org/) and opening and running createAllTablesAndViews.sql within DB Browser
+- is created by running "Create main tables and views"/generateAndConcatenateSQLFiles.bat, attaching the two aforementioned databases to a new database in DB Browser for SQLite (https://sqlitebrowser.org/) and opening and running createAllTablesAndViews.sql within DB Browser.
 
-The guide FUSION_GUIDE.txt
+The **"Query database and create temporary tables" folder**
+- contains useful queries for the database, like getting all drops for a desired set of cards.
+
+The **guide FUSION_GUIDE.txt**
 - is the fusion guide I posted on GameFAQs (https://gamefaqs.gamespot.com/ps/561010-yu-gi-oh-forbidden-memories/faqs/78677);
 - was created by
   - copying and pasting DBirtolo's and Kingtut1's fusion rules into fusions.txt, with some minor modifications
@@ -17,8 +20,8 @@ The guide FUSION_GUIDE.txt
   - copying and pasting the output of printCardTypesByCard.py to the secondary card types by card section of FUSION_GUIDE.txt
 
 The guide FUSION_GUIDE_PLUS.txt
-- is exactly the FUSION_GUIDE.txt guide plus the primary and secondary types of each fusion result.
-- It is not posted to GameFAQs because of the 80-character-per-line limit.
+- is exactly the FUSION_GUIDE.txt guide plus the primary and secondary types of each fusion result;
+- has not been posted on GameFAQs because of the 80-character-per-line limit.
 
 The "Test definitively all fusions" folder
 - contains the script _generateCreatePredictedFusions.py that
@@ -28,9 +31,6 @@ The "Test definitively all fusions" folder
 
 The "Test preliminarily general fusions" folder
 - contains SQL code that was used to determine the conflicts of each fusion rule
-
-The "Query database and create temporary tables" folder
-- contains useful queries for the database, like getting all drops for a desired set of cards
 
 The "Visualize general and semi-general fusions" folder
 - is a work in progress
